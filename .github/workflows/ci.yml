@@ -27,7 +27,7 @@ jobs:
         run: "! git grep -nI $'\\xe2\\x80\\x94' -- . ':!package-lock.json'"
 
   python:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 # ubuntu-latest (26.04) ne fournit plus Python 3.9
     strategy:
       matrix:
         python: ["3.9", "3.13"]
