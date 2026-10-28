@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "simulateurs-fr",
-      "source": "./plugins/simulateurs-fr",
+      "source": "./",
       "description": "Salaire brut et net, indemnités, chômage, APL, freelance : les simulateurs de calculsalairebrutnet.fr (barèmes 2026).",
       "version": "1.1.0",
       "homepage": "https://www.calculsalairebrutnet.fr/integrer/ia",

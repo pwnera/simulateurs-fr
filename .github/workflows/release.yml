@@ -70,7 +70,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       # Le zip à importer dans claude.ai (Paramètres, Capacités, Skills), lié depuis calculsalairebrutnet.fr/integrer/ia.
-      - run: cd plugins/simulateurs-fr/skills && zip -r "$GITHUB_WORKSPACE/simulateurs-fr-skill.zip" simulateurs-fr
+      - run: cd skills && zip -r "$GITHUB_WORKSPACE/simulateurs-fr-skill.zip" simulateurs-fr
       - run: gh release upload "${{ needs.release-please.outputs.tag }}" simulateurs-fr-skill.zip --clobber
         env:
           GH_TOKEN: ${{ github.token }}

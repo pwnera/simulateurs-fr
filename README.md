@@ -18,7 +18,7 @@
 | [`packages/core`](packages/core) | Le moteur TypeScript, sans dépendance, hors ligne | npm `@calculsalairebrutnet/core` |
 | [`packages/mcp`](packages/mcp) | Le serveur MCP : HTTP sans état (Workers, Deno, Bun, Node 18+) ou stdio en local | npm `@calculsalairebrutnet/mcp` |
 | [`python`](python) | Le même moteur en Python 3.9+, sans dépendance | PyPI `calculsalairebrutnet` |
-| [`plugins/simulateurs-fr`](plugins/simulateurs-fr) | Plugin Claude Code : serveur MCP et skill | `/plugin install` |
+| [`skills`](skills), [`.mcp.json`](.mcp.json) | Plugin Claude Code et Cursor : serveur MCP et skill | `/plugin install` |
 | [`gemini-extension.json`](gemini-extension.json) | Extension Gemini CLI | `gemini extensions install` |
 | [`server.json`](server.json) | Fiche du registre MCP officiel | `fr.calculsalairebrutnet/simulateurs` |
 | [`fixtures`](fixtures) | 1 789 cas de référence produits par le moteur TypeScript | tests des deux langages |

@@ -37,7 +37,7 @@
         },
         {
           "type": "json",
-          "path": "plugins/simulateurs-fr/.claude-plugin/plugin.json",
+          "path": ".claude-plugin/plugin.json",
           "jsonpath": "$.version"
         },
         {
