@@ -1,0 +1,1287 @@
+[
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 0,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 76.59,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 76.59,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 76.59,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 0,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 189.57,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 189.57,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 189.57,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 0,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 153.19,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 153.19,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 153.19,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 0,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 189.57,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 189.57,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 0,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 0,
+   "bonification": 0,
+   "ressourcesRetenues": 0,
+   "forfaitLogement": 189.57,
+   "message": "La prime d'activité est réservée aux personnes qui ont des revenus d'activité."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 333.64,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 257.44,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 76.59,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 257.44,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 76.59,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 257.44,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 76.59,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 153.19,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 153.19,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 153.19,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 800,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 494.55,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 478.8,
+   "bonification": 18.24,
+   "ressourcesRetenues": 800,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 226.34,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 150.13,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 76.59,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 150.13,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 76.59,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 150.13,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 76.59,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 734.41,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 545.79,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 545.79,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 545.79,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 543.88,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 391.46,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 153.19,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 391.46,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 153.19,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 391.46,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 153.19,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 924.94,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 736.31,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 736.31,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1500,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 736.31,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 897.75,
+   "bonification": 191.45,
+   "ressourcesRetenues": 1500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 0,
+   "message": "Vos ressources dépassent le plafond pour votre composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 76.59,
+   "message": "Vos ressources dépassent le plafond pour votre composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 76.59,
+   "message": "Vos ressources dépassent le plafond pour votre composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": false,
+    "nbEnfants": 0,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": false,
+   "montantMensuelEstime": 0,
+   "montantForfaitaire": 638.28,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 76.59,
+   "message": "Vos ressources dépassent le plafond pour votre composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 383.86,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 195.23,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 195.23,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": false,
+    "nbEnfants": 2,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 195.23,
+   "montantForfaitaire": 1148.9,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 193.33,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 40.91,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 153.19,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 40.91,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 153.19,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": true,
+    "nbEnfants": 0,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 40.91,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 153.19,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 574.38,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "locataire-aide"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 385.76,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "proprietaire"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 385.76,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 2500,
+    "couple": true,
+    "nbEnfants": 2,
+    "logement": "heberge"
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 385.76,
+   "montantForfaitaire": 1340.39,
+   "partRevenus": 1496.25,
+   "bonification": 240.63,
+   "ressourcesRetenues": 2500,
+   "forfaitLogement": 189.57,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ },
+ {
+  "args": [
+   {
+    "revenusMensuels": 1100,
+    "revenusConjoint": 700,
+    "couple": true,
+    "autresRessources": 200,
+    "aideLogement": 150
+   }
+  ],
+  "result": {
+   "eligible": true,
+   "montantMensuelEstime": 126.55,
+   "montantForfaitaire": 957.42,
+   "partRevenus": 1077.3,
+   "bonification": 92.47,
+   "ressourcesRetenues": 2000,
+   "forfaitLogement": 0,
+   "message": "Estimation selon le barème officiel. La CAF calcule le montant sur la moyenne de vos revenus du trimestre précédent."
+  }
+ }
+]

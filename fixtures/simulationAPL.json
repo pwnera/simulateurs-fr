@@ -1,0 +1,2003 @@
+[
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 314.7,
+   "aideBrute": 316.28,
+   "loyerRetenu": 300,
+   "loyerPlafond": 336.97,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.0315,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 342.36,
+   "aideBrute": 344.08,
+   "loyerRetenu": 300,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 314.7,
+   "aideBrute": 316.28,
+   "loyerRetenu": 300,
+   "loyerPlafond": 406.4,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03343,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 342.36,
+   "aideBrute": 344.08,
+   "loyerRetenu": 300,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 308.41,
+   "aideBrute": 309.96,
+   "loyerRetenu": 293.68,
+   "loyerPlafond": 293.68,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.031349999999999996,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 342.36,
+   "aideBrute": 344.08,
+   "loyerRetenu": 300,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 314.7,
+   "aideBrute": 316.28,
+   "loyerRetenu": 300,
+   "loyerPlafond": 359.47,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03343,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 342.36,
+   "aideBrute": 344.08,
+   "loyerRetenu": 300,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 290.07,
+   "aideBrute": 291.53,
+   "loyerRetenu": 275.25,
+   "loyerPlafond": 275.25,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.03092,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 342.36,
+   "aideBrute": 344.08,
+   "loyerRetenu": 300,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 314.7,
+   "aideBrute": 316.28,
+   "loyerRetenu": 300,
+   "loyerPlafond": 333.67,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03343,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 0,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 342.36,
+   "aideBrute": 344.08,
+   "loyerRetenu": 300,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 162.22,
+   "aideBrute": 163.03,
+   "loyerRetenu": 300,
+   "loyerPlafond": 336.97,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.0315,
+   "participationPersonnelle": 193.26,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 318.97,
+   "aideBrute": 320.58,
+   "loyerRetenu": 300,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 63.51,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 228.25,
+   "aideBrute": 229.4,
+   "loyerRetenu": 300,
+   "loyerPlafond": 406.4,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03343,
+   "participationPersonnelle": 126.89,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 318.97,
+   "aideBrute": 320.58,
+   "loyerRetenu": 300,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 63.51,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 156.66,
+   "aideBrute": 157.44,
+   "loyerRetenu": 293.68,
+   "loyerPlafond": 293.68,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.031349999999999996,
+   "participationPersonnelle": 192.53,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 318.97,
+   "aideBrute": 320.58,
+   "loyerRetenu": 300,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 63.51,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 228.25,
+   "aideBrute": 229.4,
+   "loyerRetenu": 300,
+   "loyerPlafond": 359.47,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03343,
+   "participationPersonnelle": 126.89,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 318.97,
+   "aideBrute": 320.58,
+   "loyerRetenu": 300,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 63.51,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 140.4,
+   "aideBrute": 141.1,
+   "loyerRetenu": 275.25,
+   "loyerPlafond": 275.25,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.03092,
+   "participationPersonnelle": 190.44,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 318.97,
+   "aideBrute": 320.58,
+   "loyerRetenu": 300,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 63.51,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 228.25,
+   "aideBrute": 229.4,
+   "loyerRetenu": 300,
+   "loyerPlafond": 333.67,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03343,
+   "participationPersonnelle": 126.89,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 900,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 318.97,
+   "aideBrute": 320.58,
+   "loyerRetenu": 300,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 63.51,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 300,
+   "loyerPlafond": 336.97,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.0315,
+   "participationPersonnelle": 511.41,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 70.85,
+   "aideBrute": 71.21,
+   "loyerRetenu": 300,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 312.88,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 300,
+   "loyerPlafond": 406.4,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03343,
+   "participationPersonnelle": 464.54,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 70.85,
+   "aideBrute": 71.21,
+   "loyerRetenu": 300,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 312.88,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 293.68,
+   "loyerPlafond": 293.68,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.031349999999999996,
+   "participationPersonnelle": 509.16,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 70.85,
+   "aideBrute": 71.21,
+   "loyerRetenu": 300,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 312.88,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 300,
+   "loyerPlafond": 359.47,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03343,
+   "participationPersonnelle": 464.54,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 70.85,
+   "aideBrute": 71.21,
+   "loyerRetenu": 300,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 312.88,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 275.25,
+   "loyerPlafond": 275.25,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.03092,
+   "participationPersonnelle": 502.73,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 70.85,
+   "aideBrute": 71.21,
+   "loyerRetenu": 300,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 312.88,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 300,
+   "loyerPlafond": 333.67,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03343,
+   "participationPersonnelle": 464.54,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 300,
+    "revenusMensuels": 1800,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 70.85,
+   "aideBrute": 71.21,
+   "loyerRetenu": 300,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 40.01,
+   "tauxParticipation": 0.02469,
+   "participationPersonnelle": 312.88,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 351.48,
+   "aideBrute": 353.25,
+   "loyerRetenu": 336.97,
+   "loyerPlafond": 336.97,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.03235,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 554.99,
+   "aideBrute": 557.78,
+   "loyerRetenu": 525.97,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 52.28,
+   "tauxParticipation": 0.027770000000000003,
+   "participationPersonnelle": 52.28,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 420.57,
+   "aideBrute": 422.68,
+   "loyerRetenu": 406.4,
+   "loyerPlafond": 406.4,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03544,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 554.99,
+   "aideBrute": 557.78,
+   "loyerRetenu": 525.97,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 52.28,
+   "tauxParticipation": 0.027770000000000003,
+   "participationPersonnelle": 52.28,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 308.41,
+   "aideBrute": 309.96,
+   "loyerRetenu": 293.68,
+   "loyerPlafond": 293.68,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.031349999999999996,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 498,
+   "aideBrute": 500.5,
+   "loyerRetenu": 463.37,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 46.96,
+   "tauxParticipation": 0.026850000000000002,
+   "participationPersonnelle": 46.96,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 373.87,
+   "aideBrute": 375.75,
+   "loyerRetenu": 359.47,
+   "loyerPlafond": 359.47,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03455,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 498,
+   "aideBrute": 500.5,
+   "loyerRetenu": 463.37,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 46.96,
+   "tauxParticipation": 0.026850000000000002,
+   "participationPersonnelle": 46.96,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 290.07,
+   "aideBrute": 291.53,
+   "loyerRetenu": 275.25,
+   "loyerPlafond": 275.25,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.03092,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 465.57,
+   "aideBrute": 467.91,
+   "loyerRetenu": 427.75,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 43.93,
+   "tauxParticipation": 0.026330000000000003,
+   "participationPersonnelle": 43.93,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 348.2,
+   "aideBrute": 349.95,
+   "loyerRetenu": 333.67,
+   "loyerPlafond": 333.67,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 0,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03406,
+   "participationPersonnelle": 40.01,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 0,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 465.57,
+   "aideBrute": 467.91,
+   "loyerRetenu": 427.75,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 0,
+   "r0": 9148,
+   "p0": 43.93,
+   "tauxParticipation": 0.026330000000000003,
+   "participationPersonnelle": 43.93,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 194.89,
+   "aideBrute": 195.87,
+   "loyerRetenu": 336.97,
+   "loyerPlafond": 336.97,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.03235,
+   "participationPersonnelle": 197.39,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 528.69,
+   "aideBrute": 531.34,
+   "loyerRetenu": 525.97,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 52.28,
+   "tauxParticipation": 0.027770000000000003,
+   "participationPersonnelle": 78.72,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 328.92,
+   "aideBrute": 330.57,
+   "loyerRetenu": 406.4,
+   "loyerPlafond": 406.4,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03544,
+   "participationPersonnelle": 132.12,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 528.69,
+   "aideBrute": 531.34,
+   "loyerRetenu": 525.97,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 52.28,
+   "tauxParticipation": 0.027770000000000003,
+   "participationPersonnelle": 78.72,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 156.66,
+   "aideBrute": 157.44,
+   "loyerRetenu": 293.68,
+   "loyerPlafond": 293.68,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.031349999999999996,
+   "participationPersonnelle": 192.53,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 472.57,
+   "aideBrute": 474.94,
+   "loyerRetenu": 463.37,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 46.96,
+   "tauxParticipation": 0.026850000000000002,
+   "participationPersonnelle": 72.52,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 284.52,
+   "aideBrute": 285.95,
+   "loyerRetenu": 359.47,
+   "loyerPlafond": 359.47,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03455,
+   "participationPersonnelle": 129.81,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 472.57,
+   "aideBrute": 474.94,
+   "loyerRetenu": 463.37,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 46.96,
+   "tauxParticipation": 0.026850000000000002,
+   "participationPersonnelle": 72.52,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 140.4,
+   "aideBrute": 141.1,
+   "loyerRetenu": 275.25,
+   "loyerPlafond": 275.25,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.03092,
+   "participationPersonnelle": 190.44,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 440.63,
+   "aideBrute": 442.84,
+   "loyerRetenu": 427.75,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 43.93,
+   "tauxParticipation": 0.026330000000000003,
+   "participationPersonnelle": 69,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 260.12,
+   "aideBrute": 261.43,
+   "loyerRetenu": 333.67,
+   "loyerPlafond": 333.67,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 10100,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03406,
+   "participationPersonnelle": 128.53,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 900,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 440.63,
+   "aideBrute": 442.84,
+   "loyerRetenu": 427.75,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 10100,
+   "r0": 9148,
+   "p0": 43.93,
+   "tauxParticipation": 0.026330000000000003,
+   "participationPersonnelle": 69,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 336.97,
+   "loyerPlafond": 336.97,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.03235,
+   "participationPersonnelle": 524.13,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 1,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 249.61,
+   "aideBrute": 250.87,
+   "loyerRetenu": 525.97,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 52.28,
+   "tauxParticipation": 0.027770000000000003,
+   "participationPersonnelle": 359.19,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 406.4,
+   "loyerPlafond": 406.4,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03544,
+   "participationPersonnelle": 490.06,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 1,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 249.61,
+   "aideBrute": 250.87,
+   "loyerRetenu": 525.97,
+   "loyerPlafond": 525.97,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 52.28,
+   "tauxParticipation": 0.027770000000000003,
+   "participationPersonnelle": 359.19,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 293.68,
+   "loyerPlafond": 293.68,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.031349999999999996,
+   "participationPersonnelle": 509.16,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 2,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 202.74,
+   "aideBrute": 203.75,
+   "loyerRetenu": 463.37,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 46.96,
+   "tauxParticipation": 0.026850000000000002,
+   "participationPersonnelle": 343.71,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 359.47,
+   "loyerPlafond": 359.47,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03455,
+   "participationPersonnelle": 478.76,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 2,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 202.74,
+   "aideBrute": 203.75,
+   "loyerRetenu": 463.37,
+   "loyerPlafond": 463.37,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 46.96,
+   "tauxParticipation": 0.026850000000000002,
+   "participationPersonnelle": 343.71,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 275.25,
+   "loyerPlafond": 275.25,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.03092,
+   "participationPersonnelle": 502.73,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 3,
+    "couple": false,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 176.02,
+   "aideBrute": 176.91,
+   "loyerRetenu": 427.75,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 43.93,
+   "tauxParticipation": 0.026330000000000003,
+   "participationPersonnelle": 334.93,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 0
+   }
+  ],
+  "result": {
+   "aplEstimee": 0,
+   "aideBrute": 0,
+   "loyerRetenu": 333.67,
+   "loyerPlafond": 333.67,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 20200,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03406,
+   "participationPersonnelle": 472.54,
+   "degressivite": 0,
+   "eligible": false,
+   "message": "Vos ressources dépassent le seuil au-delà duquel l'aide au logement est nulle pour ce loyer et cette composition familiale."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 650,
+    "revenusMensuels": 1800,
+    "zone": 3,
+    "couple": true,
+    "nbEnfants": 2
+   }
+  ],
+  "result": {
+   "aplEstimee": 176.02,
+   "aideBrute": 176.91,
+   "loyerRetenu": 427.75,
+   "loyerPlafond": 427.75,
+   "forfaitCharges": 89.09,
+   "ressourcesRetenues": 20200,
+   "r0": 9148,
+   "p0": 43.93,
+   "tauxParticipation": 0.026330000000000003,
+   "participationPersonnelle": 334.93,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 450,
+    "revenusMensuels": 600,
+    "etudiant": true,
+    "boursier": false,
+    "colocation": false
+   }
+  ],
+  "result": {
+   "aplEstimee": 203.44,
+   "aideBrute": 204.47,
+   "loyerRetenu": 293.68,
+   "loyerPlafond": 293.68,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 8600,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.031349999999999996,
+   "participationPersonnelle": 145.5,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 450,
+    "revenusMensuels": 600,
+    "etudiant": true,
+    "boursier": false,
+    "colocation": true
+   }
+  ],
+  "result": {
+   "aplEstimee": 99.9,
+   "aideBrute": 100.4,
+   "loyerRetenu": 220.26,
+   "loyerPlafond": 220.26,
+   "forfaitCharges": 30.64,
+   "ressourcesRetenues": 8600,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.031349999999999996,
+   "participationPersonnelle": 145.5,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 450,
+    "revenusMensuels": 600,
+    "etudiant": true,
+    "boursier": true,
+    "colocation": false
+   }
+  ],
+  "result": {
+   "aplEstimee": 256.47,
+   "aideBrute": 257.76,
+   "loyerRetenu": 293.68,
+   "loyerPlafond": 293.68,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 6900,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.031349999999999996,
+   "participationPersonnelle": 92.21,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 450,
+    "revenusMensuels": 600,
+    "etudiant": true,
+    "boursier": true,
+    "colocation": true
+   }
+  ],
+  "result": {
+   "aplEstimee": 152.92,
+   "aideBrute": 153.69,
+   "loyerRetenu": 220.26,
+   "loyerPlafond": 220.26,
+   "forfaitCharges": 30.64,
+   "ressourcesRetenues": 6900,
+   "r0": 5235,
+   "p0": 40.01,
+   "tauxParticipation": 0.031349999999999996,
+   "participationPersonnelle": 92.21,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ },
+ {
+  "args": [
+   {
+    "loyerMensuel": 500,
+    "revenusMensuels": 0,
+    "ressourcesAnnuelles": 8000,
+    "nbPersonnes": 3
+   }
+  ],
+  "result": {
+   "aplEstimee": 356.72,
+   "aideBrute": 358.51,
+   "loyerRetenu": 359.47,
+   "loyerPlafond": 359.47,
+   "forfaitCharges": 61.29,
+   "ressourcesRetenues": 8000,
+   "r0": 7501,
+   "p0": 40.01,
+   "tauxParticipation": 0.03455,
+   "participationPersonnelle": 57.25,
+   "degressivite": 0,
+   "eligible": true,
+   "message": "Estimation selon le barème officiel. La CAF calculera le montant définitif à partir de vos ressources réelles des 12 derniers mois."
+  }
+ }
+]

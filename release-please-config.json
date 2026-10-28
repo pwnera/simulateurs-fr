@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "packages": {
+    ".": {
+      "release-type": "simple",
+      "package-name": "simulateurs-fr",
+      "include-component-in-tag": false,
+      "extra-files": [
+        { "type": "json", "path": "packages/core/package.json", "jsonpath": "$.version" },
+        { "type": "json", "path": "packages/mcp/package.json", "jsonpath": "$.version" },
+        { "type": "json", "path": "package-lock.json", "jsonpath": "$.packages['packages/core'].version" },
+        { "type": "json", "path": "package-lock.json", "jsonpath": "$.packages['packages/mcp'].version" },
+        { "type": "generic", "path": "packages/mcp/src/handler.ts" },
+        { "type": "toml", "path": "python/pyproject.toml", "jsonpath": "$.project.version" },
+        { "type": "json", "path": "plugins/simulateurs-fr/.claude-plugin/plugin.json", "jsonpath": "$.version" },
+        { "type": "json", "path": ".claude-plugin/marketplace.json", "jsonpath": "$.plugins[0].version" },
+        { "type": "json", "path": "gemini-extension.json", "jsonpath": "$.version" },
+        { "type": "json", "path": "server.json", "jsonpath": "$.version" }
+      ]
+    }
+  }
+}

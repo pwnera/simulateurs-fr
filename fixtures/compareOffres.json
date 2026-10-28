@@ -1,0 +1,88 @@
+[
+ {
+  "args": [
+   {
+    "brutMensuel": 3000,
+    "statut": "non-cadre"
+   },
+   {
+    "brutMensuel": 3200,
+    "statut": "cadre"
+   }
+  ],
+  "result": {
+   "netA": 28497.48,
+   "netB": 30332.16,
+   "ecart": 1834.68,
+   "meilleure": "B",
+   "detailA": {
+    "netMensuel": 2374.79,
+    "netPrimes": 0,
+    "valeurRtt": 0
+   },
+   "detailB": {
+    "netMensuel": 2527.68,
+    "netPrimes": 0,
+    "valeurRtt": 0
+   }
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 4000,
+    "statut": "cadre",
+    "primesAnnuelle": 5000,
+    "rttJours": 10
+   },
+   {
+    "brutMensuel": 4300,
+    "statut": "cadre"
+   }
+  ],
+  "result": {
+   "netA": 43292.67,
+   "netB": 40733.88,
+   "ecart": 2558.79,
+   "meilleure": "A",
+   "detailA": {
+    "netMensuel": 3159.61,
+    "netPrimes": 3941.16,
+    "valeurRtt": 1436.19
+   },
+   "detailB": {
+    "netMensuel": 3394.49,
+    "netPrimes": 0,
+    "valeurRtt": 0
+   }
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 2500,
+    "statut": "non-cadre"
+   },
+   {
+    "brutMensuel": 2500,
+    "statut": "non-cadre"
+   }
+  ],
+  "result": {
+   "netA": 23747.88,
+   "netB": 23747.88,
+   "ecart": 0,
+   "meilleure": "egal",
+   "detailA": {
+    "netMensuel": 1978.99,
+    "netPrimes": 0,
+    "valeurRtt": 0
+   },
+   "detailB": {
+    "netMensuel": 1978.99,
+    "netPrimes": 0,
+    "valeurRtt": 0
+   }
+  }
+ }
+]

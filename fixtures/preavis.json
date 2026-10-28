@@ -1,0 +1,1857 @@
+[
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 0
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 1 mois pour un non-cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 0,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 3,
+   "unite": "mois",
+   "dureeJours": 90,
+   "dureeMois": 3,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 3 mois pour un cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 1 mois pour un non-cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 3,
+   "unite": "mois",
+   "dureeJours": 90,
+   "dureeMois": 3,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 3 mois pour un cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 1
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 1 mois pour un non-cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 1,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 3,
+   "unite": "mois",
+   "dureeJours": 90,
+   "dureeMois": 3,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 3 mois pour un cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 1 mois pour un non-cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 3,
+   "unite": "mois",
+   "dureeJours": 90,
+   "dureeMois": 3,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 3 mois pour un cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 3
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 1 mois pour un non-cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 3,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 3,
+   "unite": "mois",
+   "dureeJours": 90,
+   "dureeMois": 3,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 3 mois pour un cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 1 mois pour un non-cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 3,
+   "unite": "mois",
+   "dureeJours": 90,
+   "dureeMois": 3,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 3 mois pour un cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 0
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de licenciement. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 0,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de licenciement. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de licenciement. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de licenciement. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 1
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 1,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": [
+    "Pour les cadres, la plupart des conventions collectives prévoient 3 mois : vérifiez la vôtre."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": [
+    "Pour les cadres, la plupart des conventions collectives prévoient 3 mois : vérifiez la vôtre."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 3
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 3,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [
+    "Pour les cadres, la plupart des conventions collectives prévoient 3 mois : vérifiez la vôtre."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [
+    "Pour les cadres, la plupart des conventions collectives prévoient 3 mois : vérifiez la vôtre."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 0
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de retraite. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 0,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de retraite. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de retraite. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de retraite. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 1
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 1,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 3
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 3,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "depart-retraite",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [
+    "Départ volontaire à la retraite : mêmes durées que pour un licenciement (art. L1237-10)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 0
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de retraite. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 0,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de retraite. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de retraite. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": null,
+   "origine": "aucune",
+   "message": "Moins de 6 mois d'ancienneté : la loi ne fixe pas de durée minimale de préavis de retraite. Appliquez la durée prévue par votre convention collective ou les usages.",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 1
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 1,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 1 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 3
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 3,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "mise-retraite",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [
+    "Mise à la retraite par l'employeur : mêmes durées que pour un licenciement (art. L1237-6)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 0
+   }
+  ],
+  "result": {
+   "duree": 24,
+   "unite": "heures",
+   "dureeJours": 1,
+   "dureeMois": 0,
+   "dureeLegale": 24,
+   "origine": "legale",
+   "message": "Délai de prévenance de 24 heures (moins de 8 jours de présence).",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 0,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 24,
+   "unite": "heures",
+   "dureeJours": 1,
+   "dureeMois": 0,
+   "dureeLegale": 24,
+   "origine": "legale",
+   "message": "Délai de prévenance de 24 heures (moins de 8 jours de présence).",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Délai de prévenance de 1 mois (plus de 3 mois de présence).",
+   "notes": [
+    "Si l'employeur ne respecte pas ce délai, il doit verser une indemnité compensatrice (sauf faute grave)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Délai de prévenance de 1 mois (plus de 3 mois de présence).",
+   "notes": [
+    "Si l'employeur ne respecte pas ce délai, il doit verser une indemnité compensatrice (sauf faute grave)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 1
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Délai de prévenance de 1 mois (plus de 3 mois de présence).",
+   "notes": [
+    "Si l'employeur ne respecte pas ce délai, il doit verser une indemnité compensatrice (sauf faute grave)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 1,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Délai de prévenance de 1 mois (plus de 3 mois de présence).",
+   "notes": [
+    "Si l'employeur ne respecte pas ce délai, il doit verser une indemnité compensatrice (sauf faute grave)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Délai de prévenance de 1 mois (plus de 3 mois de présence).",
+   "notes": [
+    "Si l'employeur ne respecte pas ce délai, il doit verser une indemnité compensatrice (sauf faute grave)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Délai de prévenance de 1 mois (plus de 3 mois de présence).",
+   "notes": [
+    "Si l'employeur ne respecte pas ce délai, il doit verser une indemnité compensatrice (sauf faute grave)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 3
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Délai de prévenance de 1 mois (plus de 3 mois de présence).",
+   "notes": [
+    "Si l'employeur ne respecte pas ce délai, il doit verser une indemnité compensatrice (sauf faute grave)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 3,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Délai de prévenance de 1 mois (plus de 3 mois de présence).",
+   "notes": [
+    "Si l'employeur ne respecte pas ce délai, il doit verser une indemnité compensatrice (sauf faute grave)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Délai de prévenance de 1 mois (plus de 3 mois de présence).",
+   "notes": [
+    "Si l'employeur ne respecte pas ce délai, il doit verser une indemnité compensatrice (sauf faute grave)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Délai de prévenance de 1 mois (plus de 3 mois de présence).",
+   "notes": [
+    "Si l'employeur ne respecte pas ce délai, il doit verser une indemnité compensatrice (sauf faute grave)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 0
+   }
+  ],
+  "result": {
+   "duree": 24,
+   "unite": "heures",
+   "dureeJours": 1,
+   "dureeMois": 0,
+   "dureeLegale": 24,
+   "origine": "legale",
+   "message": "Délai de prévenance de 24 heures pour le salarié (moins de 8 jours de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 0,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 24,
+   "unite": "heures",
+   "dureeJours": 1,
+   "dureeMois": 0,
+   "dureeLegale": 24,
+   "origine": "legale",
+   "message": "Délai de prévenance de 24 heures pour le salarié (moins de 8 jours de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 1
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 1,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 3
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 3,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 3,
+    "ancienneteMois": 4,
+    "cadre": true
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 5,
+    "fauteGrave": true
+   }
+  ],
+  "result": {
+   "duree": 0,
+   "unite": "mois",
+   "dureeJours": 0,
+   "dureeMois": 0,
+   "dureeLegale": 0,
+   "origine": "aucune",
+   "message": "Pas de préavis (ni d'indemnité compensatrice) en cas de licenciement pour faute grave ou lourde.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 1,
+    "travailleurHandicape": true
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (entre 6 mois et 2 ans d'ancienneté).",
+   "notes": [
+    "Travailleur handicapé : durée doublée (1 mois → 2 mois), dans la limite de 3 mois."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 1,
+    "travailleurHandicape": true,
+    "dureeConventionnelleMois": 3
+   }
+  ],
+  "result": {
+   "duree": 3,
+   "unite": "mois",
+   "dureeJours": 90,
+   "dureeMois": 3,
+   "dureeLegale": 1,
+   "origine": "conventionnelle",
+   "message": "Préavis de 3 mois : votre convention ou votre contrat est plus favorable que la loi (1 mois).",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 0,
+    "presenceJours": 5
+   }
+  ],
+  "result": {
+   "duree": 24,
+   "unite": "heures",
+   "dureeJours": 1,
+   "dureeMois": 0,
+   "dureeLegale": 24,
+   "origine": "legale",
+   "message": "Délai de prévenance de 24 heures (moins de 8 jours de présence).",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 0,
+    "presenceJours": 20
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures (entre 8 jours et 1 mois de présence).",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 0,
+    "presenceJours": 60
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "semaines",
+   "dureeJours": 14,
+   "dureeMois": 0.5,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Délai de prévenance de 2 semaines (entre 1 et 3 mois de présence).",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-employeur",
+    "ancienneteAnnees": 0,
+    "presenceJours": 150
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": 1,
+   "origine": "legale",
+   "message": "Délai de prévenance de 1 mois (plus de 3 mois de présence).",
+   "notes": [
+    "Si l'employeur ne respecte pas ce délai, il doit verser une indemnité compensatrice (sauf faute grave)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 0,
+    "presenceJours": 5
+   }
+  ],
+  "result": {
+   "duree": 24,
+   "unite": "heures",
+   "dureeJours": 1,
+   "dureeMois": 0,
+   "dureeLegale": 24,
+   "origine": "legale",
+   "message": "Délai de prévenance de 24 heures pour le salarié (moins de 8 jours de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 0,
+    "presenceJours": 20
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 0,
+    "presenceJours": 60
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "essai-salarie",
+    "ancienneteAnnees": 0,
+    "presenceJours": 150
+   }
+  ],
+  "result": {
+   "duree": 48,
+   "unite": "heures",
+   "dureeJours": 2,
+   "dureeMois": 0.1,
+   "dureeLegale": 48,
+   "origine": "legale",
+   "message": "Délai de prévenance de 48 heures pour le salarié (8 jours ou plus de présence).",
+   "notes": [
+    "Le délai de prévenance ne peut pas prolonger la période d'essai au-delà de sa durée maximale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 2,
+    "dateNotification": "2026-01-31"
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 1 mois pour un non-cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ],
+   "dateFin": "2026-02-28"
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 2,
+    "dateNotification": "2026-03-15"
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 1 mois pour un non-cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ],
+   "dateFin": "2026-04-14"
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "demission",
+    "ancienneteAnnees": 2,
+    "dateNotification": "2024-02-29"
+   }
+  ],
+  "result": {
+   "duree": 1,
+   "unite": "mois",
+   "dureeJours": 30,
+   "dureeMois": 1,
+   "dureeLegale": null,
+   "origine": "usage",
+   "message": "Le Code du travail ne fixe pas de durée de préavis de démission. La durée la plus courante est de 1 mois pour un non-cadre, mais c'est votre convention collective ou votre contrat qui fait foi.",
+   "notes": [
+    "Certaines conventions prévoient 2 mois pour les agents de maîtrise et techniciens.",
+    "Votre employeur peut vous dispenser d'effectuer tout ou partie du préavis."
+   ],
+   "dateFin": "2024-03-28"
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 2,
+    "dateNotification": "2026-01-31"
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [],
+   "dateFin": "2026-03-30"
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 2,
+    "dateNotification": "2026-03-15"
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [],
+   "dateFin": "2026-05-14"
+  }
+ },
+ {
+  "args": [
+   {
+    "type": "licenciement",
+    "ancienneteAnnees": 2,
+    "dateNotification": "2024-02-29"
+   }
+  ],
+  "result": {
+   "duree": 2,
+   "unite": "mois",
+   "dureeJours": 60,
+   "dureeMois": 2,
+   "dureeLegale": 2,
+   "origine": "legale",
+   "message": "Préavis légal de 2 mois (2 ans ou plus d'ancienneté).",
+   "notes": [],
+   "dateFin": "2024-04-28"
+  }
+ }
+]

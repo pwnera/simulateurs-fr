@@ -1,0 +1,16 @@
+[
+ {
+  "args": [],
+  "result": {
+   "plafondCAVente": 203100,
+   "plafondCAServices": 83600,
+   "plafondCALiberale": 83600,
+   "seuilTVA": 37500,
+   "seuilTVAMajore": 41250,
+   "seuilTVAVente": 85000,
+   "seuilTVAVenteMajore": 93500,
+   "vlfPlafondRfrParPart": 29315,
+   "message": "Plafonds de CA valables de 2026 à 2028. Le régime micro est perdu après deux années consécutives de dépassement. La franchise de TVA est perdue dès le dépassement du seuil majoré."
+  }
+ }
+]

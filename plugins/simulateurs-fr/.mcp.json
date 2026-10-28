@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "simulateurs-fr": { "type": "http", "url": "https://www.calculsalairebrutnet.fr/mcp" }
+  }
+}

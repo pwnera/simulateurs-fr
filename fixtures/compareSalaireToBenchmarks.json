@@ -1,0 +1,62 @@
+[
+ {
+  "args": [
+   900
+  ],
+  "result": {
+   "level": "below_smic",
+   "label": "Sous le SMIC",
+   "message": "Votre net est sous le SMIC. Vérifiez temps partiel, convention, primes.",
+   "extraInfo": "En France, le salaire médian (secteur privé, temps plein) est d'environ 2 190 € net / mois.",
+   "sourceYear": "2024"
+  }
+ },
+ {
+  "args": [
+   1500
+  ],
+  "result": {
+   "level": "around_smic",
+   "label": "Proche du SMIC",
+   "message": "Votre net est proche du SMIC (minimum légal).",
+   "extraInfo": "Salaire médian : 2 190 € net / mois. Salaire moyen : 2 733 € (plus élevé car tiré vers le haut par les hauts revenus).",
+   "sourceYear": "2024"
+  }
+ },
+ {
+  "args": [
+   2200
+  ],
+  "result": {
+   "level": "around_median",
+   "label": "Proche du salaire médian",
+   "message": "Votre net est dans la fourchette du médian.",
+   "extraInfo": "Médian : 2 190 € net / mois ; moyen : 2 733 €. Les 10 % les mieux payés gagnent au moins 4 334 € net / mois.",
+   "sourceYear": "2024"
+  }
+ },
+ {
+  "args": [
+   3000
+  ],
+  "result": {
+   "level": "above_median",
+   "label": "Au-dessus du salaire médian",
+   "message": "Votre net est au-dessus du médian (50 % les mieux payés).",
+   "extraInfo": "Médian : 2 190 € net / mois ; moyen : 2 733 €. Les 10 % les mieux payés gagnent au moins 4 334 €.",
+   "sourceYear": "2024"
+  }
+ },
+ {
+  "args": [
+   5000
+  ],
+  "result": {
+   "level": "top_10_pct",
+   "label": "Dans les 10 % des salariés les mieux payés",
+   "message": "Votre net vous place dans les 10 % les mieux payés.",
+   "extraInfo": "Salaire médian : 2 190 € ; moyen : 2 733 €. Seuil D9 (top 10 %) : 4 334 € net / mois.",
+   "sourceYear": "2024"
+  }
+ }
+]

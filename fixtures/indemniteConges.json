@@ -1,0 +1,530 @@
+[
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 5,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 2000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 384.62,
+   "regleDixieme": 480,
+   "indemnite": 480,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 5,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 2000,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 384.62,
+   "regleDixieme": 1040,
+   "indemnite": 1040,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 5,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 3500
+   }
+  ],
+  "result": {
+   "maintienSalaire": 673.08,
+   "regleDixieme": 840,
+   "indemnite": 840,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 5,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 3500,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 673.08,
+   "regleDixieme": 1040,
+   "indemnite": 1040,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 5,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 2000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 384.62,
+   "regleDixieme": 400,
+   "indemnite": 400,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 5,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 2000,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 384.62,
+   "regleDixieme": 866.67,
+   "indemnite": 866.67,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 5,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 3500
+   }
+  ],
+  "result": {
+   "maintienSalaire": 673.08,
+   "regleDixieme": 700,
+   "indemnite": 700,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 5,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 3500,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 673.08,
+   "regleDixieme": 866.67,
+   "indemnite": 866.67,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 25,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 2000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 1923.08,
+   "regleDixieme": 2400,
+   "indemnite": 2400,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 25,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 2000,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 1923.08,
+   "regleDixieme": 5200,
+   "indemnite": 5200,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 25,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 3500
+   }
+  ],
+  "result": {
+   "maintienSalaire": 3365.38,
+   "regleDixieme": 4200,
+   "indemnite": 4200,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 25,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 3500,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 3365.38,
+   "regleDixieme": 5200,
+   "indemnite": 5200,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 25,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 2000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 1923.08,
+   "regleDixieme": 2000,
+   "indemnite": 2000,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 25,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 2000,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 1923.08,
+   "regleDixieme": 4333.33,
+   "indemnite": 4333.33,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 25,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 3500
+   }
+  ],
+  "result": {
+   "maintienSalaire": 3365.38,
+   "regleDixieme": 3500,
+   "indemnite": 3500,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "jours": 25,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 3500,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 3365.38,
+   "regleDixieme": 4333.33,
+   "indemnite": 4333.33,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 5,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 2000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 461.47,
+   "regleDixieme": 480,
+   "indemnite": 480,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 5,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 2000,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 461.47,
+   "regleDixieme": 1040,
+   "indemnite": 1040,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 5,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 3500
+   }
+  ],
+  "result": {
+   "maintienSalaire": 807.57,
+   "regleDixieme": 840,
+   "indemnite": 840,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 5,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 3500,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 807.57,
+   "regleDixieme": 1040,
+   "indemnite": 1040,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 5,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 2000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 461.47,
+   "regleDixieme": 400,
+   "indemnite": 461.47,
+   "methode": "maintien"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 5,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 2000,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 461.47,
+   "regleDixieme": 866.67,
+   "indemnite": 866.67,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 5,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 3500
+   }
+  ],
+  "result": {
+   "maintienSalaire": 807.57,
+   "regleDixieme": 700,
+   "indemnite": 807.57,
+   "methode": "maintien"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 5,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 3500,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 807.57,
+   "regleDixieme": 866.67,
+   "indemnite": 866.67,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 25,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 2000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 2307.34,
+   "regleDixieme": 2400,
+   "indemnite": 2400,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 25,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 2000,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 2307.34,
+   "regleDixieme": 5200,
+   "indemnite": 5200,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 25,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 3500
+   }
+  ],
+  "result": {
+   "maintienSalaire": 4037.84,
+   "regleDixieme": 4200,
+   "indemnite": 4200,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 25,
+    "joursAcquisPeriode": 25,
+    "salaireBrutMensuel": 3500,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 4037.84,
+   "regleDixieme": 5200,
+   "indemnite": 5200,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 25,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 2000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 2307.34,
+   "regleDixieme": 2000,
+   "indemnite": 2307.34,
+   "methode": "maintien"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 25,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 2000,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 2307.34,
+   "regleDixieme": 4333.33,
+   "indemnite": 4333.33,
+   "methode": "dixieme"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 25,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 3500
+   }
+  ],
+  "result": {
+   "maintienSalaire": 4037.84,
+   "regleDixieme": 3500,
+   "indemnite": 4037.84,
+   "methode": "maintien"
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "jours": 25,
+    "joursAcquisPeriode": 30,
+    "salaireBrutMensuel": 3500,
+    "remunerationReference": 52000
+   }
+  ],
+  "result": {
+   "maintienSalaire": 4037.84,
+   "regleDixieme": 4333.33,
+   "indemnite": 4333.33,
+   "methode": "dixieme"
+  }
+ }
+]

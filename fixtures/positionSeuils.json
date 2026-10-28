@@ -1,0 +1,1362 @@
+[
+ {
+  "args": [
+   {
+    "activite": "vente",
+    "caAnnuel": 20000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 203100,
+     "valeur": 20000,
+     "ratio": 0.09847365829640571,
+     "statut": "ok",
+     "explication": "Il vous reste 183 100 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 85000,
+     "seuilMajore": 93500,
+     "valeur": 20000,
+     "ratio": 0.23529411764705882,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 24115,
+     "valeur": 20000,
+     "ratio": 0.8293593199253576,
+     "statut": "attention",
+     "explication": "3 trimestre(s) validé(s) ; il faut 24 115 € de CA pour en valider 4."
+    }
+   ],
+   "margeAvantTVA": 65000,
+   "margeAvantPlafond": 183100
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "vente",
+    "caAnnuel": 20000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 203100,
+     "valeur": 20000,
+     "ratio": 0.09847365829640571,
+     "statut": "ok",
+     "explication": "Il vous reste 183 100 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 85000,
+     "seuilMajore": 93500,
+     "valeur": 20000,
+     "ratio": 0.23529411764705882,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 24115,
+     "valeur": 20000,
+     "ratio": 0.8293593199253576,
+     "statut": "attention",
+     "explication": "3 trimestre(s) validé(s) ; il faut 24 115 € de CA pour en valider 4."
+    }
+   ],
+   "margeAvantTVA": 65000,
+   "margeAvantPlafond": 183100
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "vente",
+    "caAnnuel": 40000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 203100,
+     "valeur": 40000,
+     "ratio": 0.19694731659281142,
+     "statut": "ok",
+     "explication": "Il vous reste 163 100 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 85000,
+     "seuilMajore": 93500,
+     "valeur": 40000,
+     "ratio": 0.47058823529411764,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 24115,
+     "valeur": 40000,
+     "ratio": 1.6587186398507152,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 45000,
+   "margeAvantPlafond": 163100
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "vente",
+    "caAnnuel": 40000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 203100,
+     "valeur": 40000,
+     "ratio": 0.19694731659281142,
+     "statut": "ok",
+     "explication": "Il vous reste 163 100 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 85000,
+     "seuilMajore": 93500,
+     "valeur": 40000,
+     "ratio": 0.47058823529411764,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 24115,
+     "valeur": 40000,
+     "ratio": 1.6587186398507152,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 45000,
+   "margeAvantPlafond": 163100
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "vente",
+    "caAnnuel": 80000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 203100,
+     "valeur": 80000,
+     "ratio": 0.39389463318562284,
+     "statut": "ok",
+     "explication": "Il vous reste 123 100 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 85000,
+     "seuilMajore": 93500,
+     "valeur": 80000,
+     "ratio": 0.9411764705882353,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 24115,
+     "valeur": 80000,
+     "ratio": 3.3174372797014304,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 5000,
+   "margeAvantPlafond": 123100
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "vente",
+    "caAnnuel": 80000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 203100,
+     "valeur": 80000,
+     "ratio": 0.39389463318562284,
+     "statut": "ok",
+     "explication": "Il vous reste 123 100 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 85000,
+     "seuilMajore": 93500,
+     "valeur": 80000,
+     "ratio": 0.9411764705882353,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 24115,
+     "valeur": 80000,
+     "ratio": 3.3174372797014304,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 5000,
+   "margeAvantPlafond": 123100
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "vente",
+    "caAnnuel": 200000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 203100,
+     "valeur": 200000,
+     "ratio": 0.9847365829640571,
+     "statut": "attention",
+     "explication": "Il vous reste 3 100 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 85000,
+     "seuilMajore": 93500,
+     "valeur": 200000,
+     "ratio": 2.3529411764705883,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 24115,
+     "valeur": 200000,
+     "ratio": 8.293593199253577,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 3100
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "vente",
+    "caAnnuel": 200000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 203100,
+     "valeur": 200000,
+     "ratio": 0.9847365829640571,
+     "statut": "attention",
+     "explication": "Il vous reste 3 100 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 85000,
+     "seuilMajore": 93500,
+     "valeur": 200000,
+     "ratio": 2.3529411764705883,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 24115,
+     "valeur": 200000,
+     "ratio": 8.293593199253577,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 3100
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bic",
+    "caAnnuel": 20000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 20000,
+     "ratio": 0.23923444976076555,
+     "statut": "ok",
+     "explication": "Il vous reste 63 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 20000,
+     "ratio": 0.5333333333333333,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 13992,
+     "valeur": 20000,
+     "ratio": 1.429388221841052,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 17500,
+   "margeAvantPlafond": 63600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bic",
+    "caAnnuel": 20000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 20000,
+     "ratio": 0.23923444976076555,
+     "statut": "ok",
+     "explication": "Il vous reste 63 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 20000,
+     "ratio": 0.5333333333333333,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 13992,
+     "valeur": 20000,
+     "ratio": 1.429388221841052,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 17500,
+   "margeAvantPlafond": 63600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bic",
+    "caAnnuel": 40000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 40000,
+     "ratio": 0.4784688995215311,
+     "statut": "ok",
+     "explication": "Il vous reste 43 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 40000,
+     "ratio": 1.0666666666666667,
+     "statut": "attention",
+     "explication": "Seuil dépassé mais sous le seuil majoré : la franchise s'arrête au 1er janvier de l'année suivante."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 13992,
+     "valeur": 40000,
+     "ratio": 2.858776443682104,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 43600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bic",
+    "caAnnuel": 40000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 40000,
+     "ratio": 0.4784688995215311,
+     "statut": "ok",
+     "explication": "Il vous reste 43 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 40000,
+     "ratio": 1.0666666666666667,
+     "statut": "attention",
+     "explication": "Seuil dépassé mais sous le seuil majoré : la franchise s'arrête au 1er janvier de l'année suivante."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 13992,
+     "valeur": 40000,
+     "ratio": 2.858776443682104,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 43600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bic",
+    "caAnnuel": 80000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 80000,
+     "ratio": 0.9569377990430622,
+     "statut": "attention",
+     "explication": "Il vous reste 3 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 80000,
+     "ratio": 2.1333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 13992,
+     "valeur": 80000,
+     "ratio": 5.717552887364208,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 3600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bic",
+    "caAnnuel": 80000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 80000,
+     "ratio": 0.9569377990430622,
+     "statut": "attention",
+     "explication": "Il vous reste 3 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 80000,
+     "ratio": 2.1333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 13992,
+     "valeur": 80000,
+     "ratio": 5.717552887364208,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 3600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bic",
+    "caAnnuel": 200000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 200000,
+     "ratio": 2.3923444976076556,
+     "statut": "depasse",
+     "explication": "Premier dépassement : vous restez en micro cette année ; un second dépassement l'année prochaine entraînera le passage au réel."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 200000,
+     "ratio": 5.333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 13992,
+     "valeur": 200000,
+     "ratio": 14.29388221841052,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bic",
+    "caAnnuel": 200000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 200000,
+     "ratio": 2.3923444976076556,
+     "statut": "depasse",
+     "explication": "Deuxième année de dépassement : vous passez au régime réel au 1er janvier de l'année suivante."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 200000,
+     "ratio": 5.333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 13992,
+     "valeur": 200000,
+     "ratio": 14.29388221841052,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bnc",
+    "caAnnuel": 20000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 20000,
+     "ratio": 0.23923444976076555,
+     "statut": "ok",
+     "explication": "Il vous reste 63 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 20000,
+     "ratio": 0.5333333333333333,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 10850,
+     "valeur": 20000,
+     "ratio": 1.8433179723502304,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 17500,
+   "margeAvantPlafond": 63600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bnc",
+    "caAnnuel": 20000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 20000,
+     "ratio": 0.23923444976076555,
+     "statut": "ok",
+     "explication": "Il vous reste 63 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 20000,
+     "ratio": 0.5333333333333333,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 10850,
+     "valeur": 20000,
+     "ratio": 1.8433179723502304,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 17500,
+   "margeAvantPlafond": 63600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bnc",
+    "caAnnuel": 40000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 40000,
+     "ratio": 0.4784688995215311,
+     "statut": "ok",
+     "explication": "Il vous reste 43 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 40000,
+     "ratio": 1.0666666666666667,
+     "statut": "attention",
+     "explication": "Seuil dépassé mais sous le seuil majoré : la franchise s'arrête au 1er janvier de l'année suivante."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 10850,
+     "valeur": 40000,
+     "ratio": 3.686635944700461,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 43600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bnc",
+    "caAnnuel": 40000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 40000,
+     "ratio": 0.4784688995215311,
+     "statut": "ok",
+     "explication": "Il vous reste 43 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 40000,
+     "ratio": 1.0666666666666667,
+     "statut": "attention",
+     "explication": "Seuil dépassé mais sous le seuil majoré : la franchise s'arrête au 1er janvier de l'année suivante."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 10850,
+     "valeur": 40000,
+     "ratio": 3.686635944700461,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 43600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bnc",
+    "caAnnuel": 80000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 80000,
+     "ratio": 0.9569377990430622,
+     "statut": "attention",
+     "explication": "Il vous reste 3 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 80000,
+     "ratio": 2.1333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 10850,
+     "valeur": 80000,
+     "ratio": 7.373271889400922,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 3600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bnc",
+    "caAnnuel": 80000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 80000,
+     "ratio": 0.9569377990430622,
+     "statut": "attention",
+     "explication": "Il vous reste 3 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 80000,
+     "ratio": 2.1333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 10850,
+     "valeur": 80000,
+     "ratio": 7.373271889400922,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 3600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bnc",
+    "caAnnuel": 200000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 200000,
+     "ratio": 2.3923444976076556,
+     "statut": "depasse",
+     "explication": "Premier dépassement : vous restez en micro cette année ; un second dépassement l'année prochaine entraînera le passage au réel."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 200000,
+     "ratio": 5.333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 10850,
+     "valeur": 200000,
+     "ratio": 18.433179723502302,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "services_bnc",
+    "caAnnuel": 200000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 200000,
+     "ratio": 2.3923444976076556,
+     "statut": "depasse",
+     "explication": "Deuxième année de dépassement : vous passez au régime réel au 1er janvier de l'année suivante."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 200000,
+     "ratio": 5.333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 10850,
+     "valeur": 200000,
+     "ratio": 18.433179723502302,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "liberale_cipav",
+    "caAnnuel": 20000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 20000,
+     "ratio": 0.23923444976076555,
+     "statut": "ok",
+     "explication": "Il vous reste 63 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 20000,
+     "ratio": 0.5333333333333333,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 11168,
+     "valeur": 20000,
+     "ratio": 1.7908309455587392,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 17500,
+   "margeAvantPlafond": 63600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "liberale_cipav",
+    "caAnnuel": 20000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 20000,
+     "ratio": 0.23923444976076555,
+     "statut": "ok",
+     "explication": "Il vous reste 63 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 20000,
+     "ratio": 0.5333333333333333,
+     "statut": "ok",
+     "explication": "Vous facturez sans TVA (mention « TVA non applicable, art. 293 B du CGI »)."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 11168,
+     "valeur": 20000,
+     "ratio": 1.7908309455587392,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 17500,
+   "margeAvantPlafond": 63600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "liberale_cipav",
+    "caAnnuel": 40000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 40000,
+     "ratio": 0.4784688995215311,
+     "statut": "ok",
+     "explication": "Il vous reste 43 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 40000,
+     "ratio": 1.0666666666666667,
+     "statut": "attention",
+     "explication": "Seuil dépassé mais sous le seuil majoré : la franchise s'arrête au 1er janvier de l'année suivante."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 11168,
+     "valeur": 40000,
+     "ratio": 3.5816618911174785,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 43600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "liberale_cipav",
+    "caAnnuel": 40000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 40000,
+     "ratio": 0.4784688995215311,
+     "statut": "ok",
+     "explication": "Il vous reste 43 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 40000,
+     "ratio": 1.0666666666666667,
+     "statut": "attention",
+     "explication": "Seuil dépassé mais sous le seuil majoré : la franchise s'arrête au 1er janvier de l'année suivante."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 11168,
+     "valeur": 40000,
+     "ratio": 3.5816618911174785,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 43600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "liberale_cipav",
+    "caAnnuel": 80000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 80000,
+     "ratio": 0.9569377990430622,
+     "statut": "attention",
+     "explication": "Il vous reste 3 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 80000,
+     "ratio": 2.1333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 11168,
+     "valeur": 80000,
+     "ratio": 7.163323782234957,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 3600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "liberale_cipav",
+    "caAnnuel": 80000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 80000,
+     "ratio": 0.9569377990430622,
+     "statut": "attention",
+     "explication": "Il vous reste 3 600 € avant le plafond."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 80000,
+     "ratio": 2.1333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 11168,
+     "valeur": 80000,
+     "ratio": 7.163323782234957,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 3600
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "liberale_cipav",
+    "caAnnuel": 200000
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 200000,
+     "ratio": 2.3923444976076556,
+     "statut": "depasse",
+     "explication": "Premier dépassement : vous restez en micro cette année ; un second dépassement l'année prochaine entraînera le passage au réel."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 200000,
+     "ratio": 5.333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 11168,
+     "valeur": 200000,
+     "ratio": 17.908309455587393,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "activite": "liberale_cipav",
+    "caAnnuel": 200000,
+    "depassementAnneePrecedente": true
+   }
+  ],
+  "result": {
+   "jauges": [
+    {
+     "id": "plafond-micro",
+     "label": "Plafond de la micro-entreprise",
+     "seuil": 83600,
+     "valeur": 200000,
+     "ratio": 2.3923444976076556,
+     "statut": "depasse",
+     "explication": "Deuxième année de dépassement : vous passez au régime réel au 1er janvier de l'année suivante."
+    },
+    {
+     "id": "tva",
+     "label": "Franchise en base de TVA",
+     "seuil": 37500,
+     "seuilMajore": 41250,
+     "valeur": 200000,
+     "ratio": 5.333333333333333,
+     "statut": "depasse",
+     "explication": "Seuil majoré dépassé : vous devez facturer la TVA dès le jour du dépassement."
+    },
+    {
+     "id": "retraite",
+     "label": "Validation de 4 trimestres de retraite",
+     "seuil": 11168,
+     "valeur": 200000,
+     "ratio": 17.908309455587393,
+     "statut": "ok",
+     "explication": "Votre CA valide 4 trimestres de retraite de base."
+    }
+   ],
+   "margeAvantTVA": 0,
+   "margeAvantPlafond": 0
+  }
+ }
+]

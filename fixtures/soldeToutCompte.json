@@ -1,0 +1,5506 @@
+[
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    }
+   ],
+   "totalBrut": 1090.91,
+   "totalNetEstime": 850.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 1090.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 6090.91,
+   "totalNetEstime": 5850.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 6090.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 2530.91,
+   "totalNetEstime": 1974.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 2530.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 7530.91,
+   "totalNetEstime": 6974.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 7530.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 2490.91,
+   "totalNetEstime": 1942.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 2490.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 7490.91,
+   "totalNetEstime": 6942.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 7490.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 3930.91,
+   "totalNetEstime": 3066.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 3930.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 8930.91,
+   "totalNetEstime": 8066.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 8930.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    }
+   ],
+   "totalBrut": 5890.91,
+   "totalNetEstime": 4594.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 5890.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 10890.91,
+   "totalNetEstime": 9594.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 10890.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 7330.91,
+   "totalNetEstime": 5718.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 7330.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 12330.91,
+   "totalNetEstime": 10718.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 12330.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 7290.91,
+   "totalNetEstime": 5686.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 7290.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 12290.91,
+   "totalNetEstime": 10686.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 12290.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 8730.91,
+   "totalNetEstime": 6810.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 8730.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 13730.91,
+   "totalNetEstime": 11810.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 13730.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables"
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    }
+   ],
+   "totalBrut": 1090.91,
+   "totalNetEstime": 850.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 1090.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 6090.91,
+   "totalNetEstime": 5850.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 6090.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 2530.91,
+   "totalNetEstime": 1974.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 2530.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 7530.91,
+   "totalNetEstime": 6974.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 7530.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 2490.91,
+   "totalNetEstime": 1942.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 2490.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 7490.91,
+   "totalNetEstime": 6942.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 7490.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 3930.91,
+   "totalNetEstime": 3066.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 3930.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 8930.91,
+   "totalNetEstime": 8066.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 8930.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    }
+   ],
+   "totalBrut": 5890.91,
+   "totalNetEstime": 4594.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 5890.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 10890.91,
+   "totalNetEstime": 9594.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 10890.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 7330.91,
+   "totalNetEstime": 5718.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 7330.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 12330.91,
+   "totalNetEstime": 10718.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 12330.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 7290.91,
+   "totalNetEstime": 5686.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 7290.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 12290.91,
+   "totalNetEstime": 10686.91,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 12290.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 8730.91,
+   "totalNetEstime": 6810.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 8730.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 13730.91,
+   "totalNetEstime": 11810.11,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 0,
+   "totalEstime": 13730.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    }
+   ],
+   "totalBrut": 1954.91,
+   "totalNetEstime": 1524.83,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 864,
+   "totalEstime": 1954.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 6954.91,
+   "totalNetEstime": 6524.83,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 864,
+   "totalEstime": 6954.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 4114.91,
+   "totalNetEstime": 3209.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 4114.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 9114.91,
+   "totalNetEstime": 8209.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 9114.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 3354.91,
+   "totalNetEstime": 2616.83,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 864,
+   "totalEstime": 3354.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 8354.91,
+   "totalNetEstime": 7616.83,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 864,
+   "totalEstime": 8354.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 5514.91,
+   "totalNetEstime": 4301.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 5514.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 10514.91,
+   "totalNetEstime": 9301.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 10514.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    }
+   ],
+   "totalBrut": 6754.91,
+   "totalNetEstime": 5268.83,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 864,
+   "totalEstime": 6754.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 11754.91,
+   "totalNetEstime": 10268.83,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 864,
+   "totalEstime": 11754.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 8914.91,
+   "totalNetEstime": 6953.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 8914.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 13914.91,
+   "totalNetEstime": 11953.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 13914.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 8154.91,
+   "totalNetEstime": 6360.83,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 864,
+   "totalEstime": 8154.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 13154.91,
+   "totalNetEstime": 11360.83,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 864,
+   "totalEstime": 13154.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 10314.91,
+   "totalNetEstime": 8045.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 10314.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 15314.91,
+   "totalNetEstime": 13045.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 15314.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables"
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    }
+   ],
+   "totalBrut": 1810.91,
+   "totalNetEstime": 1412.51,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 720,
+   "totalEstime": 1810.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 6810.91,
+   "totalNetEstime": 6412.51,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 720,
+   "totalEstime": 6810.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 4114.91,
+   "totalNetEstime": 3209.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 4114.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 9114.91,
+   "totalNetEstime": 8209.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 9114.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 3210.91,
+   "totalNetEstime": 2504.51,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 720,
+   "totalEstime": 3210.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 8210.91,
+   "totalNetEstime": 7504.51,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 720,
+   "totalEstime": 8210.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 5514.91,
+   "totalNetEstime": 4301.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 5514.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 10514.91,
+   "totalNetEstime": 9301.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 10514.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    }
+   ],
+   "totalBrut": 6610.91,
+   "totalNetEstime": 5156.51,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 720,
+   "totalEstime": 6610.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 11610.91,
+   "totalNetEstime": 10156.51,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 720,
+   "totalEstime": 11610.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 8914.91,
+   "totalNetEstime": 6953.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 8914.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 13914.91,
+   "totalNetEstime": 11953.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 13914.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 8010.91,
+   "totalNetEstime": 6248.51,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 720,
+   "totalEstime": 8010.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 13010.91,
+   "totalNetEstime": 11248.51,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 720,
+   "totalEstime": 13010.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 10314.91,
+   "totalNetEstime": 8045.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 10314.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 10,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 1090.91,
+     "net": 850.91
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 15314.91,
+   "totalNetEstime": 13045.63,
+   "prorataSalaire": 1090.91,
+   "indemniteConges": 1584,
+   "totalEstime": 15314.91
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    }
+   ],
+   "totalBrut": 2400,
+   "totalNetEstime": 1872,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 2400
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 7400,
+   "totalNetEstime": 6872,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 7400
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 3840,
+   "totalNetEstime": 2995.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 3840
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 8840,
+   "totalNetEstime": 7995.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 8840
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 3800,
+   "totalNetEstime": 2964,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 3800
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 8800,
+   "totalNetEstime": 7964,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 8800
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 5240,
+   "totalNetEstime": 4087.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 5240
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 10240,
+   "totalNetEstime": 9087.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 10240
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    }
+   ],
+   "totalBrut": 7200,
+   "totalNetEstime": 5616,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 7200
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 12200,
+   "totalNetEstime": 10616,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 12200
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 8640,
+   "totalNetEstime": 6739.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 8640
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 13640,
+   "totalNetEstime": 11739.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 13640
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 8600,
+   "totalNetEstime": 6708,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 8600
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 13600,
+   "totalNetEstime": 11708,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 13600
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 10040,
+   "totalNetEstime": 7831.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 10040
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 15040,
+   "totalNetEstime": 12831.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 15040
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables"
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    }
+   ],
+   "totalBrut": 2400,
+   "totalNetEstime": 1872,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 2400
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 7400,
+   "totalNetEstime": 6872,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 7400
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 3840,
+   "totalNetEstime": 2995.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 3840
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 8840,
+   "totalNetEstime": 7995.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 8840
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 3800,
+   "totalNetEstime": 2964,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 3800
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 8800,
+   "totalNetEstime": 7964,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 8800
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 5240,
+   "totalNetEstime": 4087.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 5240
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 10240,
+   "totalNetEstime": 9087.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 10240
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    }
+   ],
+   "totalBrut": 7200,
+   "totalNetEstime": 5616,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 7200
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 12200,
+   "totalNetEstime": 10616,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 12200
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 8640,
+   "totalNetEstime": 6739.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 8640
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 13640,
+   "totalNetEstime": 11739.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 13640
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 8600,
+   "totalNetEstime": 6708,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 8600
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 13600,
+   "totalNetEstime": 11708,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 13600
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 10040,
+   "totalNetEstime": 7831.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 10040
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 0,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 15040,
+   "totalNetEstime": 12831.2,
+   "prorataSalaire": 2400,
+   "indemniteConges": 0,
+   "totalEstime": 15040
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    }
+   ],
+   "totalBrut": 3264,
+   "totalNetEstime": 2545.92,
+   "prorataSalaire": 2400,
+   "indemniteConges": 864,
+   "totalEstime": 3264
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 8264,
+   "totalNetEstime": 7545.92,
+   "prorataSalaire": 2400,
+   "indemniteConges": 864,
+   "totalEstime": 8264
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 5424,
+   "totalNetEstime": 4230.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 5424
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 10424,
+   "totalNetEstime": 9230.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 10424
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 4664,
+   "totalNetEstime": 3637.92,
+   "prorataSalaire": 2400,
+   "indemniteConges": 864,
+   "totalEstime": 4664
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 9664,
+   "totalNetEstime": 8637.92,
+   "prorataSalaire": 2400,
+   "indemniteConges": 864,
+   "totalEstime": 9664
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 6824,
+   "totalNetEstime": 5322.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 6824
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 11824,
+   "totalNetEstime": 10322.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 11824
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    }
+   ],
+   "totalBrut": 8064,
+   "totalNetEstime": 6289.92,
+   "prorataSalaire": 2400,
+   "indemniteConges": 864,
+   "totalEstime": 8064
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 13064,
+   "totalNetEstime": 11289.92,
+   "prorataSalaire": 2400,
+   "indemniteConges": 864,
+   "totalEstime": 13064
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 10224,
+   "totalNetEstime": 7974.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 10224
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 15224,
+   "totalNetEstime": 12974.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 15224
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 9464,
+   "totalNetEstime": 7381.92,
+   "prorataSalaire": 2400,
+   "indemniteConges": 864,
+   "totalEstime": 9464
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 864,
+     "net": 673.92
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 14464,
+   "totalNetEstime": 12381.92,
+   "prorataSalaire": 2400,
+   "indemniteConges": 864,
+   "totalEstime": 14464
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 11624,
+   "totalNetEstime": 9066.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 11624
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 16624,
+   "totalNetEstime": 14066.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 16624
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables"
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    }
+   ],
+   "totalBrut": 3120,
+   "totalNetEstime": 2433.6,
+   "prorataSalaire": 2400,
+   "indemniteConges": 720,
+   "totalEstime": 3120
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 8120,
+   "totalNetEstime": 7433.6,
+   "prorataSalaire": 2400,
+   "indemniteConges": 720,
+   "totalEstime": 8120
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 5424,
+   "totalNetEstime": 4230.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 5424
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 10424,
+   "totalNetEstime": 9230.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 10424
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 4520,
+   "totalNetEstime": 3525.6,
+   "prorataSalaire": 2400,
+   "indemniteConges": 720,
+   "totalEstime": 4520
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 9520,
+   "totalNetEstime": 8525.6,
+   "prorataSalaire": 2400,
+   "indemniteConges": 720,
+   "totalEstime": 9520
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 6824,
+   "totalNetEstime": 5322.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 6824
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 11824,
+   "totalNetEstime": 10322.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 11824
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    }
+   ],
+   "totalBrut": 7920,
+   "totalNetEstime": 6177.6,
+   "prorataSalaire": 2400,
+   "indemniteConges": 720,
+   "totalEstime": 7920
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 12920,
+   "totalNetEstime": 11177.6,
+   "prorataSalaire": 2400,
+   "indemniteConges": 720,
+   "totalEstime": 12920
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 10224,
+   "totalNetEstime": 7974.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 10224
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 15224,
+   "totalNetEstime": 12974.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 15224
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    }
+   ],
+   "totalBrut": 9320,
+   "totalNetEstime": 7269.6,
+   "prorataSalaire": 2400,
+   "indemniteConges": 720,
+   "totalEstime": 9320
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 720,
+     "net": 561.6
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 14320,
+   "totalNetEstime": 12269.6,
+   "prorataSalaire": 2400,
+   "indemniteConges": 720,
+   "totalEstime": 14320
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    }
+   ],
+   "totalBrut": 11624,
+   "totalNetEstime": 9066.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 11624
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireBrutMensuel": 2400,
+    "joursTravaillesDansLeMois": 22,
+    "joursOuvresMois": 22,
+    "joursCongesNonPris": 7.5,
+    "decompteConges": "ouvrables",
+    "preavisNonEffectueMois": 2,
+    "moisPourTreizieme": 7,
+    "remunerationTotaleCDD": 14400,
+    "indemniteRupture": 5000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "prorata",
+     "label": "Salaire du dernier mois (prorata)",
+     "brut": 2400,
+     "net": 1872
+    },
+    {
+     "id": "conges",
+     "label": "Indemnité compensatrice de congés payés",
+     "brut": 1584,
+     "net": 1235.52
+    },
+    {
+     "id": "preavis",
+     "label": "Indemnité compensatrice de préavis",
+     "brut": 4800,
+     "net": 3744
+    },
+    {
+     "id": "treizieme",
+     "label": "13e mois au prorata",
+     "brut": 1400,
+     "net": 1092
+    },
+    {
+     "id": "precarite",
+     "label": "Indemnité de fin de CDD (10 %)",
+     "brut": 1440,
+     "net": 1123.2
+    },
+    {
+     "id": "rupture",
+     "label": "Indemnité de rupture",
+     "brut": 5000,
+     "net": 5000,
+     "exoneree": true
+    }
+   ],
+   "totalBrut": 16624,
+   "totalNetEstime": 14066.72,
+   "prorataSalaire": 2400,
+   "indemniteConges": 1584,
+   "totalEstime": 16624
+  }
+ }
+]

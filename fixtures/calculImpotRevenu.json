@@ -1,0 +1,987 @@
+[
+ {
+  "args": [
+   {
+    "revenuImposable": 0
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 0,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 0,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 0,
+    "nbParts": 1.5
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 0,
+    "nbParts": 1.5,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 0,
+    "nbParts": 1.5,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 0,
+    "nbParts": 2
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 0,
+    "nbParts": 2,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 0,
+    "nbParts": 2,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 0,
+    "nbParts": 3
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 0,
+    "nbParts": 3,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 0,
+    "nbParts": 3,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000
+   }
+  ],
+  "result": {
+   "impotBrut": 44,
+   "decote": 44,
+   "impotNet": 0,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 44,
+   "decote": 44,
+   "impotNet": 0,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 44,
+   "decote": 44,
+   "impotNet": 0,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000,
+    "nbParts": 1.5
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000,
+    "nbParts": 1.5,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000,
+    "nbParts": 1.5,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000,
+    "nbParts": 2
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000,
+    "nbParts": 2,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000,
+    "nbParts": 2,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000,
+    "nbParts": 3
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000,
+    "nbParts": 3,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 12000,
+    "nbParts": 3,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000
+   }
+  ],
+  "result": {
+   "impotBrut": 2104,
+   "decote": 0,
+   "impotNet": 2104,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.07013300000000001,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 2104,
+   "decote": 0,
+   "impotNet": 2104,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.07013300000000001,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 2104,
+   "decote": 531,
+   "impotNet": 1573,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.05243484916666668,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000,
+    "nbParts": 1.5
+   }
+  ],
+  "result": {
+   "impotBrut": 1386,
+   "decote": 270,
+   "impotNet": 1116,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0.037205499999999996,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000,
+    "nbParts": 1.5,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 1386,
+   "decote": 270,
+   "impotNet": 1116,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0.037205499999999996,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000,
+    "nbParts": 1.5,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 1386,
+   "decote": 856,
+   "impotNet": 530,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0.017672166666666666,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000,
+    "nbParts": 2
+   }
+  ],
+  "result": {
+   "impotBrut": 748,
+   "decote": 748,
+   "impotNet": 0,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000,
+    "nbParts": 2,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 748,
+   "decote": 559,
+   "impotNet": 189,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0.006315666666666667,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000,
+    "nbParts": 2,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 748,
+   "decote": 748,
+   "impotNet": 0,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000,
+    "nbParts": 3
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000,
+    "nbParts": 3,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 30000,
+    "nbParts": 3,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 0,
+   "decote": 0,
+   "impotNet": 0,
+   "tauxMarginal": 0,
+   "tauxMoyen": 0,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000
+   }
+  ],
+  "result": {
+   "impotBrut": 14104,
+   "decote": 0,
+   "impotNet": 14104,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.20148557142857143,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 14104,
+   "decote": 0,
+   "impotNet": 14104,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.20148557142857143,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 14104,
+   "decote": 0,
+   "impotNet": 14104,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.20148557142857143,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000,
+    "nbParts": 1.5
+   }
+  ],
+  "result": {
+   "impotBrut": 12297,
+   "decote": 0,
+   "impotNet": 12297,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.17567128571428572,
+   "plafonnementQF": true
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000,
+    "nbParts": 1.5,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 12297,
+   "decote": 0,
+   "impotNet": 12297,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.17567128571428572,
+   "plafonnementQF": true
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000,
+    "nbParts": 1.5,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 10656,
+   "decote": 0,
+   "impotNet": 10656,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.15222835714285715,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000,
+    "nbParts": 2
+   }
+  ],
+  "result": {
+   "impotBrut": 7208,
+   "decote": 0,
+   "impotNet": 7208,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.10297114285714284,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000,
+    "nbParts": 2,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 10490,
+   "decote": 0,
+   "impotNet": 10490,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.149857,
+   "plafonnementQF": true
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000,
+    "nbParts": 2,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 7208,
+   "decote": 0,
+   "impotNet": 7208,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.10297114285714284,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000,
+    "nbParts": 3
+   }
+  ],
+  "result": {
+   "impotBrut": 3872,
+   "decote": 0,
+   "impotNet": 3872,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0.055314285714285705,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000,
+    "nbParts": 3,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 6876,
+   "decote": 0,
+   "impotNet": 6876,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0.09822842857142856,
+   "plafonnementQF": true
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 70000,
+    "nbParts": 3,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 3872,
+   "decote": 0,
+   "impotNet": 3872,
+   "tauxMarginal": 0.11,
+   "tauxMoyen": 0.055314285714285705,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000
+   }
+  ],
+  "result": {
+   "impotBrut": 66524,
+   "decote": 0,
+   "impotNet": 66524,
+   "tauxMarginal": 0.45,
+   "tauxMoyen": 0.3326192,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 66524,
+   "decote": 0,
+   "impotNet": 66524,
+   "tauxMarginal": 0.45,
+   "tauxMoyen": 0.3326192,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 66524,
+   "decote": 0,
+   "impotNet": 66524,
+   "tauxMarginal": 0.45,
+   "tauxMoyen": 0.3326192,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000,
+    "nbParts": 1.5
+   }
+  ],
+  "result": {
+   "impotBrut": 64717,
+   "decote": 0,
+   "impotNet": 64717,
+   "tauxMarginal": 0.41,
+   "tauxMoyen": 0.3235842,
+   "plafonnementQF": true
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000,
+    "nbParts": 1.5,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 64717,
+   "decote": 0,
+   "impotNet": 64717,
+   "tauxMarginal": 0.41,
+   "tauxMoyen": 0.3235842,
+   "plafonnementQF": true
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000,
+    "nbParts": 1.5,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 57701,
+   "decote": 0,
+   "impotNet": 57701,
+   "tauxMarginal": 0.41,
+   "tauxMoyen": 0.2885039,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000,
+    "nbParts": 2
+   }
+  ],
+  "result": {
+   "impotBrut": 49601,
+   "decote": 0,
+   "impotNet": 49601,
+   "tauxMarginal": 0.41,
+   "tauxMoyen": 0.24800519999999998,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000,
+    "nbParts": 2,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 62910,
+   "decote": 0,
+   "impotNet": 62910,
+   "tauxMarginal": 0.41,
+   "tauxMoyen": 0.3145492,
+   "plafonnementQF": true
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000,
+    "nbParts": 2,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 49601,
+   "decote": 0,
+   "impotNet": 49601,
+   "tauxMarginal": 0.41,
+   "tauxMoyen": 0.24800519999999998,
+   "plafonnementQF": false
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000,
+    "nbParts": 3
+   }
+  ],
+  "result": {
+   "impotBrut": 45987,
+   "decote": 0,
+   "impotNet": 45987,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.22993519999999998,
+   "plafonnementQF": true
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000,
+    "nbParts": 3,
+    "couple": false
+   }
+  ],
+  "result": {
+   "impotBrut": 59296,
+   "decote": 0,
+   "impotNet": 59296,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.2964792,
+   "plafonnementQF": true
+  }
+ },
+ {
+  "args": [
+   {
+    "revenuImposable": 200000,
+    "nbParts": 3,
+    "couple": true
+   }
+  ],
+  "result": {
+   "impotBrut": 45987,
+   "decote": 0,
+   "impotNet": 45987,
+   "tauxMarginal": 0.3,
+   "tauxMoyen": 0.22993519999999998,
+   "plafonnementQF": true
+  }
+ }
+]

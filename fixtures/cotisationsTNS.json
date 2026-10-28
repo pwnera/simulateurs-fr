@@ -1,0 +1,1376 @@
+[
+ {
+  "args": [
+   0
+  ],
+  "result": {
+   "revenu": 0,
+   "assiette": 0,
+   "lignes": [
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 966.59,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 71.85,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 1254.71,
+   "revenuNet": -1254.71,
+   "deductible": 1254.71,
+   "tauxGlobal": 0,
+   "retraite": 966.59
+  }
+ },
+ {
+  "args": [
+   0,
+   "artisan"
+  ],
+  "result": {
+   "revenu": 0,
+   "assiette": 0,
+   "lignes": [
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 966.59,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 71.85,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 139.37,
+     "groupe": "formation"
+    }
+   ],
+   "total": 1273.93,
+   "revenuNet": -1273.93,
+   "deductible": 1273.93,
+   "tauxGlobal": 0,
+   "retraite": 966.59
+  }
+ },
+ {
+  "args": [
+   0,
+   "commercant"
+  ],
+  "result": {
+   "revenu": 0,
+   "assiette": 0,
+   "lignes": [
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 966.59,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 71.85,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 1254.71,
+   "revenuNet": -1254.71,
+   "deductible": 1254.71,
+   "tauxGlobal": 0,
+   "retraite": 966.59
+  }
+ },
+ {
+  "args": [
+   0,
+   "liberal"
+  ],
+  "result": {
+   "revenu": 0,
+   "assiette": 0,
+   "lignes": [
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 966.59,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 71.85,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 1254.71,
+   "revenuNet": -1254.71,
+   "deductible": 1254.71,
+   "tauxGlobal": 0,
+   "retraite": 966.59
+  }
+ },
+ {
+  "args": [
+   0,
+   "liberal-cipav"
+  ],
+  "result": {
+   "revenu": 0,
+   "assiette": 0,
+   "lignes": [
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 57.67,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base (CNAVPL)",
+     "montant": 472.21,
+     "groupe": "retraite"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 650.03,
+   "revenuNet": -650.03,
+   "deductible": 650.03,
+   "tauxGlobal": 0,
+   "retraite": 472.21
+  }
+ },
+ {
+  "args": [
+   5000
+  ],
+  "result": {
+   "revenu": 5000,
+   "assiette": 3700,
+   "lignes": [
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 993.23,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 299.7,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 71.85,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 358.9,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 1939.95,
+   "revenuNet": 3060.05,
+   "deductible": 1832.65,
+   "tauxGlobal": 0.38798999999999995,
+   "retraite": 1292.93
+  }
+ },
+ {
+  "args": [
+   5000,
+   "artisan"
+  ],
+  "result": {
+   "revenu": 5000,
+   "assiette": 3700,
+   "lignes": [
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 993.23,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 299.7,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 71.85,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 358.9,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 139.37,
+     "groupe": "formation"
+    }
+   ],
+   "total": 1959.17,
+   "revenuNet": 3040.83,
+   "deductible": 1851.87,
+   "tauxGlobal": 0.3918339999999999,
+   "retraite": 1292.93
+  }
+ },
+ {
+  "args": [
+   5000,
+   "commercant"
+  ],
+  "result": {
+   "revenu": 5000,
+   "assiette": 3700,
+   "lignes": [
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 993.23,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 299.7,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 71.85,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 358.9,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 1939.95,
+   "revenuNet": 3060.05,
+   "deductible": 1832.65,
+   "tauxGlobal": 0.38798999999999995,
+   "retraite": 1292.93
+  }
+ },
+ {
+  "args": [
+   5000,
+   "liberal"
+  ],
+  "result": {
+   "revenu": 5000,
+   "assiette": 3700,
+   "lignes": [
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 993.23,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 299.7,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 71.85,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 358.9,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 1939.95,
+   "revenuNet": 3060.05,
+   "deductible": 1832.65,
+   "tauxGlobal": 0.38798999999999995,
+   "retraite": 1292.93
+  }
+ },
+ {
+  "args": [
+   5000,
+   "liberal-cipav"
+  ],
+  "result": {
+   "revenu": 5000,
+   "assiette": 3700,
+   "lignes": [
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 57.67,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base (CNAVPL)",
+     "montant": 472.21,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire (Cipav)",
+     "montant": 333,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 18.5,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 358.9,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 1360.43,
+   "revenuNet": 3639.57,
+   "deductible": 1253.13,
+   "tauxGlobal": 0.272086,
+   "retraite": 805.21
+  }
+ },
+ {
+  "args": [
+   25000
+  ],
+  "result": {
+   "revenu": 25000,
+   "assiette": 18500,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 256.6,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 3439.15,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 1498.5,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 240.5,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 1794.5,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 7445.52,
+   "revenuNet": 17554.48,
+   "deductible": 6909.02,
+   "tauxGlobal": 0.2978208,
+   "retraite": 4937.65
+  }
+ },
+ {
+  "args": [
+   25000,
+   "artisan"
+  ],
+  "result": {
+   "revenu": 25000,
+   "assiette": 18500,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 256.6,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 3439.15,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 1498.5,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 240.5,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 1794.5,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 139.37,
+     "groupe": "formation"
+    }
+   ],
+   "total": 7464.74,
+   "revenuNet": 17535.26,
+   "deductible": 6928.24,
+   "tauxGlobal": 0.2985896,
+   "retraite": 4937.65
+  }
+ },
+ {
+  "args": [
+   25000,
+   "commercant"
+  ],
+  "result": {
+   "revenu": 25000,
+   "assiette": 18500,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 256.6,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 3439.15,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 1498.5,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 240.5,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 1794.5,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 7445.52,
+   "revenuNet": 17554.48,
+   "deductible": 6909.02,
+   "tauxGlobal": 0.2978208,
+   "retraite": 4937.65
+  }
+ },
+ {
+  "args": [
+   25000,
+   "liberal"
+  ],
+  "result": {
+   "revenu": 25000,
+   "assiette": 18500,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 256.6,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 96.12,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 3439.15,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 1498.5,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 240.5,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 1794.5,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 7445.52,
+   "revenuNet": 17554.48,
+   "deductible": 6909.02,
+   "tauxGlobal": 0.2978208,
+   "retraite": 4937.65
+  }
+ },
+ {
+  "args": [
+   25000,
+   "liberal-cipav"
+  ],
+  "result": {
+   "revenu": 25000,
+   "assiette": 18500,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 256.6,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 57.67,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base (CNAVPL)",
+     "montant": 1615.05,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire (Cipav)",
+     "montant": 1665,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 92.5,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 1794.5,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 5601.47,
+   "revenuNet": 19398.53,
+   "deductible": 5064.97,
+   "tauxGlobal": 0.22405879999999997,
+   "retraite": 3280.05
+  }
+ },
+ {
+  "args": [
+   60000
+  ],
+  "result": {
+   "revenu": 60000,
+   "assiette": 44400,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 2494.94,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 222,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 8253.96,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 3596.4,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 577.2,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 4306.8,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 19571.45,
+   "revenuNet": 40428.55,
+   "deductible": 18283.85,
+   "tauxGlobal": 0.3261908333333333,
+   "retraite": 11850.36
+  }
+ },
+ {
+  "args": [
+   60000,
+   "artisan"
+  ],
+  "result": {
+   "revenu": 60000,
+   "assiette": 44400,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 2494.94,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 222,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 8253.96,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 3596.4,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 577.2,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 4306.8,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 139.37,
+     "groupe": "formation"
+    }
+   ],
+   "total": 19590.67,
+   "revenuNet": 40409.33,
+   "deductible": 18303.07,
+   "tauxGlobal": 0.32651116666666663,
+   "retraite": 11850.36
+  }
+ },
+ {
+  "args": [
+   60000,
+   "commercant"
+  ],
+  "result": {
+   "revenu": 60000,
+   "assiette": 44400,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 2494.94,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 222,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 8253.96,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 3596.4,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 577.2,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 4306.8,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 19571.45,
+   "revenuNet": 40428.55,
+   "deductible": 18283.85,
+   "tauxGlobal": 0.3261908333333333,
+   "retraite": 11850.36
+  }
+ },
+ {
+  "args": [
+   60000,
+   "liberal"
+  ],
+  "result": {
+   "revenu": 60000,
+   "assiette": 44400,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 2494.94,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 222,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 8253.96,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 3596.4,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 577.2,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 4306.8,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 19571.45,
+   "revenuNet": 40428.55,
+   "deductible": 18283.85,
+   "tauxGlobal": 0.3261908333333333,
+   "retraite": 11850.36
+  }
+ },
+ {
+  "args": [
+   60000,
+   "liberal-cipav"
+  ],
+  "result": {
+   "revenu": 60000,
+   "assiette": 44400,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 2494.94,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 133.2,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base (CNAVPL)",
+     "montant": 3876.12,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire (Cipav)",
+     "montant": 3996,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 222,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 4306.8,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 15149.21,
+   "revenuNet": 44850.79,
+   "deductible": 13861.61,
+   "tauxGlobal": 0.2524868333333333,
+   "retraite": 7872.12
+  }
+ },
+ {
+  "args": [
+   150000
+  ],
+  "result": {
+   "revenu": 150000,
+   "assiette": 111000,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 8821.94,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 555,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 9387.52,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 9620.4,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 624.78,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "allocations-familiales",
+     "label": "Allocations familiales",
+     "montant": 3441,
+     "groupe": "famille"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 10767,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 43337.79,
+   "revenuNet": 106662.21,
+   "deductible": 40118.79,
+   "tauxGlobal": 0.2889186,
+   "retraite": 19007.92
+  }
+ },
+ {
+  "args": [
+   150000,
+   "artisan"
+  ],
+  "result": {
+   "revenu": 150000,
+   "assiette": 111000,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 8821.94,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 555,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 9387.52,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 9620.4,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 624.78,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "allocations-familiales",
+     "label": "Allocations familiales",
+     "montant": 3441,
+     "groupe": "famille"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 10767,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 139.37,
+     "groupe": "formation"
+    }
+   ],
+   "total": 43357.01,
+   "revenuNet": 106642.99,
+   "deductible": 40138.01,
+   "tauxGlobal": 0.28904673333333336,
+   "retraite": 19007.92
+  }
+ },
+ {
+  "args": [
+   150000,
+   "commercant"
+  ],
+  "result": {
+   "revenu": 150000,
+   "assiette": 111000,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 8821.94,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 555,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 9387.52,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 9620.4,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 624.78,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "allocations-familiales",
+     "label": "Allocations familiales",
+     "montant": 3441,
+     "groupe": "famille"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 10767,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 43337.79,
+   "revenuNet": 106662.21,
+   "deductible": 40118.79,
+   "tauxGlobal": 0.2889186,
+   "retraite": 19007.92
+  }
+ },
+ {
+  "args": [
+   150000,
+   "liberal"
+  ],
+  "result": {
+   "revenu": 150000,
+   "assiette": 111000,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 8821.94,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 555,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "montant": 9387.52,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "montant": 9620.4,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 624.78,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "allocations-familiales",
+     "label": "Allocations familiales",
+     "montant": 3441,
+     "groupe": "famille"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 10767,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 43337.79,
+   "revenuNet": 106662.21,
+   "deductible": 40118.79,
+   "tauxGlobal": 0.2889186,
+   "retraite": 19007.92
+  }
+ },
+ {
+  "args": [
+   150000,
+   "liberal-cipav"
+  ],
+  "result": {
+   "revenu": 150000,
+   "assiette": 111000,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "montant": 8821.94,
+     "groupe": "sante"
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "montant": 333,
+     "groupe": "sante"
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base (CNAVPL)",
+     "montant": 5372.62,
+     "groupe": "retraite"
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire (Cipav)",
+     "montant": 18172.2,
+     "groupe": "retraite"
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "montant": 444.56,
+     "groupe": "prevoyance"
+    },
+    {
+     "id": "allocations-familiales",
+     "label": "Allocations familiales",
+     "montant": 3441,
+     "groupe": "famille"
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "montant": 10767,
+     "groupe": "csg"
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15,
+     "groupe": "formation"
+    }
+   ],
+   "total": 47472.47,
+   "revenuNet": 102527.53,
+   "deductible": 44253.47,
+   "tauxGlobal": 0.31648313333333333,
+   "retraite": 23544.82
+  }
+ }
+]

@@ -1,0 +1,2987 @@
+[
+ {
+  "args": [
+   {
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1587,
+   "montantBase": 1587,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,529",
+   "tranche": "Barème 3 CV et moins, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1904.4,
+   "montantBase": 1587,
+   "majorationElectrique": 317.4,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,529",
+   "tranche": "Barème 3 CV et moins, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 4857,
+   "montantBase": 4857,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,316 + 1 065 €",
+   "tranche": "Barème 3 CV et moins, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 5828.4,
+   "montantBase": 4857,
+   "majorationElectrique": 971.4,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,316 + 1 065 €",
+   "tranche": "Barème 3 CV et moins, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 9250,
+   "montantBase": 9250,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,37",
+   "tranche": "Barème 3 CV et moins, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 11100,
+   "montantBase": 9250,
+   "majorationElectrique": 1850,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,37",
+   "tranche": "Barème 3 CV et moins, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1908,
+   "montantBase": 1908,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,636",
+   "tranche": "Barème 5 CV, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2289.6,
+   "montantBase": 1908,
+   "majorationElectrique": 381.6,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,636",
+   "tranche": "Barème 5 CV, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 5679,
+   "montantBase": 5679,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,357 + 1 395 €",
+   "tranche": "Barème 5 CV, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 6814.8,
+   "montantBase": 5679,
+   "majorationElectrique": 1135.8,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,357 + 1 395 €",
+   "tranche": "Barème 5 CV, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 10675,
+   "montantBase": 10675,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,427",
+   "tranche": "Barème 5 CV, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 12810,
+   "montantBase": 10675,
+   "majorationElectrique": 2135,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,427",
+   "tranche": "Barème 5 CV, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2091,
+   "montantBase": 2091,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,697",
+   "tranche": "Barème 7 CV et plus, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2509.2,
+   "montantBase": 2091,
+   "majorationElectrique": 418.2,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,697",
+   "tranche": "Barème 7 CV et plus, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 6243,
+   "montantBase": 6243,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,394 + 1 515 €",
+   "tranche": "Barème 7 CV et plus, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 7491.6,
+   "montantBase": 6243,
+   "majorationElectrique": 1248.6,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,394 + 1 515 €",
+   "tranche": "Barème 7 CV et plus, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 11750,
+   "montantBase": 11750,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,47",
+   "tranche": "Barème 7 CV et plus, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 14100,
+   "montantBase": 11750,
+   "majorationElectrique": 2350,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,47",
+   "tranche": "Barème 7 CV et plus, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1587,
+   "montantBase": 1587,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,529",
+   "tranche": "Barème 3 CV et moins, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1904.4,
+   "montantBase": 1587,
+   "majorationElectrique": 317.4,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,529",
+   "tranche": "Barème 3 CV et moins, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 4857,
+   "montantBase": 4857,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,316 + 1 065 €",
+   "tranche": "Barème 3 CV et moins, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 5828.4,
+   "montantBase": 4857,
+   "majorationElectrique": 971.4,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,316 + 1 065 €",
+   "tranche": "Barème 3 CV et moins, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 9250,
+   "montantBase": 9250,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,37",
+   "tranche": "Barème 3 CV et moins, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 11100,
+   "montantBase": 9250,
+   "majorationElectrique": 1850,
+   "categorie": {
+    "id": "v3",
+    "label": "3 CV et moins",
+    "cvMin": 0,
+    "cvMax": 3,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.529,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.316,
+      "b": 1065
+     },
+     {
+      "jusqua": null,
+      "a": 0.37,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,37",
+   "tranche": "Barème 3 CV et moins, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1908,
+   "montantBase": 1908,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,636",
+   "tranche": "Barème 5 CV, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2289.6,
+   "montantBase": 1908,
+   "majorationElectrique": 381.6,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,636",
+   "tranche": "Barème 5 CV, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 5679,
+   "montantBase": 5679,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,357 + 1 395 €",
+   "tranche": "Barème 5 CV, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 6814.8,
+   "montantBase": 5679,
+   "majorationElectrique": 1135.8,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,357 + 1 395 €",
+   "tranche": "Barème 5 CV, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 10675,
+   "montantBase": 10675,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,427",
+   "tranche": "Barème 5 CV, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 12810,
+   "montantBase": 10675,
+   "majorationElectrique": 2135,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,427",
+   "tranche": "Barème 5 CV, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2091,
+   "montantBase": 2091,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,697",
+   "tranche": "Barème 7 CV et plus, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2509.2,
+   "montantBase": 2091,
+   "majorationElectrique": 418.2,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,697",
+   "tranche": "Barème 7 CV et plus, jusqu'à 5 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 6243,
+   "montantBase": 6243,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,394 + 1 515 €",
+   "tranche": "Barème 7 CV et plus, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 7491.6,
+   "montantBase": 6243,
+   "majorationElectrique": 1248.6,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,394 + 1 515 €",
+   "tranche": "Barème 7 CV et plus, de 5 001 à 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 11750,
+   "montantBase": 11750,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,47",
+   "tranche": "Barème 7 CV et plus, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "voiture",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 14100,
+   "montantBase": 11750,
+   "majorationElectrique": 2350,
+   "categorie": {
+    "id": "v7",
+    "label": "7 CV et plus",
+    "cvMin": 7,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.697,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.394,
+      "b": 1515
+     },
+     {
+      "jusqua": null,
+      "a": 0.47,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,47",
+   "tranche": "Barème 7 CV et plus, au-delà de 20 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1404,
+   "montantBase": 1404,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,468",
+   "tranche": "Barème 3, 4 ou 5 CV, jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1684.8,
+   "montantBase": 1404,
+   "majorationElectrique": 280.8,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,468",
+   "tranche": "Barème 3, 4 ou 5 CV, jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 3300,
+   "montantBase": 3300,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,275",
+   "tranche": "Barème 3, 4 ou 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 3960,
+   "montantBase": 3300,
+   "majorationElectrique": 660,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,275",
+   "tranche": "Barème 3, 4 ou 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 6875,
+   "montantBase": 6875,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,275",
+   "tranche": "Barème 3, 4 ou 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 8250,
+   "montantBase": 6875,
+   "majorationElectrique": 1375,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,275",
+   "tranche": "Barème 3, 4 ou 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1404,
+   "montantBase": 1404,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,468",
+   "tranche": "Barème 3, 4 ou 5 CV, jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1684.8,
+   "montantBase": 1404,
+   "majorationElectrique": 280.8,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,468",
+   "tranche": "Barème 3, 4 ou 5 CV, jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 3300,
+   "montantBase": 3300,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,275",
+   "tranche": "Barème 3, 4 ou 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 3960,
+   "montantBase": 3300,
+   "majorationElectrique": 660,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,275",
+   "tranche": "Barème 3, 4 ou 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 6875,
+   "montantBase": 6875,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,275",
+   "tranche": "Barème 3, 4 ou 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 8250,
+   "montantBase": 6875,
+   "majorationElectrique": 1375,
+   "categorie": {
+    "id": "m5",
+    "label": "3, 4 ou 5 CV",
+    "cvMin": 3,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.468,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.082,
+      "b": 1158
+     },
+     {
+      "jusqua": null,
+      "a": 0.275,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,275",
+   "tranche": "Barème 3, 4 ou 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1818,
+   "montantBase": 1818,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "m6",
+    "label": "Plus de 5 CV",
+    "cvMin": 6,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.606,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 1583
+     },
+     {
+      "jusqua": null,
+      "a": 0.343,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,606",
+   "tranche": "Barème Plus de 5 CV, jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2181.6,
+   "montantBase": 1818,
+   "majorationElectrique": 363.6,
+   "categorie": {
+    "id": "m6",
+    "label": "Plus de 5 CV",
+    "cvMin": 6,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.606,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 1583
+     },
+     {
+      "jusqua": null,
+      "a": 0.343,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,606",
+   "tranche": "Barème Plus de 5 CV, jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 4116,
+   "montantBase": 4116,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "m6",
+    "label": "Plus de 5 CV",
+    "cvMin": 6,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.606,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 1583
+     },
+     {
+      "jusqua": null,
+      "a": 0.343,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,343",
+   "tranche": "Barème Plus de 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 4939.2,
+   "montantBase": 4116,
+   "majorationElectrique": 823.2,
+   "categorie": {
+    "id": "m6",
+    "label": "Plus de 5 CV",
+    "cvMin": 6,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.606,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 1583
+     },
+     {
+      "jusqua": null,
+      "a": 0.343,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,343",
+   "tranche": "Barème Plus de 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 8575,
+   "montantBase": 8575,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "m6",
+    "label": "Plus de 5 CV",
+    "cvMin": 6,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.606,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 1583
+     },
+     {
+      "jusqua": null,
+      "a": 0.343,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,343",
+   "tranche": "Barème Plus de 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "moto",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 10290,
+   "montantBase": 8575,
+   "majorationElectrique": 1715,
+   "categorie": {
+    "id": "m6",
+    "label": "Plus de 5 CV",
+    "cvMin": 6,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.606,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 1583
+     },
+     {
+      "jusqua": null,
+      "a": 0.343,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,343",
+   "tranche": "Barème Plus de 5 CV, au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 945,
+   "montantBase": 945,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,315",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1134,
+   "montantBase": 945,
+   "majorationElectrique": 189,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,315",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2376,
+   "montantBase": 2376,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2851.2,
+   "montantBase": 2376,
+   "majorationElectrique": 475.2,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 4950,
+   "montantBase": 4950,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 3,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 5940,
+   "montantBase": 4950,
+   "majorationElectrique": 990,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 945,
+   "montantBase": 945,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,315",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1134,
+   "montantBase": 945,
+   "majorationElectrique": 189,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,315",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2376,
+   "montantBase": 2376,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2851.2,
+   "montantBase": 2376,
+   "majorationElectrique": 475.2,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 4950,
+   "montantBase": 4950,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 5940,
+   "montantBase": 4950,
+   "majorationElectrique": 990,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 3000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 945,
+   "montantBase": 945,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,315",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 3000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 1134,
+   "montantBase": 945,
+   "majorationElectrique": 189,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 0,
+   "formule": "d × 0,315",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), jusqu'à 3 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 12000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2376,
+   "montantBase": 2376,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 12000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 2851.2,
+   "montantBase": 2376,
+   "majorationElectrique": 475.2,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 25000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 4950,
+   "montantBase": 4950,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "typeVehicule": "cyclomoteur",
+    "puissanceFiscale": 7,
+    "distanceAnnuelle": 25000,
+    "electrique": true
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 5940,
+   "montantBase": 4950,
+   "majorationElectrique": 990,
+   "categorie": {
+    "id": "c",
+    "label": "Cyclomoteur (≤ 50 cm³)",
+    "cvMin": 0,
+    "cvMax": null,
+    "tranches": [
+     {
+      "jusqua": 3000,
+      "a": 0.315,
+      "b": 0
+     },
+     {
+      "jusqua": 6000,
+      "a": 0.079,
+      "b": 711
+     },
+     {
+      "jusqua": null,
+      "a": 0.198,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 2,
+   "formule": "d × 0,198",
+   "tranche": "Barème Cyclomoteur (≤ 50 cm³), au-delà de 6 000 km"
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 9000,
+    "salairesNetsImposables": 35000
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 4608,
+   "montantBase": 4608,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,357 + 1 395 €",
+   "tranche": "Barème 5 CV, de 5 001 à 20 000 km",
+   "abattement10": 3500,
+   "totalFraisReels": 4608,
+   "fraisReelsPlusAvantageux": true
+  }
+ },
+ {
+  "args": [
+   {
+    "puissanceFiscale": 5,
+    "distanceAnnuelle": 9000,
+    "salairesNetsImposables": 35000,
+    "autresFraisReels": 1500
+   }
+  ],
+  "result": {
+   "montantAnnuelNonImposable": 4608,
+   "montantBase": 4608,
+   "majorationElectrique": 0,
+   "categorie": {
+    "id": "v5",
+    "label": "5 CV",
+    "cvMin": 5,
+    "cvMax": 5,
+    "tranches": [
+     {
+      "jusqua": 5000,
+      "a": 0.636,
+      "b": 0
+     },
+     {
+      "jusqua": 20000,
+      "a": 0.357,
+      "b": 1395
+     },
+     {
+      "jusqua": null,
+      "a": 0.427,
+      "b": 0
+     }
+    ]
+   },
+   "trancheIndex": 1,
+   "formule": "d × 0,357 + 1 395 €",
+   "tranche": "Barème 5 CV, de 5 001 à 20 000 km",
+   "abattement10": 3500,
+   "totalFraisReels": 6108,
+   "fraisReelsPlusAvantageux": true
+  }
+ }
+]

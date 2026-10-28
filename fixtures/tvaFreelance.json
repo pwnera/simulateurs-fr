@@ -1,0 +1,375 @@
+[
+ {
+  "args": [
+   {
+    "caHTAnnuel": 30000,
+    "activite": "vente"
+   }
+  ],
+  "result": {
+   "franchiseTVA": true,
+   "statut": "franchise",
+   "seuilFranchise": 85000,
+   "seuilMajore": 93500,
+   "tvaCollectee": 0,
+   "tvaDeductible": 0,
+   "tvaAReverser": 0,
+   "caTTC": 30000,
+   "message": "Sous le seuil de franchise (85 000 €) : pas de TVA à facturer. Mentionnez « TVA non applicable, art. 293 B du CGI » sur vos factures."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 30000,
+    "activite": "vente",
+    "optionTVA": true
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "option",
+   "seuilFranchise": 85000,
+   "seuilMajore": 93500,
+   "tvaCollectee": 6000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 6000,
+   "caTTC": 36000,
+   "message": "Option pour la TVA : vous facturez la TVA et récupérez celle de vos achats (utile si vos clients sont des entreprises)."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 30000,
+    "activite": "prestations"
+   }
+  ],
+  "result": {
+   "franchiseTVA": true,
+   "statut": "franchise",
+   "seuilFranchise": 37500,
+   "seuilMajore": 41250,
+   "tvaCollectee": 0,
+   "tvaDeductible": 0,
+   "tvaAReverser": 0,
+   "caTTC": 30000,
+   "message": "Sous le seuil de franchise (37 500 €) : pas de TVA à facturer. Mentionnez « TVA non applicable, art. 293 B du CGI » sur vos factures."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 30000,
+    "activite": "prestations",
+    "optionTVA": true
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "option",
+   "seuilFranchise": 37500,
+   "seuilMajore": 41250,
+   "tvaCollectee": 6000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 6000,
+   "caTTC": 36000,
+   "message": "Option pour la TVA : vous facturez la TVA et récupérez celle de vos achats (utile si vos clients sont des entreprises)."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 30000,
+    "activite": "specifique"
+   }
+  ],
+  "result": {
+   "franchiseTVA": true,
+   "statut": "franchise",
+   "seuilFranchise": 50000,
+   "seuilMajore": 55000,
+   "tvaCollectee": 0,
+   "tvaDeductible": 0,
+   "tvaAReverser": 0,
+   "caTTC": 30000,
+   "message": "Sous le seuil de franchise (50 000 €) : pas de TVA à facturer. Mentionnez « TVA non applicable, art. 293 B du CGI » sur vos factures."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 30000,
+    "activite": "specifique",
+    "optionTVA": true
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "option",
+   "seuilFranchise": 50000,
+   "seuilMajore": 55000,
+   "tvaCollectee": 6000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 6000,
+   "caTTC": 36000,
+   "message": "Option pour la TVA : vous facturez la TVA et récupérez celle de vos achats (utile si vos clients sont des entreprises)."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 45000,
+    "activite": "vente"
+   }
+  ],
+  "result": {
+   "franchiseTVA": true,
+   "statut": "franchise",
+   "seuilFranchise": 85000,
+   "seuilMajore": 93500,
+   "tvaCollectee": 0,
+   "tvaDeductible": 0,
+   "tvaAReverser": 0,
+   "caTTC": 45000,
+   "message": "Sous le seuil de franchise (85 000 €) : pas de TVA à facturer. Mentionnez « TVA non applicable, art. 293 B du CGI » sur vos factures."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 45000,
+    "activite": "vente",
+    "optionTVA": true
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "option",
+   "seuilFranchise": 85000,
+   "seuilMajore": 93500,
+   "tvaCollectee": 9000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 9000,
+   "caTTC": 54000,
+   "message": "Option pour la TVA : vous facturez la TVA et récupérez celle de vos achats (utile si vos clients sont des entreprises)."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 45000,
+    "activite": "prestations"
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "assujetti-immediat",
+   "seuilFranchise": 37500,
+   "seuilMajore": 41250,
+   "tvaCollectee": 9000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 9000,
+   "caTTC": 54000,
+   "message": "Seuil majoré de 41 250 € dépassé : la TVA s'applique dès la facture qui fait franchir le seuil."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 45000,
+    "activite": "prestations",
+    "optionTVA": true
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "assujetti-immediat",
+   "seuilFranchise": 37500,
+   "seuilMajore": 41250,
+   "tvaCollectee": 9000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 9000,
+   "caTTC": 54000,
+   "message": "Seuil majoré de 41 250 € dépassé : la TVA s'applique dès la facture qui fait franchir le seuil."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 45000,
+    "activite": "specifique"
+   }
+  ],
+  "result": {
+   "franchiseTVA": true,
+   "statut": "franchise",
+   "seuilFranchise": 50000,
+   "seuilMajore": 55000,
+   "tvaCollectee": 0,
+   "tvaDeductible": 0,
+   "tvaAReverser": 0,
+   "caTTC": 45000,
+   "message": "Sous le seuil de franchise (50 000 €) : pas de TVA à facturer. Mentionnez « TVA non applicable, art. 293 B du CGI » sur vos factures."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 45000,
+    "activite": "specifique",
+    "optionTVA": true
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "option",
+   "seuilFranchise": 50000,
+   "seuilMajore": 55000,
+   "tvaCollectee": 9000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 9000,
+   "caTTC": 54000,
+   "message": "Option pour la TVA : vous facturez la TVA et récupérez celle de vos achats (utile si vos clients sont des entreprises)."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 100000,
+    "activite": "vente"
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "assujetti-immediat",
+   "seuilFranchise": 85000,
+   "seuilMajore": 93500,
+   "tvaCollectee": 20000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 20000,
+   "caTTC": 120000,
+   "message": "Seuil majoré de 93 500 € dépassé : la TVA s'applique dès la facture qui fait franchir le seuil."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 100000,
+    "activite": "vente",
+    "optionTVA": true
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "assujetti-immediat",
+   "seuilFranchise": 85000,
+   "seuilMajore": 93500,
+   "tvaCollectee": 20000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 20000,
+   "caTTC": 120000,
+   "message": "Seuil majoré de 93 500 € dépassé : la TVA s'applique dès la facture qui fait franchir le seuil."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 100000,
+    "activite": "prestations"
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "assujetti-immediat",
+   "seuilFranchise": 37500,
+   "seuilMajore": 41250,
+   "tvaCollectee": 20000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 20000,
+   "caTTC": 120000,
+   "message": "Seuil majoré de 41 250 € dépassé : la TVA s'applique dès la facture qui fait franchir le seuil."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 100000,
+    "activite": "prestations",
+    "optionTVA": true
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "assujetti-immediat",
+   "seuilFranchise": 37500,
+   "seuilMajore": 41250,
+   "tvaCollectee": 20000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 20000,
+   "caTTC": 120000,
+   "message": "Seuil majoré de 41 250 € dépassé : la TVA s'applique dès la facture qui fait franchir le seuil."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 100000,
+    "activite": "specifique"
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "assujetti-immediat",
+   "seuilFranchise": 50000,
+   "seuilMajore": 55000,
+   "tvaCollectee": 20000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 20000,
+   "caTTC": 120000,
+   "message": "Seuil majoré de 55 000 € dépassé : la TVA s'applique dès la facture qui fait franchir le seuil."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 100000,
+    "activite": "specifique",
+    "optionTVA": true
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "assujetti-immediat",
+   "seuilFranchise": 50000,
+   "seuilMajore": 55000,
+   "tvaCollectee": 20000,
+   "tvaDeductible": 0,
+   "tvaAReverser": 20000,
+   "caTTC": 120000,
+   "message": "Seuil majoré de 55 000 € dépassé : la TVA s'applique dès la facture qui fait franchir le seuil."
+  }
+ },
+ {
+  "args": [
+   {
+    "caHTAnnuel": 60000,
+    "activite": "prestations",
+    "tauxTVA": 10,
+    "depensesTTC": 6000,
+    "tauxTVADepenses": 20
+   }
+  ],
+  "result": {
+   "franchiseTVA": false,
+   "statut": "assujetti-immediat",
+   "seuilFranchise": 37500,
+   "seuilMajore": 41250,
+   "tvaCollectee": 600000,
+   "tvaDeductible": 5714.29,
+   "tvaAReverser": 594285.71,
+   "caTTC": 660000,
+   "message": "Seuil majoré de 41 250 € dépassé : la TVA s'applique dès la facture qui fait franchir le seuil."
+  }
+ }
+]

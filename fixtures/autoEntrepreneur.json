@@ -1,0 +1,1663 @@
+[
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "vente"
+   }
+  ],
+  "result": {
+   "netMensuel": 876,
+   "netAnnuel": 10512,
+   "cotisations": 124,
+   "tauxCotisations": 0.124,
+   "cfp": 1,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 3480,
+   "netMensuelApresImpots": 876,
+   "netAnnuelApresImpots": 10512,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 1,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "vente",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 876,
+   "netAnnuel": 10512,
+   "cotisations": 124,
+   "tauxCotisations": 0.124,
+   "cfp": 1,
+   "impotMensuel": 10,
+   "impotAnnuel": 120,
+   "tauxIR": 1,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 3480,
+   "netMensuelApresImpots": 866,
+   "netAnnuelApresImpots": 10392,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 1,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "vente",
+    "acre": "50"
+   }
+  ],
+  "result": {
+   "netMensuel": 937.5,
+   "netAnnuel": 11250,
+   "cotisations": 62.5,
+   "tauxCotisations": 0.0625,
+   "cfp": 1,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 3480,
+   "netMensuelApresImpots": 937.5,
+   "netAnnuelApresImpots": 11250,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 0,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "vente",
+    "acre": "50",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 937.5,
+   "netAnnuel": 11250,
+   "cotisations": 62.5,
+   "tauxCotisations": 0.0625,
+   "cfp": 1,
+   "impotMensuel": 10,
+   "impotAnnuel": 120,
+   "tauxIR": 1,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 3480,
+   "netMensuelApresImpots": 927.5,
+   "netAnnuelApresImpots": 11130,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 0,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "vente",
+    "acre": "25"
+   }
+  ],
+  "result": {
+   "netMensuel": 906.75,
+   "netAnnuel": 10881,
+   "cotisations": 93.25,
+   "tauxCotisations": 0.09325,
+   "cfp": 1,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 3480,
+   "netMensuelApresImpots": 906.75,
+   "netAnnuelApresImpots": 10881,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 1,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "vente",
+    "acre": "25",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 906.75,
+   "netAnnuel": 10881,
+   "cotisations": 93.25,
+   "tauxCotisations": 0.09325,
+   "cfp": 1,
+   "impotMensuel": 10,
+   "impotAnnuel": 120,
+   "tauxIR": 1,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 3480,
+   "netMensuelApresImpots": 896.75,
+   "netAnnuelApresImpots": 10761,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 1,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bic"
+   }
+  ],
+  "result": {
+   "netMensuel": 787,
+   "netAnnuel": 9444,
+   "cotisations": 213,
+   "tauxCotisations": 0.213,
+   "cfp": 1,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 6000,
+   "netMensuelApresImpots": 787,
+   "netAnnuelApresImpots": 9444,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 3,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bic",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 787,
+   "netAnnuel": 9444,
+   "cotisations": 213,
+   "tauxCotisations": 0.213,
+   "cfp": 1,
+   "impotMensuel": 17,
+   "impotAnnuel": 204,
+   "tauxIR": 1.7,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 6000,
+   "netMensuelApresImpots": 770,
+   "netAnnuelApresImpots": 9240,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 3,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bic",
+    "acre": "50"
+   }
+  ],
+  "result": {
+   "netMensuel": 893,
+   "netAnnuel": 10716,
+   "cotisations": 107,
+   "tauxCotisations": 0.107,
+   "cfp": 1,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 6000,
+   "netMensuelApresImpots": 893,
+   "netAnnuelApresImpots": 10716,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 1,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bic",
+    "acre": "50",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 893,
+   "netAnnuel": 10716,
+   "cotisations": 107,
+   "tauxCotisations": 0.107,
+   "cfp": 1,
+   "impotMensuel": 17,
+   "impotAnnuel": 204,
+   "tauxIR": 1.7,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 6000,
+   "netMensuelApresImpots": 876,
+   "netAnnuelApresImpots": 10512,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 1,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bic",
+    "acre": "25"
+   }
+  ],
+  "result": {
+   "netMensuel": 840,
+   "netAnnuel": 10080,
+   "cotisations": 160,
+   "tauxCotisations": 0.16,
+   "cfp": 1,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 6000,
+   "netMensuelApresImpots": 840,
+   "netAnnuelApresImpots": 10080,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 2,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bic",
+    "acre": "25",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 840,
+   "netAnnuel": 10080,
+   "cotisations": 160,
+   "tauxCotisations": 0.16,
+   "cfp": 1,
+   "impotMensuel": 17,
+   "impotAnnuel": 204,
+   "tauxIR": 1.7,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 6000,
+   "netMensuelApresImpots": 823,
+   "netAnnuelApresImpots": 9876,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 2,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bnc"
+   }
+  ],
+  "result": {
+   "netMensuel": 742,
+   "netAnnuel": 8904,
+   "cotisations": 258,
+   "tauxCotisations": 0.258,
+   "cfp": 2,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 742,
+   "netAnnuelApresImpots": 8904,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bnc",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 742,
+   "netAnnuel": 8904,
+   "cotisations": 258,
+   "tauxCotisations": 0.258,
+   "cfp": 2,
+   "impotMensuel": 22,
+   "impotAnnuel": 264,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 720,
+   "netAnnuelApresImpots": 8640,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bnc",
+    "acre": "50"
+   }
+  ],
+  "result": {
+   "netMensuel": 870,
+   "netAnnuel": 10440,
+   "cotisations": 130,
+   "tauxCotisations": 0.13,
+   "cfp": 2,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 870,
+   "netAnnuelApresImpots": 10440,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 2,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bnc",
+    "acre": "50",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 870,
+   "netAnnuel": 10440,
+   "cotisations": 130,
+   "tauxCotisations": 0.13,
+   "cfp": 2,
+   "impotMensuel": 22,
+   "impotAnnuel": 264,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 848,
+   "netAnnuelApresImpots": 10176,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 2,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bnc",
+    "acre": "25"
+   }
+  ],
+  "result": {
+   "netMensuel": 806,
+   "netAnnuel": 9672,
+   "cotisations": 194,
+   "tauxCotisations": 0.194,
+   "cfp": 2,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 806,
+   "netAnnuelApresImpots": 9672,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 3,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "services_bnc",
+    "acre": "25",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 806,
+   "netAnnuel": 9672,
+   "cotisations": 194,
+   "tauxCotisations": 0.194,
+   "cfp": 2,
+   "impotMensuel": 22,
+   "impotAnnuel": 264,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 784,
+   "netAnnuelApresImpots": 9408,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 3,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "liberale_cipav"
+   }
+  ],
+  "result": {
+   "netMensuel": 766,
+   "netAnnuel": 9192,
+   "cotisations": 234,
+   "tauxCotisations": 0.234,
+   "cfp": 2,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 766,
+   "netAnnuelApresImpots": 9192,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "liberale_cipav",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 766,
+   "netAnnuel": 9192,
+   "cotisations": 234,
+   "tauxCotisations": 0.234,
+   "cfp": 2,
+   "impotMensuel": 22,
+   "impotAnnuel": 264,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 744,
+   "netAnnuelApresImpots": 8928,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "liberale_cipav",
+    "acre": "50"
+   }
+  ],
+  "result": {
+   "netMensuel": 882,
+   "netAnnuel": 10584,
+   "cotisations": 118,
+   "tauxCotisations": 0.11800000000000001,
+   "cfp": 2,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 882,
+   "netAnnuelApresImpots": 10584,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 2,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "liberale_cipav",
+    "acre": "50",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 882,
+   "netAnnuel": 10584,
+   "cotisations": 118,
+   "tauxCotisations": 0.11800000000000001,
+   "cfp": 2,
+   "impotMensuel": 22,
+   "impotAnnuel": 264,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 860,
+   "netAnnuelApresImpots": 10320,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 2,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "liberale_cipav",
+    "acre": "25"
+   }
+  ],
+  "result": {
+   "netMensuel": 824,
+   "netAnnuel": 9888,
+   "cotisations": 176,
+   "tauxCotisations": 0.17600000000000002,
+   "cfp": 2,
+   "impotMensuel": 0,
+   "impotAnnuel": 0,
+   "tauxIR": 0,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 824,
+   "netAnnuelApresImpots": 9888,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 3,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 1000,
+    "activite": "liberale_cipav",
+    "acre": "25",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 824,
+   "netAnnuel": 9888,
+   "cotisations": 176,
+   "tauxCotisations": 0.17600000000000002,
+   "cfp": 2,
+   "impotMensuel": 22,
+   "impotAnnuel": 264,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 0,
+   "revenuImposableAnnuel": 7920,
+   "netMensuelApresImpots": 802,
+   "netAnnuelApresImpots": 9624,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 3,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "vente"
+   }
+  ],
+  "result": {
+   "netMensuel": 4380,
+   "netAnnuel": 52560,
+   "cotisations": 620,
+   "tauxCotisations": 0.124,
+   "cfp": 5,
+   "impotMensuel": 2.5,
+   "impotAnnuel": 30,
+   "tauxIR": 0.05,
+   "tauxPASEstime": 0.17,
+   "revenuImposableAnnuel": 17400,
+   "netMensuelApresImpots": 4377.5,
+   "netAnnuelApresImpots": 52530,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "vente",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 4380,
+   "netAnnuel": 52560,
+   "cotisations": 620,
+   "tauxCotisations": 0.124,
+   "cfp": 5,
+   "impotMensuel": 50,
+   "impotAnnuel": 600,
+   "tauxIR": 1,
+   "tauxPASEstime": 0.17,
+   "revenuImposableAnnuel": 17400,
+   "netMensuelApresImpots": 4330,
+   "netAnnuelApresImpots": 51960,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "vente",
+    "acre": "50"
+   }
+  ],
+  "result": {
+   "netMensuel": 4687.5,
+   "netAnnuel": 56250,
+   "cotisations": 312.5,
+   "tauxCotisations": 0.0625,
+   "cfp": 5,
+   "impotMensuel": 2.5,
+   "impotAnnuel": 30,
+   "tauxIR": 0.05,
+   "tauxPASEstime": 0.17,
+   "revenuImposableAnnuel": 17400,
+   "netMensuelApresImpots": 4685,
+   "netAnnuelApresImpots": 56220,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "vente",
+    "acre": "50",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 4687.5,
+   "netAnnuel": 56250,
+   "cotisations": 312.5,
+   "tauxCotisations": 0.0625,
+   "cfp": 5,
+   "impotMensuel": 50,
+   "impotAnnuel": 600,
+   "tauxIR": 1,
+   "tauxPASEstime": 0.17,
+   "revenuImposableAnnuel": 17400,
+   "netMensuelApresImpots": 4637.5,
+   "netAnnuelApresImpots": 55650,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "vente",
+    "acre": "25"
+   }
+  ],
+  "result": {
+   "netMensuel": 4533.75,
+   "netAnnuel": 54405,
+   "cotisations": 466.25,
+   "tauxCotisations": 0.09325,
+   "cfp": 5,
+   "impotMensuel": 2.5,
+   "impotAnnuel": 30,
+   "tauxIR": 0.05,
+   "tauxPASEstime": 0.17,
+   "revenuImposableAnnuel": 17400,
+   "netMensuelApresImpots": 4531.25,
+   "netAnnuelApresImpots": 54375,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "vente",
+    "acre": "25",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 4533.75,
+   "netAnnuel": 54405,
+   "cotisations": 466.25,
+   "tauxCotisations": 0.09325,
+   "cfp": 5,
+   "impotMensuel": 50,
+   "impotAnnuel": 600,
+   "tauxIR": 1,
+   "tauxPASEstime": 0.17,
+   "revenuImposableAnnuel": 17400,
+   "netMensuelApresImpots": 4483.75,
+   "netAnnuelApresImpots": 53805,
+   "plafondAnnuel": 203100,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 85000,
+    "seuilMajore": 93500,
+    "statut": "franchise"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 24115,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bic"
+   }
+  ],
+  "result": {
+   "netMensuel": 3935,
+   "netAnnuel": 47220,
+   "cotisations": 1065,
+   "tauxCotisations": 0.213,
+   "cfp": 5,
+   "impotMensuel": 175.33,
+   "impotAnnuel": 2104,
+   "tauxIR": 3.51,
+   "tauxPASEstime": 7.01,
+   "revenuImposableAnnuel": 30000,
+   "netMensuelApresImpots": 3759.67,
+   "netAnnuelApresImpots": 45116,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bic",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 3935,
+   "netAnnuel": 47220,
+   "cotisations": 1065,
+   "tauxCotisations": 0.213,
+   "cfp": 5,
+   "impotMensuel": 85,
+   "impotAnnuel": 1020,
+   "tauxIR": 1.7,
+   "tauxPASEstime": 7.01,
+   "revenuImposableAnnuel": 30000,
+   "netMensuelApresImpots": 3850,
+   "netAnnuelApresImpots": 46200,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bic",
+    "acre": "50"
+   }
+  ],
+  "result": {
+   "netMensuel": 4465,
+   "netAnnuel": 53580,
+   "cotisations": 535,
+   "tauxCotisations": 0.107,
+   "cfp": 5,
+   "impotMensuel": 175.33,
+   "impotAnnuel": 2104,
+   "tauxIR": 3.51,
+   "tauxPASEstime": 7.01,
+   "revenuImposableAnnuel": 30000,
+   "netMensuelApresImpots": 4289.67,
+   "netAnnuelApresImpots": 51476,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bic",
+    "acre": "50",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 4465,
+   "netAnnuel": 53580,
+   "cotisations": 535,
+   "tauxCotisations": 0.107,
+   "cfp": 5,
+   "impotMensuel": 85,
+   "impotAnnuel": 1020,
+   "tauxIR": 1.7,
+   "tauxPASEstime": 7.01,
+   "revenuImposableAnnuel": 30000,
+   "netMensuelApresImpots": 4380,
+   "netAnnuelApresImpots": 52560,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bic",
+    "acre": "25"
+   }
+  ],
+  "result": {
+   "netMensuel": 4200,
+   "netAnnuel": 50400,
+   "cotisations": 800,
+   "tauxCotisations": 0.16,
+   "cfp": 5,
+   "impotMensuel": 175.33,
+   "impotAnnuel": 2104,
+   "tauxIR": 3.51,
+   "tauxPASEstime": 7.01,
+   "revenuImposableAnnuel": 30000,
+   "netMensuelApresImpots": 4024.67,
+   "netAnnuelApresImpots": 48296,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bic",
+    "acre": "25",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 4200,
+   "netAnnuel": 50400,
+   "cotisations": 800,
+   "tauxCotisations": 0.16,
+   "cfp": 5,
+   "impotMensuel": 85,
+   "impotAnnuel": 1020,
+   "tauxIR": 1.7,
+   "tauxPASEstime": 7.01,
+   "revenuImposableAnnuel": 30000,
+   "netMensuelApresImpots": 4115,
+   "netAnnuelApresImpots": 49380,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bnc"
+   }
+  ],
+  "result": {
+   "netMensuel": 3710,
+   "netAnnuel": 44520,
+   "cotisations": 1290,
+   "tauxCotisations": 0.258,
+   "cfp": 10,
+   "impotMensuel": 415.33,
+   "impotAnnuel": 4984,
+   "tauxIR": 8.31,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 3294.67,
+   "netAnnuelApresImpots": 39536,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bnc",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 3710,
+   "netAnnuel": 44520,
+   "cotisations": 1290,
+   "tauxCotisations": 0.258,
+   "cfp": 10,
+   "impotMensuel": 110,
+   "impotAnnuel": 1320,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 3600,
+   "netAnnuelApresImpots": 43200,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bnc",
+    "acre": "50"
+   }
+  ],
+  "result": {
+   "netMensuel": 4350,
+   "netAnnuel": 52200,
+   "cotisations": 650,
+   "tauxCotisations": 0.13,
+   "cfp": 10,
+   "impotMensuel": 415.33,
+   "impotAnnuel": 4984,
+   "tauxIR": 8.31,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 3934.67,
+   "netAnnuelApresImpots": 47216,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bnc",
+    "acre": "50",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 4350,
+   "netAnnuel": 52200,
+   "cotisations": 650,
+   "tauxCotisations": 0.13,
+   "cfp": 10,
+   "impotMensuel": 110,
+   "impotAnnuel": 1320,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 4240,
+   "netAnnuelApresImpots": 50880,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bnc",
+    "acre": "25"
+   }
+  ],
+  "result": {
+   "netMensuel": 4030,
+   "netAnnuel": 48360,
+   "cotisations": 970,
+   "tauxCotisations": 0.194,
+   "cfp": 10,
+   "impotMensuel": 415.33,
+   "impotAnnuel": 4984,
+   "tauxIR": 8.31,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 3614.67,
+   "netAnnuelApresImpots": 43376,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "services_bnc",
+    "acre": "25",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 4030,
+   "netAnnuel": 48360,
+   "cotisations": 970,
+   "tauxCotisations": 0.194,
+   "cfp": 10,
+   "impotMensuel": 110,
+   "impotAnnuel": 1320,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 3920,
+   "netAnnuelApresImpots": 47040,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 10850,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "liberale_cipav"
+   }
+  ],
+  "result": {
+   "netMensuel": 3830,
+   "netAnnuel": 45960,
+   "cotisations": 1170,
+   "tauxCotisations": 0.234,
+   "cfp": 10,
+   "impotMensuel": 415.33,
+   "impotAnnuel": 4984,
+   "tauxIR": 8.31,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 3414.67,
+   "netAnnuelApresImpots": 40976,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "liberale_cipav",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 3830,
+   "netAnnuel": 45960,
+   "cotisations": 1170,
+   "tauxCotisations": 0.234,
+   "cfp": 10,
+   "impotMensuel": 110,
+   "impotAnnuel": 1320,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 3720,
+   "netAnnuelApresImpots": 44640,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "liberale_cipav",
+    "acre": "50"
+   }
+  ],
+  "result": {
+   "netMensuel": 4410,
+   "netAnnuel": 52920,
+   "cotisations": 590,
+   "tauxCotisations": 0.11800000000000001,
+   "cfp": 10,
+   "impotMensuel": 415.33,
+   "impotAnnuel": 4984,
+   "tauxIR": 8.31,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 3994.67,
+   "netAnnuelApresImpots": 47936,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "liberale_cipav",
+    "acre": "50",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 4410,
+   "netAnnuel": 52920,
+   "cotisations": 590,
+   "tauxCotisations": 0.11800000000000001,
+   "cfp": 10,
+   "impotMensuel": 110,
+   "impotAnnuel": 1320,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 4300,
+   "netAnnuelApresImpots": 51600,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "liberale_cipav",
+    "acre": "25"
+   }
+  ],
+  "result": {
+   "netMensuel": 4120,
+   "netAnnuel": 49440,
+   "cotisations": 880,
+   "tauxCotisations": 0.17600000000000002,
+   "cfp": 10,
+   "impotMensuel": 415.33,
+   "impotAnnuel": 4984,
+   "tauxIR": 8.31,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 3704.67,
+   "netAnnuelApresImpots": 44456,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 5000,
+    "activite": "liberale_cipav",
+    "acre": "25",
+    "versementLiberatoire": true
+   }
+  ],
+  "result": {
+   "netMensuel": 4120,
+   "netAnnuel": 49440,
+   "cotisations": 880,
+   "tauxCotisations": 0.17600000000000002,
+   "cfp": 10,
+   "impotMensuel": 110,
+   "impotAnnuel": 1320,
+   "tauxIR": 2.2,
+   "tauxPASEstime": 12.59,
+   "revenuImposableAnnuel": 39600,
+   "netMensuelApresImpots": 4010,
+   "netAnnuelApresImpots": 48120,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "assujetti"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 11168,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil majoré de TVA dépassé : la TVA est due dès le jour du dépassement."
+  }
+ },
+ {
+  "args": [
+   {
+    "caAnnuel": 40000,
+    "activite": "services_bic",
+    "artisan": true,
+    "beneficiaireAcre": true
+   }
+  ],
+  "result": {
+   "netMensuel": 2793.33,
+   "netAnnuel": 33520,
+   "cotisations": 540,
+   "tauxCotisations": 0.162,
+   "cfp": 10,
+   "impotMensuel": 37.08,
+   "impotAnnuel": 445,
+   "tauxIR": 1.11,
+   "tauxPASEstime": 2.23,
+   "revenuImposableAnnuel": 20000,
+   "netMensuelApresImpots": 2756.25,
+   "netAnnuelApresImpots": 33075,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "seuil-depasse"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil de franchise de TVA dépassé : vous facturerez la TVA à partir du 1er janvier suivant."
+  }
+ },
+ {
+  "args": [
+   {
+    "caAnnuel": 40000,
+    "activite": "services_bic",
+    "artisan": true,
+    "beneficiaireAcre": true,
+    "tauxPrelevementSource": 5
+   }
+  ],
+  "result": {
+   "netMensuel": 2793.33,
+   "netAnnuel": 33520,
+   "cotisations": 540,
+   "tauxCotisations": 0.162,
+   "cfp": 10,
+   "impotMensuel": 83.33,
+   "impotAnnuel": 1000,
+   "tauxIR": 2.5,
+   "tauxPASEstime": 2.23,
+   "revenuImposableAnnuel": 20000,
+   "netMensuelApresImpots": 2710,
+   "netAnnuelApresImpots": 32520,
+   "plafondAnnuel": 83600,
+   "sousPlafond": true,
+   "tva": {
+    "seuil": 37500,
+    "seuilMajore": 41250,
+    "statut": "seuil-depasse"
+   },
+   "trimestresRetraite": 4,
+   "caPour4Trimestres": 13992,
+   "message": "Sous le plafond de chiffre d'affaires de la micro-entreprise. Seuil de franchise de TVA dépassé : vous facturerez la TVA à partir du 1er janvier suivant."
+  }
+ }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "@calculsalairebrutnet/mcp",
+  "version": "1.0.0",
+  "description": "Serveur MCP sans état des simulateurs de calculsalairebrutnet.fr (salaire brut net, chômage, APL, freelance...). Fonctionne sur Cloudflare Workers, Deno, Bun et Node 18+.",
+  "keywords": ["mcp", "model-context-protocol", "salaire", "brut", "net", "freelance", "france"],
+  "homepage": "https://www.calculsalairebrutnet.fr/integrer/ia",
+  "repository": { "type": "git", "url": "git+https://github.com/pwnera/simulateurs-fr.git", "directory": "packages/mcp" },
+  "bugs": "https://github.com/pwnera/simulateurs-fr/issues",
+  "license": "MIT",
+  "type": "module",
+  "exports": { ".": { "types": "./dist/index.d.ts", "default": "./dist/index.js" } },
+  "files": ["dist"],
+  "sideEffects": false,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "schemas": "node scripts/gen-schemas.mjs",
+    "build": "npm run schemas && tsc -p tsconfig.build.json",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "@calculsalairebrutnet/core": "^1.0.0",
+    "@cfworker/json-schema": "^4.1.1"
+  },
+  "devDependencies": {
+    "ts-json-schema-generator": "^2.4.0"
+  }
+}

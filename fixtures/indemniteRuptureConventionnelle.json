@@ -1,0 +1,3002 @@
+[
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0,
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 20000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1940,
+    "cotisationsEstimees": 0,
+    "netEstime": 18060,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0,
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 20000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1940,
+    "cotisationsEstimees": 0,
+    "netEstime": 18060,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0,
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 120000,
+    "exonereImpot": 60000,
+    "imposable": 60000,
+    "exonereCotisations": 60000,
+    "soumisCotisations": 60000,
+    "csgCrds": 11640,
+    "cotisationsEstimees": 7481.85,
+    "netEstime": 100878.15,
+    "differeJours": 150,
+    "contributionPatronale": 24000,
+    "coutEmployeur": 144000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0,
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 120000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11640,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105382.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0,
+    "convention": "syntec"
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 20000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1940,
+    "cotisationsEstimees": 0,
+    "netEstime": 18060,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 20000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1940,
+    "cotisationsEstimees": 0,
+    "netEstime": 18060,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 120000,
+    "exonereImpot": 60000,
+    "imposable": 60000,
+    "exonereCotisations": 60000,
+    "soumisCotisations": 60000,
+    "csgCrds": 11640,
+    "cotisationsEstimees": 7481.85,
+    "netEstime": 100878.15,
+    "differeJours": 150,
+    "contributionPatronale": 24000,
+    "coutEmployeur": 144000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 120000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11640,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105382.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2,
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 18900,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1833.3,
+    "cotisationsEstimees": 0,
+    "netEstime": 18166.7,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2,
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 18900,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1833.3,
+    "cotisationsEstimees": 0,
+    "netEstime": 18166.7,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2,
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 118900,
+    "exonereImpot": 60000,
+    "imposable": 60000,
+    "exonereCotisations": 60000,
+    "soumisCotisations": 60000,
+    "csgCrds": 11533.3,
+    "cotisationsEstimees": 7481.85,
+    "netEstime": 100984.85,
+    "differeJours": 150,
+    "contributionPatronale": 24000,
+    "coutEmployeur": 144000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2,
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 118900,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11533.3,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105488.92,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2,
+    "convention": "syntec"
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": 1100,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2,
+    "convention": "syntec",
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": 1100,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2,
+    "convention": "syntec",
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": 1100,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 18900,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1833.3,
+    "cotisationsEstimees": 0,
+    "netEstime": 18166.7,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2,
+    "convention": "syntec",
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": 1100,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 18900,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1833.3,
+    "cotisationsEstimees": 0,
+    "netEstime": 18166.7,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2,
+    "convention": "syntec",
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": 1100,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 118900,
+    "exonereImpot": 60000,
+    "imposable": 60000,
+    "exonereCotisations": 60000,
+    "soumisCotisations": 60000,
+    "csgCrds": 11533.3,
+    "cotisationsEstimees": 7481.85,
+    "netEstime": 100984.85,
+    "differeJours": 150,
+    "contributionPatronale": 24000,
+    "coutEmployeur": 144000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 2,
+    "convention": "syntec",
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 1100,
+   "licenciement": {
+    "indemniteEstimee": 1100,
+    "indemniteLegale": 1100,
+    "indemniteConventionnelle": 1100,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 1100
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 118900,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11533.3,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105488.92,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12,
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 13033.33,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1264.23,
+    "cotisationsEstimees": 0,
+    "netEstime": 18735.77,
+    "differeJours": 116,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12,
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 13033.33,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1264.23,
+    "cotisationsEstimees": 0,
+    "netEstime": 18735.77,
+    "differeJours": 116,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12,
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 113033.33,
+    "exonereImpot": 60000,
+    "imposable": 60000,
+    "exonereCotisations": 60000,
+    "soumisCotisations": 60000,
+    "csgCrds": 10964.23,
+    "cotisationsEstimees": 7481.85,
+    "netEstime": 101553.92,
+    "differeJours": 150,
+    "contributionPatronale": 24000,
+    "coutEmployeur": 144000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12,
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 113033.33,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 10964.23,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 106057.99,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12,
+    "convention": "syntec"
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": 6966.67,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12,
+    "convention": "syntec",
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": 6966.67,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12,
+    "convention": "syntec",
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": 6966.67,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 13033.33,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1264.23,
+    "cotisationsEstimees": 0,
+    "netEstime": 18735.77,
+    "differeJours": 116,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12,
+    "convention": "syntec",
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": 6966.67,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 13033.33,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1264.23,
+    "cotisationsEstimees": 0,
+    "netEstime": 18735.77,
+    "differeJours": 116,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12,
+    "convention": "syntec",
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": 6966.67,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 113033.33,
+    "exonereImpot": 60000,
+    "imposable": 60000,
+    "exonereCotisations": 60000,
+    "soumisCotisations": 60000,
+    "csgCrds": 10964.23,
+    "cotisationsEstimees": 7481.85,
+    "netEstime": 101553.92,
+    "differeJours": 150,
+    "contributionPatronale": 24000,
+    "coutEmployeur": 144000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2200,
+    "ancienneteAnnees": 12,
+    "convention": "syntec",
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 6966.67,
+   "licenciement": {
+    "indemniteEstimee": 6966.67,
+    "indemniteLegale": 6966.67,
+    "indemniteConventionnelle": 6966.67,
+    "base": "legale",
+    "salaireReference": 2200,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 5500
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 1466.67
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 2 200 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 113033.33,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 10964.23,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 106057.99,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0,
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 20000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1940,
+    "cotisationsEstimees": 0,
+    "netEstime": 18060,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0,
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 20000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1940,
+    "cotisationsEstimees": 0,
+    "netEstime": 18060,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0,
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 120000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11640,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105382.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0,
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 120000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11640,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105382.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0,
+    "convention": "syntec"
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 20000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1940,
+    "cotisationsEstimees": 0,
+    "netEstime": 18060,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 20000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1940,
+    "cotisationsEstimees": 0,
+    "netEstime": 18060,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 120000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11640,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105382.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 0,
+   "licenciement": {
+    "indemniteEstimee": 0,
+    "indemniteLegale": 0,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 0,
+    "eligible": true,
+    "tranches": [],
+    "moisDeSalaire": 0,
+    "detail": "Ancienneté nulle : pas d'indemnité minimale.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 120000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11640,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105382.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2,
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 17000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1649,
+    "cotisationsEstimees": 0,
+    "netEstime": 18351,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2,
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 17000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1649,
+    "cotisationsEstimees": 0,
+    "netEstime": 18351,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2,
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 117000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11349,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105673.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2,
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 117000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11349,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105673.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2,
+    "convention": "syntec"
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": 3000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2,
+    "convention": "syntec",
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": 3000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2,
+    "convention": "syntec",
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": 3000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 17000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1649,
+    "cotisationsEstimees": 0,
+    "netEstime": 18351,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2,
+    "convention": "syntec",
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": 3000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 17000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 1649,
+    "cotisationsEstimees": 0,
+    "netEstime": 18351,
+    "differeJours": 150,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2,
+    "convention": "syntec",
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": 3000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 117000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11349,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105673.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 2,
+    "convention": "syntec",
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 3000,
+   "licenciement": {
+    "indemniteEstimee": 3000,
+    "indemniteLegale": 3000,
+    "indemniteConventionnelle": 3000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 2,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 2 ans",
+      "montant": 3000
+     }
+    ],
+    "moisDeSalaire": 0.5,
+    "detail": "Basé sur 2 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 117000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 11349,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 105673.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12,
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 1000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 97,
+    "cotisationsEstimees": 0,
+    "netEstime": 19903,
+    "differeJours": 8,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12,
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 1000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 97,
+    "cotisationsEstimees": 0,
+    "netEstime": 19903,
+    "differeJours": 8,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12,
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 101000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 9797,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 107225.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12,
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": null,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": []
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 101000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 9797,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 107225.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12,
+    "convention": "syntec"
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": 19000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12,
+    "convention": "syntec",
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": 19000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": null,
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12,
+    "convention": "syntec",
+    "indemniteNegociee": 20000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": 19000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 1000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 97,
+    "cotisationsEstimees": 0,
+    "netEstime": 19903,
+    "differeJours": 8,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12,
+    "convention": "syntec",
+    "indemniteNegociee": 20000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": 19000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 20000,
+    "supraLegale": 1000,
+    "exonereImpot": 20000,
+    "imposable": 0,
+    "exonereCotisations": 20000,
+    "soumisCotisations": 0,
+    "csgCrds": 97,
+    "cotisationsEstimees": 0,
+    "netEstime": 19903,
+    "differeJours": 8,
+    "contributionPatronale": 8000,
+    "coutEmployeur": 28000
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12,
+    "convention": "syntec",
+    "indemniteNegociee": 120000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": 19000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 101000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 9797,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 107225.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 6000,
+    "ancienneteAnnees": 12,
+    "convention": "syntec",
+    "indemniteNegociee": 120000,
+    "remunerationAnnuelleN1": 90000
+   }
+  ],
+  "result": {
+   "indemniteLegaleMin": 19000,
+   "licenciement": {
+    "indemniteEstimee": 19000,
+    "indemniteLegale": 19000,
+    "indemniteConventionnelle": 19000,
+    "base": "legale",
+    "salaireReference": 6000,
+    "anciennete": 12,
+    "eligible": true,
+    "tranches": [
+     {
+      "label": "1/4 de mois × 10 ans",
+      "montant": 15000
+     },
+     {
+      "label": "1/3 de mois × 2 ans au-delà de 10 ans",
+      "montant": 4000
+     }
+    ],
+    "moisDeSalaire": 3.17,
+    "detail": "Basé sur 12 ans d'ancienneté et un salaire de référence de 6 000 € brut.",
+    "notes": [
+     "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+    ]
+   },
+   "negociee": {
+    "montant": 120000,
+    "supraLegale": 101000,
+    "exonereImpot": 120000,
+    "imposable": 0,
+    "exonereCotisations": 96120,
+    "soumisCotisations": 23880,
+    "csgCrds": 9797,
+    "cotisationsEstimees": 2977.78,
+    "netEstime": 107225.22,
+    "differeJours": 150,
+    "contributionPatronale": 38448,
+    "coutEmployeur": 158448
+   },
+   "message": "L'indemnité de rupture conventionnelle ne peut être inférieure à l'indemnité légale de licenciement (ou conventionnelle si elle est plus favorable). Tout montant au-delà se négocie."
+  }
+ }
+]

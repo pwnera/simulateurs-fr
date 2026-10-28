@@ -1,0 +1,493 @@
+[
+ {
+  "args": [
+   {
+    "tjm": 400,
+    "joursTravaillesParMois": 15,
+    "fraisPortagePercent": 5
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 6000,
+   "fraisGestion": 300,
+   "apresFrais": 5700,
+   "fraisRembourses": 0,
+   "coutSalaire": 5700,
+   "chargesPatronales": 1646.32,
+   "brutMensuel": 4053.67,
+   "cotisationsSalariales": 856.7,
+   "netSalaire": 3196.97,
+   "netMensuel": 3196.97,
+   "netImposable": 3314.21,
+   "impotMensuel": 0,
+   "netApresImpot": 3196.97,
+   "cotisations": 2503.02,
+   "tauxNetSurCA": 0.5328283333333333,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 400,
+    "joursTravaillesParMois": 15,
+    "fraisPortagePercent": 5,
+    "fraisProfessionnels": 500
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 6000,
+   "fraisGestion": 300,
+   "apresFrais": 5700,
+   "fraisRembourses": 500,
+   "coutSalaire": 5200,
+   "chargesPatronales": 1465.76,
+   "brutMensuel": 3734.24,
+   "cotisationsSalariales": 784.55,
+   "netSalaire": 2949.69,
+   "netMensuel": 3449.69,
+   "netImposable": 3057.71,
+   "impotMensuel": 0,
+   "netApresImpot": 3449.69,
+   "cotisations": 2250.31,
+   "tauxNetSurCA": 0.5749483333333334,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 400,
+    "joursTravaillesParMois": 15,
+    "fraisPortagePercent": 10
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 6000,
+   "fraisGestion": 600,
+   "apresFrais": 5400,
+   "fraisRembourses": 0,
+   "coutSalaire": 5400,
+   "chargesPatronales": 1536.85,
+   "brutMensuel": 3863.14,
+   "cotisationsSalariales": 811.64,
+   "netSalaire": 3051.5,
+   "netMensuel": 3051.5,
+   "netImposable": 3163.25,
+   "impotMensuel": 0,
+   "netApresImpot": 3051.5,
+   "cotisations": 2348.49,
+   "tauxNetSurCA": 0.5085833333333334,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 400,
+    "joursTravaillesParMois": 15,
+    "fraisPortagePercent": 10,
+    "fraisProfessionnels": 500
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 6000,
+   "fraisGestion": 600,
+   "apresFrais": 5400,
+   "fraisRembourses": 500,
+   "coutSalaire": 4900,
+   "chargesPatronales": 1357.29,
+   "brutMensuel": 3542.71,
+   "cotisationsSalariales": 744.32,
+   "netSalaire": 2798.39,
+   "netMensuel": 3298.39,
+   "netImposable": 2900.87,
+   "impotMensuel": 0,
+   "netApresImpot": 3298.39,
+   "cotisations": 2101.61,
+   "tauxNetSurCA": 0.5497316666666666,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 400,
+    "joursTravaillesParMois": 20,
+    "fraisPortagePercent": 5
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 8000,
+   "fraisGestion": 400,
+   "apresFrais": 7600,
+   "fraisRembourses": 0,
+   "coutSalaire": 7600,
+   "chargesPatronales": 2248.53,
+   "brutMensuel": 5351.47,
+   "cotisationsSalariales": 1113.85,
+   "netSalaire": 4237.62,
+   "netMensuel": 4237.62,
+   "netImposable": 4391.84,
+   "impotMensuel": 0,
+   "netApresImpot": 4237.62,
+   "cotisations": 3362.38,
+   "tauxNetSurCA": 0.5297025,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 400,
+    "joursTravaillesParMois": 20,
+    "fraisPortagePercent": 5,
+    "fraisProfessionnels": 500
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 8000,
+   "fraisGestion": 400,
+   "apresFrais": 7600,
+   "fraisRembourses": 500,
+   "coutSalaire": 7100,
+   "chargesPatronales": 2097.58,
+   "brutMensuel": 5002.42,
+   "cotisationsSalariales": 1044.68,
+   "netSalaire": 3957.74,
+   "netMensuel": 4457.74,
+   "netImposable": 4102.01,
+   "impotMensuel": 0,
+   "netApresImpot": 4457.74,
+   "cotisations": 3142.26,
+   "tauxNetSurCA": 0.5572174999999999,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 400,
+    "joursTravaillesParMois": 20,
+    "fraisPortagePercent": 10
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 8000,
+   "fraisGestion": 800,
+   "apresFrais": 7200,
+   "fraisRembourses": 0,
+   "coutSalaire": 7200,
+   "chargesPatronales": 2128.28,
+   "brutMensuel": 5071.71,
+   "cotisationsSalariales": 1058.42,
+   "netSalaire": 4013.29,
+   "netMensuel": 4013.29,
+   "netImposable": 4159.54,
+   "impotMensuel": 0,
+   "netApresImpot": 4013.29,
+   "cotisations": 3186.7,
+   "tauxNetSurCA": 0.50166125,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 400,
+    "joursTravaillesParMois": 20,
+    "fraisPortagePercent": 10,
+    "fraisProfessionnels": 500
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 8000,
+   "fraisGestion": 800,
+   "apresFrais": 7200,
+   "fraisRembourses": 500,
+   "coutSalaire": 6700,
+   "chargesPatronales": 1972.79,
+   "brutMensuel": 4726.83,
+   "cotisationsSalariales": 990.08,
+   "netSalaire": 3736.75,
+   "netMensuel": 4236.75,
+   "netImposable": 3873.17,
+   "impotMensuel": 0,
+   "netApresImpot": 4236.75,
+   "cotisations": 2962.87,
+   "tauxNetSurCA": 0.52959375,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 700,
+    "joursTravaillesParMois": 15,
+    "fraisPortagePercent": 5
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 10500,
+   "fraisGestion": 525,
+   "apresFrais": 9975,
+   "fraisRembourses": 0,
+   "coutSalaire": 9975,
+   "chargesPatronales": 3035.95,
+   "brutMensuel": 6939.05,
+   "cotisationsSalariales": 1428.41,
+   "netSalaire": 5510.64,
+   "netMensuel": 5510.64,
+   "netImposable": 5710.09,
+   "impotMensuel": 0,
+   "netApresImpot": 5510.64,
+   "cotisations": 4464.36,
+   "tauxNetSurCA": 0.5248228571428571,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 700,
+    "joursTravaillesParMois": 15,
+    "fraisPortagePercent": 5,
+    "fraisProfessionnels": 500
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 10500,
+   "fraisGestion": 525,
+   "apresFrais": 9975,
+   "fraisRembourses": 500,
+   "coutSalaire": 9475,
+   "chargesPatronales": 2886.01,
+   "brutMensuel": 6588.98,
+   "cotisationsSalariales": 1359.05,
+   "netSalaire": 5229.93,
+   "netMensuel": 5729.93,
+   "netImposable": 5419.41,
+   "impotMensuel": 0,
+   "netApresImpot": 5729.93,
+   "cotisations": 4245.06,
+   "tauxNetSurCA": 0.5457076190476191,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 700,
+    "joursTravaillesParMois": 15,
+    "fraisPortagePercent": 10
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 10500,
+   "fraisGestion": 1050,
+   "apresFrais": 9450,
+   "fraisRembourses": 0,
+   "coutSalaire": 9450,
+   "chargesPatronales": 2878.53,
+   "brutMensuel": 6571.48,
+   "cotisationsSalariales": 1355.59,
+   "netSalaire": 5215.89,
+   "netMensuel": 5215.89,
+   "netImposable": 5404.87,
+   "impotMensuel": 0,
+   "netApresImpot": 5215.89,
+   "cotisations": 4234.12,
+   "tauxNetSurCA": 0.4967514285714286,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 700,
+    "joursTravaillesParMois": 15,
+    "fraisPortagePercent": 10,
+    "fraisProfessionnels": 500
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 10500,
+   "fraisGestion": 1050,
+   "apresFrais": 9450,
+   "fraisRembourses": 500,
+   "coutSalaire": 8950,
+   "chargesPatronales": 2728.61,
+   "brutMensuel": 6221.39,
+   "cotisationsSalariales": 1286.22,
+   "netSalaire": 4935.17,
+   "netMensuel": 5435.17,
+   "netImposable": 5114.17,
+   "impotMensuel": 0,
+   "netApresImpot": 5435.17,
+   "cotisations": 4014.83,
+   "tauxNetSurCA": 0.5176352380952381,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 700,
+    "joursTravaillesParMois": 20,
+    "fraisPortagePercent": 5
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 14000,
+   "fraisGestion": 700,
+   "apresFrais": 13300,
+   "fraisRembourses": 0,
+   "coutSalaire": 13300,
+   "chargesPatronales": 4032.86,
+   "brutMensuel": 9267.13,
+   "cotisationsSalariales": 1889.7,
+   "netSalaire": 7377.43,
+   "netMensuel": 7377.43,
+   "netImposable": 7643.22,
+   "impotMensuel": 0,
+   "netApresImpot": 7377.43,
+   "cotisations": 5922.56,
+   "tauxNetSurCA": 0.5269592857142857,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 700,
+    "joursTravaillesParMois": 20,
+    "fraisPortagePercent": 5,
+    "fraisProfessionnels": 500
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 14000,
+   "fraisGestion": 700,
+   "apresFrais": 13300,
+   "fraisRembourses": 500,
+   "coutSalaire": 12800,
+   "chargesPatronales": 3882.96,
+   "brutMensuel": 8917.04,
+   "cotisationsSalariales": 1820.34,
+   "netSalaire": 7096.7,
+   "netMensuel": 7596.7,
+   "netImposable": 7352.52,
+   "impotMensuel": 0,
+   "netApresImpot": 7596.7,
+   "cotisations": 5703.3,
+   "tauxNetSurCA": 0.5426214285714286,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 700,
+    "joursTravaillesParMois": 20,
+    "fraisPortagePercent": 10
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 14000,
+   "fraisGestion": 1400,
+   "apresFrais": 12600,
+   "fraisRembourses": 0,
+   "coutSalaire": 12600,
+   "chargesPatronales": 3822.96,
+   "brutMensuel": 8777.03,
+   "cotisationsSalariales": 1792.6,
+   "netSalaire": 6984.43,
+   "netMensuel": 6984.43,
+   "netImposable": 7236.25,
+   "impotMensuel": 0,
+   "netApresImpot": 6984.43,
+   "cotisations": 5615.56,
+   "tauxNetSurCA": 0.49888785714285716,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 700,
+    "joursTravaillesParMois": 20,
+    "fraisPortagePercent": 10,
+    "fraisProfessionnels": 500
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 14000,
+   "fraisGestion": 1400,
+   "apresFrais": 12600,
+   "fraisRembourses": 500,
+   "coutSalaire": 12100,
+   "chargesPatronales": 3673.06,
+   "brutMensuel": 8426.92,
+   "cotisationsSalariales": 1723.23,
+   "netSalaire": 6703.69,
+   "netMensuel": 7203.69,
+   "netImposable": 6945.54,
+   "impotMensuel": 0,
+   "netApresImpot": 7203.69,
+   "cotisations": 5396.29,
+   "tauxNetSurCA": 0.5145492857142857,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 7000
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 7000,
+   "fraisGestion": 490,
+   "apresFrais": 6510,
+   "fraisRembourses": 0,
+   "coutSalaire": 6510,
+   "chargesPatronales": 1912.7,
+   "brutMensuel": 4597.29,
+   "cotisationsSalariales": 964.41,
+   "netSalaire": 3632.88,
+   "netMensuel": 3632.88,
+   "netImposable": 3765.61,
+   "impotMensuel": 0,
+   "netApresImpot": 3632.88,
+   "cotisations": 2877.11,
+   "tauxNetSurCA": 0.5189828571428572,
+   "sousMinimum": false
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 7000,
+    "tauxPrelevementSource": 10
+   }
+  ],
+  "result": {
+   "caBrutMensuel": 7000,
+   "fraisGestion": 490,
+   "apresFrais": 6510,
+   "fraisRembourses": 0,
+   "coutSalaire": 6510,
+   "chargesPatronales": 1912.7,
+   "brutMensuel": 4597.29,
+   "cotisationsSalariales": 964.41,
+   "netSalaire": 3632.88,
+   "netMensuel": 3632.88,
+   "netImposable": 3765.61,
+   "impotMensuel": 376.56,
+   "netApresImpot": 3256.32,
+   "cotisations": 2877.11,
+   "tauxNetSurCA": 0.5189828571428572,
+   "sousMinimum": false
+  }
+ }
+]

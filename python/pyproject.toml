@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "calculsalairebrutnet"
+version = "1.0.0"
+description = "Moteur de calcul open source des simulateurs de calculsalairebrutnet.fr : salaire brut net, cotisations, impôt, chômage, APL, freelance, auto-entrepreneur, portage. Barèmes 2026."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+keywords = ["salaire", "brut", "net", "cotisations", "urssaf", "impot", "freelance", "auto-entrepreneur", "france", "paie"]
+classifiers = [
+  "Natural Language :: French",
+  "Programming Language :: Python :: 3",
+  "Topic :: Office/Business :: Financial :: Accounting",
+  "Typing :: Typed",
+]
+
+[project.urls]
+Homepage = "https://www.calculsalairebrutnet.fr"
+Source = "https://github.com/pwnera/simulateurs-fr"
+Issues = "https://github.com/pwnera/simulateurs-fr/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/calculsalairebrutnet"]

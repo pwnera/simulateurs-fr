@@ -1,0 +1,3556 @@
+[
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "moins-55"
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "moins-55",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "moins-55",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "moins-55",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "moins-55",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "moins-55",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 24 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "55-56"
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "55-56",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "55-56",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "55-56",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "55-56",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "55-56",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "57-plus"
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "57-plus",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "57-plus",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "57-plus",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "57-plus",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 0,
+    "trancheAge": "57-plus",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 0,
+   "allocationJournaliere": 0,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 0,
+   "allocationJournaliereNette": 0,
+   "allocationMensuelleNette": 0,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 0,
+   "dureeMaxMois": 0,
+   "degressive": false,
+   "allocationJournaliereDegressive": 0,
+   "totalBrut": 0,
+   "eligible": false,
+   "message": "Il faut avoir travaillé au moins 6 mois sur les 36 derniers mois pour ouvrir des droits.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 548,
+   "dureeMaxMois": 18,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 16440,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 456,
+   "dureeMaxMois": 15,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 13680,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 5490,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 5490,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 12330,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 12330,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "moins-55"
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 548,
+   "dureeMaxMois": 18,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 16440,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "moins-55",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 456,
+   "dureeMaxMois": 15,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 13680,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "moins-55",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 5490,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "moins-55",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 5490,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "moins-55",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 12330,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "moins-55",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 12330,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "55-56"
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 685,
+   "dureeMaxMois": 22.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 20550,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "55-56",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 624,
+   "dureeMaxMois": 20.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 18720,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "55-56",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 5490,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "55-56",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 5490,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "55-56",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 12330,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "55-56",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 12330,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "57-plus"
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 822,
+   "dureeMaxMois": 27,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 24660,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "57-plus",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 624,
+   "dureeMaxMois": 20.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 18720,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "57-plus",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 5490,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "57-plus",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 5490,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "57-plus",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 12330,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 40,
+    "trancheAge": "57-plus",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 40,
+   "allocationJournaliere": 30,
+   "formule": "plafond 75 %",
+   "allocationMensuelle": 900,
+   "allocationJournaliereNette": 30,
+   "allocationMensuelleNette": 900,
+   "retenueRetraite": 0,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 30,
+   "totalBrut": 12330,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 548,
+   "dureeMaxMois": 18,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 31236,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 456,
+   "dureeMaxMois": 15,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 25992,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 10431,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 10431,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 23427,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 23427,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "moins-55"
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 548,
+   "dureeMaxMois": 18,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 31236,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "moins-55",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 456,
+   "dureeMaxMois": 15,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 25992,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "moins-55",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 10431,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "moins-55",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 10431,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "moins-55",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 23427,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "moins-55",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 23427,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "55-56"
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 685,
+   "dureeMaxMois": 22.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 39045,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "55-56",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 624,
+   "dureeMaxMois": 20.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 35568,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "55-56",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 10431,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "55-56",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 10431,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "55-56",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 23427,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "55-56",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 23427,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "57-plus"
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 822,
+   "dureeMaxMois": 27,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 46854,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "57-plus",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 624,
+   "dureeMaxMois": 20.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 35568,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "57-plus",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 10431,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "57-plus",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 10431,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "57-plus",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 23427,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 100,
+    "trancheAge": "57-plus",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 100,
+   "allocationJournaliere": 57,
+   "formule": "57 %",
+   "allocationMensuelle": 1710,
+   "allocationJournaliereNette": 54,
+   "allocationMensuelleNette": 1620,
+   "retenueRetraite": 3,
+   "csgCrds": 0,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 57,
+   "totalBrut": 23427,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 548,
+   "dureeMaxMois": 18,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 54628.62,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 456,
+   "dureeMaxMois": 15,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 46112.18,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 20840.57,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 20840.57,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 41946.53,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 41946.53,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "moins-55"
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 548,
+   "dureeMaxMois": 18,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 54628.62,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "moins-55",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 456,
+   "dureeMaxMois": 15,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 46112.18,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "moins-55",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 20840.57,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "moins-55",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 20840.57,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "moins-55",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 41946.53,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "moins-55",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": true,
+   "allocationJournaliereDegressive": 92.57,
+   "totalBrut": 41946.53,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (92,57 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "55-56"
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 685,
+   "dureeMaxMois": 22.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 78090,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "55-56",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 624,
+   "dureeMaxMois": 20.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 71136,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "55-56",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 20862,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "55-56",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 20862,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "55-56",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 46854,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "55-56",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 46854,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "57-plus"
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 822,
+   "dureeMaxMois": 27,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 93708,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "57-plus",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 624,
+   "dureeMaxMois": 20.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 71136,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "57-plus",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 20862,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "57-plus",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 20862,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "57-plus",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 46854,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 200,
+    "trancheAge": "57-plus",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 200,
+   "allocationJournaliere": 114,
+   "formule": "57 %",
+   "allocationMensuelle": 3420,
+   "allocationJournaliereNette": 100.5,
+   "allocationMensuelleNette": 3014.87,
+   "retenueRetraite": 6,
+   "csgCrds": 7.5,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 114,
+   "totalBrut": 46854,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 548,
+   "dureeMaxMois": 18,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 112398.3,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 456,
+   "dureeMaxMois": 15,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 95879.7,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 46862.55,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 46862.55,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 87799.95,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 87799.95,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "moins-55"
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 548,
+   "dureeMaxMois": 18,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 112398.3,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "moins-55",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 456,
+   "dureeMaxMois": 15,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 95879.7,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "moins-55",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 46862.55,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "moins-55",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 46862.55,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "moins-55",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 87799.95,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "moins-55",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": true,
+   "allocationJournaliereDegressive": 179.55,
+   "totalBrut": 87799.95,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "À partir du 7e mois, l'allocation baisse de 30 % (179,55 € / jour), sans descendre sous 92,57 €.",
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "55-56"
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 685,
+   "dureeMaxMois": 22.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 175702.5,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "55-56",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 624,
+   "dureeMaxMois": 20.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 160056,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "55-56",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 46939.5,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "55-56",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 46939.5,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "55-56",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 105421.5,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "55-56",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 105421.5,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "57-plus"
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 822,
+   "dureeMaxMois": 27,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 210843,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "57-plus",
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 624,
+   "dureeMaxMois": 20.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 160056,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "57-plus",
+    "moisTravailles": 8
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 46939.5,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "57-plus",
+    "moisTravailles": 8,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 183,
+   "dureeMaxMois": 6,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 46939.5,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "57-plus",
+    "moisTravailles": 18
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 105421.5,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireJournalierReference": 450,
+    "trancheAge": "57-plus",
+    "moisTravailles": 18,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "sjr": 450,
+   "allocationJournaliere": 256.5,
+   "formule": "57 %",
+   "allocationMensuelle": 7695,
+   "allocationJournaliereNette": 226.12,
+   "allocationMensuelleNette": 6783.46,
+   "retenueRetraite": 13.5,
+   "csgCrds": 16.88,
+   "dureeJours": 411,
+   "dureeMaxMois": 13.5,
+   "degressive": false,
+   "allocationJournaliereDegressive": 256.5,
+   "totalBrut": 105421.5,
+   "eligible": true,
+   "message": "Montant et durée définitifs fixés par France Travail après étude de votre dossier.",
+   "notes": [
+    "Rupture conventionnelle : durée maximale réduite (15 mois avant 55 ans, 20,5 mois ensuite) pour une fin de contrat depuis le 1er septembre 2026.",
+    "Un délai d'attente de 7 jours et d'éventuels différés (congés payés, indemnités supra-légales) s'appliquent avant le premier versement."
+   ]
+  }
+ }
+]

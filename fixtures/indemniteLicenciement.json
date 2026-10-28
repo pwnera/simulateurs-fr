@@ -1,0 +1,3653 @@
+[
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 500,
+   "indemniteLegale": 500,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 500
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 500,
+   "indemniteLegale": 500,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 500
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 500,
+   "indemniteLegale": 500,
+   "indemniteConventionnelle": 500,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 500
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 500,
+   "indemniteLegale": 500,
+   "indemniteConventionnelle": 500,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 500
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec : avant 2 ans d'ancienneté, l'indemnité des cadres suit le barème légal."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 500,
+   "indemniteLegale": 500,
+   "indemniteConventionnelle": 500,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 500
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 500,
+   "indemniteLegale": 500,
+   "indemniteConventionnelle": 500,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 500
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes F à I : le barème conventionnel s'applique à partir de 8 ans d'ancienneté ; avant, l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 750,
+   "indemniteLegale": 750,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 750
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 750,
+   "indemniteLegale": 750,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 750
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 750,
+   "indemniteLegale": 750,
+   "indemniteConventionnelle": 750,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 750
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 750,
+   "indemniteLegale": 750,
+   "indemniteConventionnelle": 750,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 750
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec : avant 2 ans d'ancienneté, l'indemnité des cadres suit le barème légal."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 750,
+   "indemniteLegale": 750,
+   "indemniteConventionnelle": 750,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 750
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 750,
+   "indemniteLegale": 750,
+   "indemniteConventionnelle": 750,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 750
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes F à I : le barème conventionnel s'applique à partir de 8 ans d'ancienneté ; avant, l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3500,
+   "indemniteLegale": 3500,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans",
+     "montant": 3500
+    }
+   ],
+   "moisDeSalaire": 1.75,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3500,
+   "indemniteLegale": 3500,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans",
+     "montant": 3500
+    }
+   ],
+   "moisDeSalaire": 1.75,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3500,
+   "indemniteLegale": 3500,
+   "indemniteConventionnelle": 3500,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans",
+     "montant": 3500
+    }
+   ],
+   "moisDeSalaire": 1.75,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 4666.67,
+   "indemniteLegale": 3500,
+   "indemniteConventionnelle": 4666.67,
+   "base": "conventionnelle",
+   "salaireReference": 2000,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 7 ans",
+     "montant": 4666.67
+    }
+   ],
+   "moisDeSalaire": 2.33,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3500,
+   "indemniteLegale": 3500,
+   "indemniteConventionnelle": 3500,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans",
+     "montant": 3500
+    }
+   ],
+   "moisDeSalaire": 1.75,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3500,
+   "indemniteLegale": 3500,
+   "indemniteConventionnelle": 3500,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans",
+     "montant": 3500
+    }
+   ],
+   "moisDeSalaire": 1.75,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes F à I : le barème conventionnel s'applique à partir de 8 ans d'ancienneté ; avant, l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3750,
+   "indemniteLegale": 3750,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans et 6 mois",
+     "montant": 3750
+    }
+   ],
+   "moisDeSalaire": 1.88,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3750,
+   "indemniteLegale": 3750,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans et 6 mois",
+     "montant": 3750
+    }
+   ],
+   "moisDeSalaire": 1.88,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3750,
+   "indemniteLegale": 3750,
+   "indemniteConventionnelle": 3750,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans et 6 mois",
+     "montant": 3750
+    }
+   ],
+   "moisDeSalaire": 1.88,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 5000,
+   "indemniteLegale": 3750,
+   "indemniteConventionnelle": 5000,
+   "base": "conventionnelle",
+   "salaireReference": 2000,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 7 ans et 6 mois",
+     "montant": 5000
+    }
+   ],
+   "moisDeSalaire": 2.5,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3750,
+   "indemniteLegale": 3750,
+   "indemniteConventionnelle": 3750,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans et 6 mois",
+     "montant": 3750
+    }
+   ],
+   "moisDeSalaire": 1.88,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3750,
+   "indemniteLegale": 3750,
+   "indemniteConventionnelle": 3750,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans et 6 mois",
+     "montant": 3750
+    }
+   ],
+   "moisDeSalaire": 1.88,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes F à I : le barème conventionnel s'applique à partir de 8 ans d'ancienneté ; avant, l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8333.33,
+   "indemniteLegale": 8333.33,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 5 ans au-delà de 10 ans",
+     "montant": 3333.33
+    }
+   ],
+   "moisDeSalaire": 4.17,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8333.33,
+   "indemniteLegale": 8333.33,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 5 ans au-delà de 10 ans",
+     "montant": 3333.33
+    }
+   ],
+   "moisDeSalaire": 4.17,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8333.33,
+   "indemniteLegale": 8333.33,
+   "indemniteConventionnelle": 8333.33,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 5 ans au-delà de 10 ans",
+     "montant": 3333.33
+    }
+   ],
+   "moisDeSalaire": 4.17,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 10000,
+   "indemniteLegale": 8333.33,
+   "indemniteConventionnelle": 10000,
+   "base": "conventionnelle",
+   "salaireReference": 2000,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 15 ans",
+     "montant": 10000
+    }
+   ],
+   "moisDeSalaire": 5,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8333.33,
+   "indemniteLegale": 8333.33,
+   "indemniteConventionnelle": 8333.33,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 5 ans au-delà de 10 ans",
+     "montant": 3333.33
+    }
+   ],
+   "moisDeSalaire": 4.17,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 12400,
+   "indemniteLegale": 8333.33,
+   "indemniteConventionnelle": 12400,
+   "base": "conventionnelle",
+   "salaireReference": 2000,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Métallurgie F à I : 1/5 de mois × 7 premières années",
+     "montant": 2800
+    },
+    {
+     "label": "3/5 de mois × 8 ans au-delà",
+     "montant": 9600
+    }
+   ],
+   "moisDeSalaire": 6.2,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie (IDCC 3248), groupes F à I : plafond de 18 mois. Une majoration selon l'âge (à partir de 50 ans) peut s'ajouter : vérifiez l'article 75 de la convention."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8666.67,
+   "indemniteLegale": 8666.67,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 5 ans et 6 mois au-delà de 10 ans",
+     "montant": 3666.67
+    }
+   ],
+   "moisDeSalaire": 4.33,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8666.67,
+   "indemniteLegale": 8666.67,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 5 ans et 6 mois au-delà de 10 ans",
+     "montant": 3666.67
+    }
+   ],
+   "moisDeSalaire": 4.33,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8666.67,
+   "indemniteLegale": 8666.67,
+   "indemniteConventionnelle": 8666.67,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 5 ans et 6 mois au-delà de 10 ans",
+     "montant": 3666.67
+    }
+   ],
+   "moisDeSalaire": 4.33,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 10333.33,
+   "indemniteLegale": 8666.67,
+   "indemniteConventionnelle": 10333.33,
+   "base": "conventionnelle",
+   "salaireReference": 2000,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 15 ans et 6 mois",
+     "montant": 10333.33
+    }
+   ],
+   "moisDeSalaire": 5.17,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8666.67,
+   "indemniteLegale": 8666.67,
+   "indemniteConventionnelle": 8666.67,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 5 ans et 6 mois au-delà de 10 ans",
+     "montant": 3666.67
+    }
+   ],
+   "moisDeSalaire": 4.33,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 13000,
+   "indemniteLegale": 8666.67,
+   "indemniteConventionnelle": 13000,
+   "base": "conventionnelle",
+   "salaireReference": 2000,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Métallurgie F à I : 1/5 de mois × 7 premières années",
+     "montant": 2800
+    },
+    {
+     "label": "3/5 de mois × 8 ans et 6 mois au-delà",
+     "montant": 10200
+    }
+   ],
+   "moisDeSalaire": 6.5,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie (IDCC 3248), groupes F à I : plafond de 18 mois. Une majoration selon l'âge (à partir de 50 ans) peut s'ajouter : vérifiez l'article 75 de la convention."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 15000,
+   "indemniteLegale": 15000,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 15 ans au-delà de 10 ans",
+     "montant": 10000
+    }
+   ],
+   "moisDeSalaire": 7.5,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 15000,
+   "indemniteLegale": 15000,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 15 ans au-delà de 10 ans",
+     "montant": 10000
+    }
+   ],
+   "moisDeSalaire": 7.5,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 15000,
+   "indemniteLegale": 15000,
+   "indemniteConventionnelle": 15000,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 15 ans au-delà de 10 ans",
+     "montant": 10000
+    }
+   ],
+   "moisDeSalaire": 7.5,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 16666.67,
+   "indemniteLegale": 15000,
+   "indemniteConventionnelle": 16666.67,
+   "base": "conventionnelle",
+   "salaireReference": 2000,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 25 ans",
+     "montant": 16666.67
+    }
+   ],
+   "moisDeSalaire": 8.33,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 15000,
+   "indemniteLegale": 15000,
+   "indemniteConventionnelle": 15000,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 15 ans au-delà de 10 ans",
+     "montant": 10000
+    }
+   ],
+   "moisDeSalaire": 7.5,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 24400,
+   "indemniteLegale": 15000,
+   "indemniteConventionnelle": 24400,
+   "base": "conventionnelle",
+   "salaireReference": 2000,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Métallurgie F à I : 1/5 de mois × 7 premières années",
+     "montant": 2800
+    },
+    {
+     "label": "3/5 de mois × 18 ans au-delà",
+     "montant": 21600
+    }
+   ],
+   "moisDeSalaire": 12.2,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie (IDCC 3248), groupes F à I : plafond de 18 mois. Une majoration selon l'âge (à partir de 50 ans) peut s'ajouter : vérifiez l'article 75 de la convention."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 15333.33,
+   "indemniteLegale": 15333.33,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 15 ans et 6 mois au-delà de 10 ans",
+     "montant": 10333.33
+    }
+   ],
+   "moisDeSalaire": 7.67,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 15333.33,
+   "indemniteLegale": 15333.33,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 15 ans et 6 mois au-delà de 10 ans",
+     "montant": 10333.33
+    }
+   ],
+   "moisDeSalaire": 7.67,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 15333.33,
+   "indemniteLegale": 15333.33,
+   "indemniteConventionnelle": 15333.33,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 15 ans et 6 mois au-delà de 10 ans",
+     "montant": 10333.33
+    }
+   ],
+   "moisDeSalaire": 7.67,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 17000,
+   "indemniteLegale": 15333.33,
+   "indemniteConventionnelle": 17000,
+   "base": "conventionnelle",
+   "salaireReference": 2000,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 25 ans et 6 mois",
+     "montant": 17000
+    }
+   ],
+   "moisDeSalaire": 8.5,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 15333.33,
+   "indemniteLegale": 15333.33,
+   "indemniteConventionnelle": 15333.33,
+   "base": "legale",
+   "salaireReference": 2000,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 5000
+    },
+    {
+     "label": "1/3 de mois × 15 ans et 6 mois au-delà de 10 ans",
+     "montant": 10333.33
+    }
+   ],
+   "moisDeSalaire": 7.67,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 2000,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 25000,
+   "indemniteLegale": 15333.33,
+   "indemniteConventionnelle": 25000,
+   "base": "conventionnelle",
+   "salaireReference": 2000,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Métallurgie F à I : 1/5 de mois × 7 premières années",
+     "montant": 2800
+    },
+    {
+     "label": "3/5 de mois × 18 ans et 6 mois au-delà",
+     "montant": 22200
+    }
+   ],
+   "moisDeSalaire": 12.5,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 2 000 € brut.",
+   "notes": [
+    "Métallurgie (IDCC 3248), groupes F à I : plafond de 18 mois. Une majoration selon l'âge (à partir de 50 ans) peut s'ajouter : vérifiez l'article 75 de la convention."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 0,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 0.5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Il faut au moins 8 mois d'ancienneté ininterrompue pour avoir droit à l'indemnité légale de licenciement.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1125,
+   "indemniteLegale": 1125,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 1125
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1125,
+   "indemniteLegale": 1125,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 1125
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1125,
+   "indemniteLegale": 1125,
+   "indemniteConventionnelle": 1125,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 1125
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1125,
+   "indemniteLegale": 1125,
+   "indemniteConventionnelle": 1125,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 1125
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec : avant 2 ans d'ancienneté, l'indemnité des cadres suit le barème légal."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1125,
+   "indemniteLegale": 1125,
+   "indemniteConventionnelle": 1125,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 1125
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1125,
+   "indemniteLegale": 1125,
+   "indemniteConventionnelle": 1125,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an",
+     "montant": 1125
+    }
+   ],
+   "moisDeSalaire": 0.25,
+   "detail": "Basé sur 1 an d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes F à I : le barème conventionnel s'applique à partir de 8 ans d'ancienneté ; avant, l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1687.5,
+   "indemniteLegale": 1687.5,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 1687.5
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1687.5,
+   "indemniteLegale": 1687.5,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 1687.5
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1687.5,
+   "indemniteLegale": 1687.5,
+   "indemniteConventionnelle": 1687.5,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 1687.5
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1687.5,
+   "indemniteLegale": 1687.5,
+   "indemniteConventionnelle": 1687.5,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 1687.5
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec : avant 2 ans d'ancienneté, l'indemnité des cadres suit le barème légal."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1687.5,
+   "indemniteLegale": 1687.5,
+   "indemniteConventionnelle": 1687.5,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 1687.5
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 1,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 1687.5,
+   "indemniteLegale": 1687.5,
+   "indemniteConventionnelle": 1687.5,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 1.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 1 an et 6 mois",
+     "montant": 1687.5
+    }
+   ],
+   "moisDeSalaire": 0.38,
+   "detail": "Basé sur 1 an et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes F à I : le barème conventionnel s'applique à partir de 8 ans d'ancienneté ; avant, l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 7875,
+   "indemniteLegale": 7875,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans",
+     "montant": 7875
+    }
+   ],
+   "moisDeSalaire": 1.75,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 7875,
+   "indemniteLegale": 7875,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans",
+     "montant": 7875
+    }
+   ],
+   "moisDeSalaire": 1.75,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 7875,
+   "indemniteLegale": 7875,
+   "indemniteConventionnelle": 7875,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans",
+     "montant": 7875
+    }
+   ],
+   "moisDeSalaire": 1.75,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 10500,
+   "indemniteLegale": 7875,
+   "indemniteConventionnelle": 10500,
+   "base": "conventionnelle",
+   "salaireReference": 4500,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 7 ans",
+     "montant": 10500
+    }
+   ],
+   "moisDeSalaire": 2.33,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 7875,
+   "indemniteLegale": 7875,
+   "indemniteConventionnelle": 7875,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans",
+     "montant": 7875
+    }
+   ],
+   "moisDeSalaire": 1.75,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 7875,
+   "indemniteLegale": 7875,
+   "indemniteConventionnelle": 7875,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 7,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans",
+     "montant": 7875
+    }
+   ],
+   "moisDeSalaire": 1.75,
+   "detail": "Basé sur 7 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes F à I : le barème conventionnel s'applique à partir de 8 ans d'ancienneté ; avant, l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8437.5,
+   "indemniteLegale": 8437.5,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans et 6 mois",
+     "montant": 8437.5
+    }
+   ],
+   "moisDeSalaire": 1.88,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8437.5,
+   "indemniteLegale": 8437.5,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans et 6 mois",
+     "montant": 8437.5
+    }
+   ],
+   "moisDeSalaire": 1.88,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8437.5,
+   "indemniteLegale": 8437.5,
+   "indemniteConventionnelle": 8437.5,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans et 6 mois",
+     "montant": 8437.5
+    }
+   ],
+   "moisDeSalaire": 1.88,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 11250,
+   "indemniteLegale": 8437.5,
+   "indemniteConventionnelle": 11250,
+   "base": "conventionnelle",
+   "salaireReference": 4500,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 7 ans et 6 mois",
+     "montant": 11250
+    }
+   ],
+   "moisDeSalaire": 2.5,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8437.5,
+   "indemniteLegale": 8437.5,
+   "indemniteConventionnelle": 8437.5,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans et 6 mois",
+     "montant": 8437.5
+    }
+   ],
+   "moisDeSalaire": 1.88,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 7,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 8437.5,
+   "indemniteLegale": 8437.5,
+   "indemniteConventionnelle": 8437.5,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 7.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 7 ans et 6 mois",
+     "montant": 8437.5
+    }
+   ],
+   "moisDeSalaire": 1.88,
+   "detail": "Basé sur 7 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes F à I : le barème conventionnel s'applique à partir de 8 ans d'ancienneté ; avant, l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 18750,
+   "indemniteLegale": 18750,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 5 ans au-delà de 10 ans",
+     "montant": 7500
+    }
+   ],
+   "moisDeSalaire": 4.17,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 18750,
+   "indemniteLegale": 18750,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 5 ans au-delà de 10 ans",
+     "montant": 7500
+    }
+   ],
+   "moisDeSalaire": 4.17,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 18750,
+   "indemniteLegale": 18750,
+   "indemniteConventionnelle": 18750,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 5 ans au-delà de 10 ans",
+     "montant": 7500
+    }
+   ],
+   "moisDeSalaire": 4.17,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 22500,
+   "indemniteLegale": 18750,
+   "indemniteConventionnelle": 22500,
+   "base": "conventionnelle",
+   "salaireReference": 4500,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 15 ans",
+     "montant": 22500
+    }
+   ],
+   "moisDeSalaire": 5,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 18750,
+   "indemniteLegale": 18750,
+   "indemniteConventionnelle": 18750,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 5 ans au-delà de 10 ans",
+     "montant": 7500
+    }
+   ],
+   "moisDeSalaire": 4.17,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 27900,
+   "indemniteLegale": 18750,
+   "indemniteConventionnelle": 27900,
+   "base": "conventionnelle",
+   "salaireReference": 4500,
+   "anciennete": 15,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Métallurgie F à I : 1/5 de mois × 7 premières années",
+     "montant": 6300
+    },
+    {
+     "label": "3/5 de mois × 8 ans au-delà",
+     "montant": 21600
+    }
+   ],
+   "moisDeSalaire": 6.2,
+   "detail": "Basé sur 15 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie (IDCC 3248), groupes F à I : plafond de 18 mois. Une majoration selon l'âge (à partir de 50 ans) peut s'ajouter : vérifiez l'article 75 de la convention."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 19500,
+   "indemniteLegale": 19500,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 5 ans et 6 mois au-delà de 10 ans",
+     "montant": 8250
+    }
+   ],
+   "moisDeSalaire": 4.33,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 19500,
+   "indemniteLegale": 19500,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 5 ans et 6 mois au-delà de 10 ans",
+     "montant": 8250
+    }
+   ],
+   "moisDeSalaire": 4.33,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 19500,
+   "indemniteLegale": 19500,
+   "indemniteConventionnelle": 19500,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 5 ans et 6 mois au-delà de 10 ans",
+     "montant": 8250
+    }
+   ],
+   "moisDeSalaire": 4.33,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 23250,
+   "indemniteLegale": 19500,
+   "indemniteConventionnelle": 23250,
+   "base": "conventionnelle",
+   "salaireReference": 4500,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 15 ans et 6 mois",
+     "montant": 23250
+    }
+   ],
+   "moisDeSalaire": 5.17,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 19500,
+   "indemniteLegale": 19500,
+   "indemniteConventionnelle": 19500,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 5 ans et 6 mois au-delà de 10 ans",
+     "montant": 8250
+    }
+   ],
+   "moisDeSalaire": 4.33,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 15,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 29250,
+   "indemniteLegale": 19500,
+   "indemniteConventionnelle": 29250,
+   "base": "conventionnelle",
+   "salaireReference": 4500,
+   "anciennete": 15.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Métallurgie F à I : 1/5 de mois × 7 premières années",
+     "montant": 6300
+    },
+    {
+     "label": "3/5 de mois × 8 ans et 6 mois au-delà",
+     "montant": 22950
+    }
+   ],
+   "moisDeSalaire": 6.5,
+   "detail": "Basé sur 15 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie (IDCC 3248), groupes F à I : plafond de 18 mois. Une majoration selon l'âge (à partir de 50 ans) peut s'ajouter : vérifiez l'article 75 de la convention."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 33750,
+   "indemniteLegale": 33750,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 15 ans au-delà de 10 ans",
+     "montant": 22500
+    }
+   ],
+   "moisDeSalaire": 7.5,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 33750,
+   "indemniteLegale": 33750,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 15 ans au-delà de 10 ans",
+     "montant": 22500
+    }
+   ],
+   "moisDeSalaire": 7.5,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 33750,
+   "indemniteLegale": 33750,
+   "indemniteConventionnelle": 33750,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 15 ans au-delà de 10 ans",
+     "montant": 22500
+    }
+   ],
+   "moisDeSalaire": 7.5,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 37500,
+   "indemniteLegale": 33750,
+   "indemniteConventionnelle": 37500,
+   "base": "conventionnelle",
+   "salaireReference": 4500,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 25 ans",
+     "montant": 37500
+    }
+   ],
+   "moisDeSalaire": 8.33,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 33750,
+   "indemniteLegale": 33750,
+   "indemniteConventionnelle": 33750,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 15 ans au-delà de 10 ans",
+     "montant": 22500
+    }
+   ],
+   "moisDeSalaire": 7.5,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 54900,
+   "indemniteLegale": 33750,
+   "indemniteConventionnelle": 54900,
+   "base": "conventionnelle",
+   "salaireReference": 4500,
+   "anciennete": 25,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Métallurgie F à I : 1/5 de mois × 7 premières années",
+     "montant": 6300
+    },
+    {
+     "label": "3/5 de mois × 18 ans au-delà",
+     "montant": 48600
+    }
+   ],
+   "moisDeSalaire": 12.2,
+   "detail": "Basé sur 25 ans d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie (IDCC 3248), groupes F à I : plafond de 18 mois. Une majoration selon l'âge (à partir de 50 ans) peut s'ajouter : vérifiez l'article 75 de la convention."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 34500,
+   "indemniteLegale": 34500,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 15 ans et 6 mois au-delà de 10 ans",
+     "montant": 23250
+    }
+   ],
+   "moisDeSalaire": 7.67,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 34500,
+   "indemniteLegale": 34500,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 15 ans et 6 mois au-delà de 10 ans",
+     "montant": 23250
+    }
+   ],
+   "moisDeSalaire": 7.67,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 34500,
+   "indemniteLegale": 34500,
+   "indemniteConventionnelle": 34500,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 15 ans et 6 mois au-delà de 10 ans",
+     "montant": 23250
+    }
+   ],
+   "moisDeSalaire": 7.67,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (ETAM) : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "convention": "syntec",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 38250,
+   "indemniteLegale": 34500,
+   "indemniteConventionnelle": 38250,
+   "base": "conventionnelle",
+   "salaireReference": 4500,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Syntec cadres : 1/3 de mois × 25 ans et 6 mois",
+     "montant": 38250
+    }
+   ],
+   "moisDeSalaire": 8.5,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Syntec (IDCC 1486) : 1/3 de mois par année pour les ingénieurs et cadres dès 2 ans d'ancienneté, sans plafond depuis le 1er mai 2023."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "non-cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 34500,
+   "indemniteLegale": 34500,
+   "indemniteConventionnelle": 34500,
+   "base": "legale",
+   "salaireReference": 4500,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 10 ans",
+     "montant": 11250
+    },
+    {
+     "label": "1/3 de mois × 15 ans et 6 mois au-delà de 10 ans",
+     "montant": 23250
+    }
+   ],
+   "moisDeSalaire": 7.67,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie, groupes A à E : l'indemnité conventionnelle est alignée sur l'indemnité légale."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 4500,
+    "ancienneteAnnees": 25,
+    "ancienneteMois": 6,
+    "convention": "metallurgie",
+    "categorie": "cadre"
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 56250,
+   "indemniteLegale": 34500,
+   "indemniteConventionnelle": 56250,
+   "base": "conventionnelle",
+   "salaireReference": 4500,
+   "anciennete": 25.5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "Métallurgie F à I : 1/5 de mois × 7 premières années",
+     "montant": 6300
+    },
+    {
+     "label": "3/5 de mois × 18 ans et 6 mois au-delà",
+     "montant": 49950
+    }
+   ],
+   "moisDeSalaire": 12.5,
+   "detail": "Basé sur 25 ans et 6 mois d'ancienneté et un salaire de référence de 4 500 € brut.",
+   "notes": [
+    "Métallurgie (IDCC 3248), groupes F à I : plafond de 18 mois. Une majoration selon l'âge (à partir de 50 ans) peut s'ajouter : vérifiez l'article 75 de la convention."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 3000,
+    "ancienneteAnnees": 5,
+    "fauteGrave": true
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 0,
+   "indemniteLegale": 0,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 3000,
+   "anciennete": 5,
+   "eligible": false,
+   "tranches": [],
+   "moisDeSalaire": 0,
+   "detail": "Pas d'indemnité de licenciement en cas de faute grave ou lourde.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelBrut": 3000,
+    "ancienneteAnnees": 5,
+    "fauteGrave": true,
+    "ruptureConventionnelle": true
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3750,
+   "indemniteLegale": 3750,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 3000,
+   "anciennete": 5,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 5 ans",
+     "montant": 3750
+    }
+   ],
+   "moisDeSalaire": 1.25,
+   "detail": "Basé sur 5 ans d'ancienneté et un salaire de référence de 3 000 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelNet": 2300,
+    "ancienneteAnnees": 4
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 2948.72,
+   "indemniteLegale": 2948.72,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 2948.72,
+   "anciennete": 4,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 4 ans",
+     "montant": 2948.72
+    }
+   ],
+   "moisDeSalaire": 1,
+   "detail": "Basé sur 4 ans d'ancienneté et un salaire de référence de 2 949 € brut.",
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "dernierSalaireMensuelNet": 2300,
+    "ancienneteAnnees": 4,
+    "moyenne3DerniersMois": 3500
+   }
+  ],
+  "result": {
+   "indemniteEstimee": 3500,
+   "indemniteLegale": 3500,
+   "indemniteConventionnelle": null,
+   "base": "legale",
+   "salaireReference": 3500,
+   "anciennete": 4,
+   "eligible": true,
+   "tranches": [
+    {
+     "label": "1/4 de mois × 4 ans",
+     "montant": 3500
+    }
+   ],
+   "moisDeSalaire": 1,
+   "detail": "Basé sur 4 ans d'ancienneté et un salaire de référence de 3 500 € brut.",
+   "notes": []
+  }
+ }
+]

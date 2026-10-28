@@ -1,0 +1,622 @@
+[
+ {
+  "args": [
+   {
+    "mode": "ca",
+    "revenuMensuelSouhaite": 3000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "salarie",
+     "label": "Salarié (CDI)",
+     "caMensuel": 3000,
+     "netAvantImpot": 1900.74,
+     "netApresImpot": 1846.56,
+     "tauxPrelevements": 0.38448000000000004
+    },
+    {
+     "id": "micro",
+     "label": "Micro-entreprise (BNC)",
+     "caMensuel": 3000,
+     "netAvantImpot": 2226,
+     "netApresImpot": 2138.83,
+     "tauxPrelevements": 0.2870566666666667
+    },
+    {
+     "id": "portage",
+     "label": "Portage salarial",
+     "caMensuel": 3000,
+     "netAvantImpot": 1806.66,
+     "netApresImpot": 1766.58,
+     "tauxPrelevements": 0.41114
+    },
+    {
+     "id": "sasu",
+     "label": "SASU (salaire)",
+     "caMensuel": 3000,
+     "netAvantImpot": 1704.8,
+     "netApresImpot": 1679.88,
+     "tauxPrelevements": 0.44004
+    },
+    {
+     "id": "sasu_dividendes",
+     "label": "SASU (dividendes)",
+     "caMensuel": 3000,
+     "netAvantImpot": 2075.7,
+     "netApresImpot": 1749.3,
+     "tauxPrelevements": 0.4169
+    },
+    {
+     "id": "eurl_ir",
+     "label": "EURL / EI au réel",
+     "caMensuel": 3000,
+     "netAvantImpot": 2066.05,
+     "netApresImpot": 1954.88,
+     "tauxPrelevements": 0.3483733333333333
+    }
+   ],
+   "meilleur": "micro",
+   "salarie": {
+    "brutMensuel": 2406.3,
+    "netMensuel": 1900.74
+   },
+   "auto": {
+    "caMensuel": 3000,
+    "netMensuel": 2226
+   },
+   "portage": {
+    "caMensuel": 3000,
+    "netMensuel": 1806.66
+   },
+   "sasu": {
+    "caMensuel": 3000,
+    "netMensuel": 1704.8
+   }
+  }
+ },
+ {
+  "args": [
+   {
+    "mode": "ca",
+    "revenuMensuelSouhaite": 3000,
+    "chargesMensuelles": 500
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "salarie",
+     "label": "Salarié (CDI)",
+     "caMensuel": 3000,
+     "netAvantImpot": 1900.74,
+     "netApresImpot": 1846.56,
+     "tauxPrelevements": 0.38448000000000004
+    },
+    {
+     "id": "micro",
+     "label": "Micro-entreprise (BNC)",
+     "caMensuel": 3000,
+     "netAvantImpot": 1726,
+     "netApresImpot": 1638.83,
+     "tauxPrelevements": 0.2870566666666667
+    },
+    {
+     "id": "portage",
+     "label": "Portage salarial",
+     "caMensuel": 3000,
+     "netAvantImpot": 1596.56,
+     "netApresImpot": 1587.81,
+     "tauxPrelevements": 0.30406333333333335
+    },
+    {
+     "id": "sasu",
+     "label": "SASU (salaire)",
+     "caMensuel": 3000,
+     "netAvantImpot": 1420.66,
+     "netApresImpot": 1420.66,
+     "tauxPrelevements": 0.35978
+    },
+    {
+     "id": "sasu_dividendes",
+     "label": "SASU (dividendes)",
+     "caMensuel": 3000,
+     "netAvantImpot": 1729.75,
+     "netApresImpot": 1457.75,
+     "tauxPrelevements": 0.34741666666666665
+    },
+    {
+     "id": "eurl_ir",
+     "label": "EURL / EI au réel",
+     "caMensuel": 3000,
+     "netAvantImpot": 1741.4,
+     "netApresImpot": 1683.82,
+     "tauxPrelevements": 0.27206
+    }
+   ],
+   "meilleur": "salarie",
+   "salarie": {
+    "brutMensuel": 2406.3,
+    "netMensuel": 1900.74
+   },
+   "auto": {
+    "caMensuel": 3000,
+    "netMensuel": 1726
+   },
+   "portage": {
+    "caMensuel": 3000,
+    "netMensuel": 1596.56
+   },
+   "sasu": {
+    "caMensuel": 3000,
+    "netMensuel": 1420.66
+   }
+  }
+ },
+ {
+  "args": [
+   {
+    "mode": "ca",
+    "revenuMensuelSouhaite": 8000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "salarie",
+     "label": "Salarié (CDI)",
+     "caMensuel": 8000,
+     "netAvantImpot": 4415.18,
+     "netApresImpot": 3754.45,
+     "tauxPrelevements": 0.5306937500000001
+    },
+    {
+     "id": "micro",
+     "label": "Micro-entreprise (BNC)",
+     "caMensuel": 8000,
+     "netAvantImpot": 5936,
+     "netApresImpot": 4926.67,
+     "tauxPrelevements": 0.38416625
+    },
+    {
+     "id": "portage",
+     "label": "Portage salarial",
+     "caMensuel": 8000,
+     "netAvantImpot": 4147.69,
+     "netApresImpot": 3561.69,
+     "tauxPrelevements": 0.5547887499999999
+    },
+    {
+     "id": "sasu",
+     "label": "SASU (salaire)",
+     "caMensuel": 8000,
+     "netAvantImpot": 4570.62,
+     "netApresImpot": 3866.37,
+     "tauxPrelevements": 0.51670375
+    },
+    {
+     "id": "sasu_dividendes",
+     "label": "SASU (dividendes)",
+     "caMensuel": 8000,
+     "netAvantImpot": 5172.29,
+     "netApresImpot": 4358.96,
+     "tauxPrelevements": 0.45513
+    },
+    {
+     "id": "eurl_ir",
+     "label": "EURL / EI au réel",
+     "caMensuel": 8000,
+     "netAvantImpot": 5478.93,
+     "netApresImpot": 4358.43,
+     "tauxPrelevements": 0.45519624999999997
+    }
+   ],
+   "meilleur": "micro",
+   "salarie": {
+    "brutMensuel": 5572.9,
+    "netMensuel": 4415.18
+   },
+   "auto": {
+    "caMensuel": 8000,
+    "netMensuel": 5936
+   },
+   "portage": {
+    "caMensuel": 8000,
+    "netMensuel": 4147.69
+   },
+   "sasu": {
+    "caMensuel": 8000,
+    "netMensuel": 4570.62
+   }
+  }
+ },
+ {
+  "args": [
+   {
+    "mode": "ca",
+    "revenuMensuelSouhaite": 8000,
+    "chargesMensuelles": 500
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "salarie",
+     "label": "Salarié (CDI)",
+     "caMensuel": 8000,
+     "netAvantImpot": 4415.18,
+     "netApresImpot": 3754.45,
+     "tauxPrelevements": 0.5306937500000001
+    },
+    {
+     "id": "micro",
+     "label": "Micro-entreprise (BNC)",
+     "caMensuel": 8000,
+     "netAvantImpot": 5436,
+     "netApresImpot": 4426.67,
+     "tauxPrelevements": 0.38416625
+    },
+    {
+     "id": "portage",
+     "label": "Portage salarial",
+     "caMensuel": 8000,
+     "netAvantImpot": 3869.02,
+     "netApresImpot": 3360.94,
+     "tauxPrelevements": 0.5173825
+    },
+    {
+     "id": "sasu",
+     "label": "SASU (salaire)",
+     "caMensuel": 8000,
+     "netAvantImpot": 4279.3,
+     "netApresImpot": 3656.55,
+     "tauxPrelevements": 0.48043125
+    },
+    {
+     "id": "sasu_dividendes",
+     "label": "SASU (dividendes)",
+     "caMensuel": 8000,
+     "netAvantImpot": 4867.04,
+     "netApresImpot": 4101.71,
+     "tauxPrelevements": 0.42478625
+    },
+    {
+     "id": "eurl_ir",
+     "label": "EURL / EI au réel",
+     "caMensuel": 8000,
+     "netAvantImpot": 5105.39,
+     "netApresImpot": 4100.14,
+     "tauxPrelevements": 0.4249825
+    }
+   ],
+   "meilleur": "micro",
+   "salarie": {
+    "brutMensuel": 5572.9,
+    "netMensuel": 4415.18
+   },
+   "auto": {
+    "caMensuel": 8000,
+    "netMensuel": 5436
+   },
+   "portage": {
+    "caMensuel": 8000,
+    "netMensuel": 3869.02
+   },
+   "sasu": {
+    "caMensuel": 8000,
+    "netMensuel": 4279.3
+   }
+  }
+ },
+ {
+  "args": [
+   {
+    "mode": "net",
+    "revenuMensuelSouhaite": 3000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "salarie",
+     "label": "Salarié (CDI)",
+     "caMensuel": 6003.89,
+     "netAvantImpot": 3367.98,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.5003239566347822
+    },
+    {
+     "id": "micro",
+     "label": "Micro-entreprise (BNC)",
+     "caMensuel": 4458.32,
+     "netAvantImpot": 3308.08,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.3271011086508029
+    },
+    {
+     "id": "portage",
+     "label": "Portage salarial",
+     "caMensuel": 6473.53,
+     "netAvantImpot": 3368,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.5365741032958053
+    },
+    {
+     "id": "sasu",
+     "label": "SASU (salaire)",
+     "caMensuel": 5935.95,
+     "netAvantImpot": 3368,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.4946049073863497
+    },
+    {
+     "id": "sasu_dividendes",
+     "label": "SASU (dividendes)",
+     "caMensuel": 5358.67,
+     "netAvantImpot": 3559.76,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.4401597850832596
+    },
+    {
+     "id": "eurl_ir",
+     "label": "EURL / EI au réel",
+     "caMensuel": 5224.63,
+     "netAvantImpot": 3512.83,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.42579615556171085
+    }
+   ],
+   "meilleur": "micro",
+   "salarie": {
+    "brutMensuel": 4266.92,
+    "netMensuel": 3367.98
+   },
+   "auto": {
+    "caMensuel": 4458.32,
+    "netMensuel": 3308.08
+   },
+   "portage": {
+    "caMensuel": 6473.53,
+    "netMensuel": 3368
+   },
+   "sasu": {
+    "caMensuel": 5935.95,
+    "netMensuel": 3368
+   }
+  }
+ },
+ {
+  "args": [
+   {
+    "mode": "net",
+    "revenuMensuelSouhaite": 3000,
+    "chargesMensuelles": 500
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "salarie",
+     "label": "Salarié (CDI)",
+     "caMensuel": 6003.89,
+     "netAvantImpot": 3367.98,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.5003239566347822
+    },
+    {
+     "id": "micro",
+     "label": "Micro-entreprise (BNC)",
+     "caMensuel": 5377.46,
+     "netAvantImpot": 3490.08,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.349135041321279
+    },
+    {
+     "id": "portage",
+     "label": "Portage salarial",
+     "caMensuel": 7011.16,
+     "netAvantImpot": 3368,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.5007959658792894
+    },
+    {
+     "id": "sasu",
+     "label": "SASU (salaire)",
+     "caMensuel": 6435.95,
+     "netAvantImpot": 3368,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.4561797403646708
+    },
+    {
+     "id": "sasu_dividendes",
+     "label": "SASU (dividendes)",
+     "caMensuel": 5858.67,
+     "netAvantImpot": 3559.76,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.40259497548342077
+    },
+    {
+     "id": "eurl_ir",
+     "label": "EURL / EI au réel",
+     "caMensuel": 5724.63,
+     "netAvantImpot": 3512.83,
+     "netApresImpot": 3000,
+     "tauxPrelevements": 0.38860628508371886
+    }
+   ],
+   "meilleur": "micro",
+   "salarie": {
+    "brutMensuel": 4266.92,
+    "netMensuel": 3367.98
+   },
+   "auto": {
+    "caMensuel": 5377.46,
+    "netMensuel": 3490.08
+   },
+   "portage": {
+    "caMensuel": 7011.16,
+    "netMensuel": 3368
+   },
+   "sasu": {
+    "caMensuel": 6435.95,
+    "netMensuel": 3368
+   }
+  }
+ },
+ {
+  "args": [
+   {
+    "mode": "net",
+    "revenuMensuelSouhaite": 8000
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "salarie",
+     "label": "Salarié (CDI)",
+     "caMensuel": 19268.78,
+     "netAvantImpot": 10764.15,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.5848206269416127
+    },
+    {
+     "id": "micro",
+     "label": "Micro-entreprise (BNC)",
+     "caMensuel": 14107.03,
+     "netAvantImpot": 10467.42,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.43290678739688865
+    },
+    {
+     "id": "portage",
+     "label": "Portage salarial",
+     "caMensuel": 20788.47,
+     "netAvantImpot": 10764.75,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.6151713521968342
+    },
+    {
+     "id": "sasu",
+     "label": "SASU (salaire)",
+     "caMensuel": 18630.79,
+     "netAvantImpot": 10764.67,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.5706032862803998
+    },
+    {
+     "id": "sasu_dividendes",
+     "label": "SASU (dividendes)",
+     "caMensuel": 15076.84,
+     "netAvantImpot": 9492.71,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.46938500140302775
+    },
+    {
+     "id": "eurl_ir",
+     "label": "EURL / EI au réel",
+     "caMensuel": 15982.6,
+     "netAvantImpot": 11509.58,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.4994555927820983
+    }
+   ],
+   "meilleur": "micro",
+   "salarie": {
+    "brutMensuel": 13490.72,
+    "netMensuel": 10764.15
+   },
+   "auto": {
+    "caMensuel": 14107.03,
+    "netMensuel": 10467.42
+   },
+   "portage": {
+    "caMensuel": 20788.47,
+    "netMensuel": 10764.75
+   },
+   "sasu": {
+    "caMensuel": 18630.79,
+    "netMensuel": 10764.67
+   }
+  }
+ },
+ {
+  "args": [
+   {
+    "mode": "net",
+    "revenuMensuelSouhaite": 8000,
+    "chargesMensuelles": 500
+   }
+  ],
+  "result": {
+   "lignes": [
+    {
+     "id": "salarie",
+     "label": "Salarié (CDI)",
+     "caMensuel": 19268.78,
+     "netAvantImpot": 10764.15,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.5848206269416127
+    },
+    {
+     "id": "micro",
+     "label": "Micro-entreprise (BNC)",
+     "caMensuel": 15167.68,
+     "netAvantImpot": 10754.42,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.43959770454528313
+    },
+    {
+     "id": "portage",
+     "label": "Portage salarial",
+     "caMensuel": 21325.98,
+     "netAvantImpot": 10764.67,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.6014250880848038
+    },
+    {
+     "id": "sasu",
+     "label": "SASU (salaire)",
+     "caMensuel": 19130.79,
+     "netAvantImpot": 10764.67,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.5556900682094154
+    },
+    {
+     "id": "sasu_dividendes",
+     "label": "SASU (dividendes)",
+     "caMensuel": 15576.84,
+     "netAvantImpot": 9492.71,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.45431824666449916
+    },
+    {
+     "id": "eurl_ir",
+     "label": "EURL / EI au réel",
+     "caMensuel": 16482.6,
+     "netAvantImpot": 11509.58,
+     "netApresImpot": 8000,
+     "tauxPrelevements": 0.48430459549067406
+    }
+   ],
+   "meilleur": "micro",
+   "salarie": {
+    "brutMensuel": 13490.72,
+    "netMensuel": 10764.15
+   },
+   "auto": {
+    "caMensuel": 15167.68,
+    "netMensuel": 10754.42
+   },
+   "portage": {
+    "caMensuel": 21325.98,
+    "netMensuel": 10764.67
+   },
+   "sasu": {
+    "caMensuel": 19130.79,
+    "netMensuel": 10764.67
+   }
+  }
+ }
+]

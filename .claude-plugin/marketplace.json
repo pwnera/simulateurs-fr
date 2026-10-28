@@ -1,0 +1,16 @@
+{
+  "name": "calculsalairebrutnet",
+  "owner": { "name": "calculsalairebrutnet.fr" },
+  "metadata": { "description": "Les simulateurs de calculsalairebrutnet.fr pour Claude Code." },
+  "plugins": [
+    {
+      "name": "simulateurs-fr",
+      "source": "./plugins/simulateurs-fr",
+      "description": "Salaire brut et net, indemnités, chômage, APL, freelance : les simulateurs de calculsalairebrutnet.fr (barèmes 2026).",
+      "version": "1.0.0",
+      "homepage": "https://www.calculsalairebrutnet.fr/integrer/ia",
+      "license": "MIT",
+      "category": "productivity"
+    }
+  ]
+}

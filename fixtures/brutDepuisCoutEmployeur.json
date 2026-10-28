@@ -1,0 +1,77 @@
+[
+ {
+  "args": [
+   2500
+  ],
+  "result": 2138.11
+ },
+ {
+  "args": [
+   2500,
+   {
+    "cadre": true,
+    "effectif50Plus": true
+   }
+  ],
+  "result": 2117.89
+ },
+ {
+  "args": [
+   2500,
+   {
+    "assuranceChomage": false
+   }
+  ],
+  "result": 1797.32
+ },
+ {
+  "args": [
+   5000
+  ],
+  "result": 3625.65
+ },
+ {
+  "args": [
+   5000,
+   {
+    "cadre": true,
+    "effectif50Plus": true
+   }
+  ],
+  "result": 3579.3
+ },
+ {
+  "args": [
+   5000,
+   {
+    "assuranceChomage": false
+   }
+  ],
+  "result": 3594.63
+ },
+ {
+  "args": [
+   9000
+  ],
+  "result": 6270.75
+ },
+ {
+  "args": [
+   9000,
+   {
+    "cadre": true,
+    "effectif50Plus": true
+   }
+  ],
+  "result": 6205.12
+ },
+ {
+  "args": [
+   9000,
+   {
+    "assuranceChomage": false
+   }
+  ],
+  "result": 6462.19
+ }
+]

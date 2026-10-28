@@ -1,0 +1,4752 @@
+[
+ {
+  "args": [
+   {
+    "tjm": 300,
+    "joursParMois": 18,
+    "statut": "micro"
+   }
+  ],
+  "result": {
+   "statut": "micro",
+   "caMensuel": 5400,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 1393.2,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 494.5,
+   "netAvantImpotMensuel": 4006.8,
+   "netApresImpotMensuel": 3512.3,
+   "netApresImpotAnnuel": 42147.6,
+   "tauxNetSurCA": 0.650425925925926,
+   "tauxIREstime": 13.87,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 5400,
+     "kind": "base"
+    },
+    {
+     "label": "− Cotisations sociales et CFP (25,8 %)",
+     "montant": -1393.2,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt",
+     "montant": 4006.8,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -494.5,
+     "kind": "sub",
+     "hint": "Barème sur le CA après abattement de 34 %"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 1393.2,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 494.5,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 3512.3,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "Votre CA dépasse le seuil de franchise de TVA : vous facturez la TVA en plus de votre TJM (sans impact sur ce net HT)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 300,
+    "joursParMois": 18,
+    "statut": "micro",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "micro",
+   "caMensuel": 5400,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 1393.2,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 494.5,
+   "netAvantImpotMensuel": 3606.8,
+   "netApresImpotMensuel": 3112.3,
+   "netApresImpotAnnuel": 37347.6,
+   "tauxNetSurCA": 0.5763518518518519,
+   "tauxIREstime": 13.87,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 5400,
+     "kind": "base"
+    },
+    {
+     "label": "− Cotisations sociales et CFP (25,8 %)",
+     "montant": -1393.2,
+     "kind": "sub"
+    },
+    {
+     "label": "− Frais professionnels (non déductibles en micro)",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt",
+     "montant": 3606.8,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -494.5,
+     "kind": "sub",
+     "hint": "Barème sur le CA après abattement de 34 %"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 1393.2,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 494.5,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 3112.3,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "Votre CA dépasse le seuil de franchise de TVA : vous facturez la TVA en plus de votre TJM (sans impact sur ce net HT)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 300,
+    "joursParMois": 18,
+    "statut": "portage"
+   }
+  ],
+  "result": {
+   "statut": "portage",
+   "caMensuel": 5400,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2540.04,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 225.67,
+   "netAvantImpotMensuel": 2859.6,
+   "netApresImpotMensuel": 2633.93,
+   "netApresImpotAnnuel": 31607.2,
+   "tauxNetSurCA": 0.48776543209876544,
+   "tauxIREstime": 7.61,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 5400,
+     "kind": "base"
+    },
+    {
+     "label": "− Frais de gestion (7 %)",
+     "montant": -378,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations patronales",
+     "montant": -1401.44,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire brut",
+     "montant": 3620.2,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -760.6,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net avant impôt",
+     "montant": 2859.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -225.67,
+     "kind": "sub"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 378,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 2162.04,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 225.66666666666666,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 2633.9333333333334,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 300,
+    "joursParMois": 18,
+    "statut": "portage",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "portage",
+   "caMensuel": 5400,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 2339.8,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 169.92,
+   "netAvantImpotMensuel": 2660.21,
+   "netApresImpotMensuel": 2490.29,
+   "netApresImpotAnnuel": 29883.52,
+   "tauxNetSurCA": 0.4611654320987655,
+   "tauxIREstime": 6.16,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 5400,
+     "kind": "base"
+    },
+    {
+     "label": "− Frais de gestion (7 %)",
+     "montant": -378,
+     "kind": "sub"
+    },
+    {
+     "label": "− Frais professionnels (remboursés sur justificatifs)",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations patronales",
+     "montant": -1254.23,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire brut",
+     "montant": 3367.78,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -707.57,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net avant impôt",
+     "montant": 2660.21,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -169.92,
+     "kind": "sub"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 778,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 1961.8,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 169.91666666666666,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 2490.2933333333335,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 300,
+    "joursParMois": 18,
+    "statut": "sasu_is"
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 5400,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2331.34,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 284.25,
+   "netAvantImpotMensuel": 3068.66,
+   "netApresImpotMensuel": 2784.41,
+   "netApresImpotAnnuel": 33412.92,
+   "tauxNetSurCA": 0.5156314814814814,
+   "tauxIREstime": 8.94,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 5400,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 5400,
+     "kind": "total"
+    },
+    {
+     "label": "Coût de la rémunération",
+     "montant": 5400,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations patronales (sans chômage)",
+     "montant": -1515.15,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -816.19,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net",
+     "montant": 3068.66,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 3068.66,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -284.25,
+     "kind": "sub",
+     "hint": "Barème sur le salaire (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 2331.34,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 284.25,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 2784.41,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 300,
+    "joursParMois": 18,
+    "statut": "sasu_is",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 5400,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 2158.66,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 220.58,
+   "netAvantImpotMensuel": 2841.33,
+   "netApresImpotMensuel": 2620.75,
+   "netApresImpotAnnuel": 31448.96,
+   "tauxNetSurCA": 0.4853234567901234,
+   "tauxIREstime": 7.49,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 5400,
+     "kind": "base"
+    },
+    {
+     "label": "− Charges professionnelles",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 5000,
+     "kind": "total"
+    },
+    {
+     "label": "Coût de la rémunération",
+     "montant": 5000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations patronales (sans chômage)",
+     "montant": -1402.93,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -755.73,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net",
+     "montant": 2841.33,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 2841.33,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -220.58,
+     "kind": "sub",
+     "hint": "Barème sur le salaire (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Charges",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 2158.66,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 220.58333333333334,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 2620.7466666666664,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 300,
+    "joursParMois": 18,
+    "statut": "eurl_ir"
+   }
+  ],
+  "result": {
+   "statut": "eurl_ir",
+   "caMensuel": 5400,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 1775.4,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 547.5,
+   "netAvantImpotMensuel": 3624.6,
+   "netApresImpotMensuel": 3077.1,
+   "netApresImpotAnnuel": 36925.25,
+   "tauxNetSurCA": 0.5698341049382716,
+   "tauxIREstime": 14.64,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 5400,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 5400,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS (32,9 %)",
+     "montant": -1775.4,
+     "kind": "sub",
+     "hint": "Assiette 2026 : résultat − 26 %"
+    },
+    {
+     "label": "Revenu net avant impôt",
+     "montant": 3624.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -547.5,
+     "kind": "sub",
+     "hint": "Barème sur le bénéfice (CSG non déductible réintégrée)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations TNS",
+     "value": 1775.3958333333333,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 547.5,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 3077.1041666666665,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 300,
+    "joursParMois": 18,
+    "statut": "eurl_ir",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "eurl_ir",
+   "caMensuel": 5400,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 1630.95,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 468.25,
+   "netAvantImpotMensuel": 3369.05,
+   "netApresImpotMensuel": 2900.8,
+   "netApresImpotAnnuel": 34809.55,
+   "tauxNetSurCA": 0.5371844135802469,
+   "tauxIREstime": 13.47,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 5400,
+     "kind": "base"
+    },
+    {
+     "label": "− Charges professionnelles",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 5000,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS (32,6 %)",
+     "montant": -1630.95,
+     "kind": "sub",
+     "hint": "Assiette 2026 : résultat − 26 %"
+    },
+    {
+     "label": "Revenu net avant impôt",
+     "montant": 3369.05,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -468.25,
+     "kind": "sub",
+     "hint": "Barème sur le bénéfice (CSG non déductible réintégrée)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Charges",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations TNS",
+     "value": 1630.9541666666667,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 468.25,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 2900.7958333333336,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 300,
+    "joursParMois": 18,
+    "statut": "eurl_is"
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 5400,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 1775.4,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 435.25,
+   "netAvantImpotMensuel": 3624.6,
+   "netApresImpotMensuel": 3189.35,
+   "netApresImpotAnnuel": 38272.25,
+   "tauxNetSurCA": 0.5906211419753086,
+   "tauxIREstime": 11.64,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 5400,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 5400,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 5400,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -1775.4,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 3624.6,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 3624.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -435.25,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 1775.3958333333333,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 435.25,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 3189.3541666666665,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 300,
+    "joursParMois": 18,
+    "statut": "eurl_is",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 5400,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 1630.95,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 363.92,
+   "netAvantImpotMensuel": 3369.05,
+   "netApresImpotMensuel": 3005.13,
+   "netApresImpotAnnuel": 36061.55,
+   "tauxNetSurCA": 0.5565054012345679,
+   "tauxIREstime": 10.47,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 5400,
+     "kind": "base"
+    },
+    {
+     "label": "− Charges professionnelles",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 5000,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 5000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -1630.95,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 3369.05,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 3369.05,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -363.92,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Charges",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 1630.9541666666667,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 363.9166666666667,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 3005.129166666667,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 600,
+    "joursParMois": 18,
+    "statut": "micro"
+   }
+  ],
+  "result": {
+   "statut": "micro",
+   "caMensuel": 10800,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2786.4,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1572.5,
+   "netAvantImpotMensuel": 8013.6,
+   "netApresImpotMensuel": 6441.1,
+   "netApresImpotAnnuel": 77293.2,
+   "tauxNetSurCA": 0.5963981481481482,
+   "tauxIREstime": 22.06,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 10800,
+     "kind": "base"
+    },
+    {
+     "label": "− Cotisations sociales et CFP (25,8 %)",
+     "montant": -2786.4,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt",
+     "montant": 8013.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1572.5,
+     "kind": "sub",
+     "hint": "Barème sur le CA après abattement de 34 %"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 2786.4,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1572.5,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6441.1,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "Au-delà de 83 600 € de CA annuel, la micro-entreprise n'est plus possible durablement.",
+    "Votre CA dépasse le seuil de franchise de TVA : vous facturez la TVA en plus de votre TJM (sans impact sur ce net HT)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 600,
+    "joursParMois": 18,
+    "statut": "micro",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "micro",
+   "caMensuel": 10800,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 2786.4,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1572.5,
+   "netAvantImpotMensuel": 7613.6,
+   "netApresImpotMensuel": 6041.1,
+   "netApresImpotAnnuel": 72493.2,
+   "tauxNetSurCA": 0.5593611111111112,
+   "tauxIREstime": 22.06,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 10800,
+     "kind": "base"
+    },
+    {
+     "label": "− Cotisations sociales et CFP (25,8 %)",
+     "montant": -2786.4,
+     "kind": "sub"
+    },
+    {
+     "label": "− Frais professionnels (non déductibles en micro)",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt",
+     "montant": 7613.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1572.5,
+     "kind": "sub",
+     "hint": "Barème sur le CA après abattement de 34 %"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 2786.4,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1572.5,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6041.1,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "Au-delà de 83 600 € de CA annuel, la micro-entreprise n'est plus possible durablement.",
+    "Votre CA dépasse le seuil de franchise de TVA : vous facturez la TVA en plus de votre TJM (sans impact sur ce net HT)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 600,
+    "joursParMois": 18,
+    "statut": "portage"
+   }
+  ],
+  "result": {
+   "statut": "portage",
+   "caMensuel": 10800,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 5250.61,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 977.92,
+   "netAvantImpotMensuel": 5549.38,
+   "netApresImpotMensuel": 4571.46,
+   "netApresImpotAnnuel": 54857.56,
+   "tauxNetSurCA": 0.4232836419753086,
+   "tauxIREstime": 17.01,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 10800,
+     "kind": "base"
+    },
+    {
+     "label": "− Frais de gestion (7 %)",
+     "montant": -756,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations patronales",
+     "montant": -3056.62,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire brut",
+     "montant": 6987.37,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -1437.99,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net avant impôt",
+     "montant": 5549.38,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -977.92,
+     "kind": "sub"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 756,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 4494.61,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 977.9166666666666,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 4571.463333333333,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 600,
+    "joursParMois": 18,
+    "statut": "portage",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "portage",
+   "caMensuel": 10800,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 5075.18,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 915.08,
+   "netAvantImpotMensuel": 5324.82,
+   "netApresImpotMensuel": 4409.74,
+   "netApresImpotAnnuel": 52916.84,
+   "tauxNetSurCA": 0.40830895061728395,
+   "tauxIREstime": 16.58,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 10800,
+     "kind": "base"
+    },
+    {
+     "label": "− Frais de gestion (7 %)",
+     "montant": -756,
+     "kind": "sub"
+    },
+    {
+     "label": "− Frais professionnels (remboursés sur justificatifs)",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations patronales",
+     "montant": -2936.69,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire brut",
+     "montant": 6707.31,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -1382.49,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net avant impôt",
+     "montant": 5324.82,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -915.08,
+     "kind": "sub"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 1156,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 4319.18,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 915.0833333333334,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 4409.736666666667,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 600,
+    "joursParMois": 18,
+    "statut": "sasu_is"
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 10800,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 4597.96,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1160.33,
+   "netAvantImpotMensuel": 6202.03,
+   "netApresImpotMensuel": 5041.7,
+   "netApresImpotAnnuel": 60500.36,
+   "tauxNetSurCA": 0.46682376543209875,
+   "tauxIREstime": 18.06,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 10800,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 10800,
+     "kind": "total"
+    },
+    {
+     "label": "Coût de la rémunération",
+     "montant": 10800,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations patronales (sans chômage)",
+     "montant": -2998.7,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -1599.26,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net",
+     "montant": 6202.03,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 6202.03,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1160.33,
+     "kind": "sub",
+     "hint": "Barème sur le salaire (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 4597.959999999999,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1160.3333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5041.696666666667,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 600,
+    "joursParMois": 18,
+    "statut": "sasu_is",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 10800,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 4431,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1095.25,
+   "netAvantImpotMensuel": 5968.99,
+   "netApresImpotMensuel": 4873.74,
+   "netApresImpotAnnuel": 58484.88,
+   "tauxNetSurCA": 0.4512722222222223,
+   "tauxIREstime": 17.71,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 10800,
+     "kind": "base"
+    },
+    {
+     "label": "− Charges professionnelles",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 10400,
+     "kind": "total"
+    },
+    {
+     "label": "Coût de la rémunération",
+     "montant": 10400,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations patronales (sans chômage)",
+     "montant": -2889.34,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -1541.66,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net",
+     "montant": 5968.99,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 5968.99,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1095.25,
+     "kind": "sub",
+     "hint": "Barème sur le salaire (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Charges",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 4431,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1095.25,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 4873.740000000001,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 600,
+    "joursParMois": 18,
+    "statut": "eurl_ir"
+   }
+  ],
+  "result": {
+   "statut": "eurl_ir",
+   "caMensuel": 10800,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 3200.38,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1860.92,
+   "netAvantImpotMensuel": 7599.62,
+   "netApresImpotMensuel": 5738.71,
+   "netApresImpotAnnuel": 68864.49,
+   "tauxNetSurCA": 0.5313618055555556,
+   "tauxIREstime": 23.76,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 10800,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 10800,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS (29,6 %)",
+     "montant": -3200.38,
+     "kind": "sub",
+     "hint": "Assiette 2026 : résultat − 26 %"
+    },
+    {
+     "label": "Revenu net avant impôt",
+     "montant": 7599.62,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1860.92,
+     "kind": "sub",
+     "hint": "Barème sur le bénéfice (CSG non déductible réintégrée)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations TNS",
+     "value": 3200.3758333333335,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1860.9166666666667,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5738.7075,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 600,
+    "joursParMois": 18,
+    "statut": "eurl_ir",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "eurl_ir",
+   "caMensuel": 10800,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 3101.58,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1733.92,
+   "netAvantImpotMensuel": 7298.42,
+   "netApresImpotMensuel": 5564.5,
+   "netApresImpotAnnuel": 66774.01,
+   "tauxNetSurCA": 0.5152315586419752,
+   "tauxIREstime": 23.05,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 10800,
+     "kind": "base"
+    },
+    {
+     "label": "− Charges professionnelles",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 10400,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS (29,8 %)",
+     "montant": -3101.58,
+     "kind": "sub",
+     "hint": "Assiette 2026 : résultat − 26 %"
+    },
+    {
+     "label": "Revenu net avant impôt",
+     "montant": 7298.42,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1733.92,
+     "kind": "sub",
+     "hint": "Barème sur le bénéfice (CSG non déductible réintégrée)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Charges",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations TNS",
+     "value": 3101.5825,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1733.9166666666667,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5564.500833333333,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 600,
+    "joursParMois": 18,
+    "statut": "eurl_is"
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 10800,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 3200.38,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1539.83,
+   "netAvantImpotMensuel": 7599.62,
+   "netApresImpotMensuel": 6059.79,
+   "netApresImpotAnnuel": 72717.49,
+   "tauxNetSurCA": 0.5610917438271605,
+   "tauxIREstime": 19.66,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 10800,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 10800,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 10800,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -3200.38,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 7599.62,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 7599.62,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1539.83,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 3200.3758333333335,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1539.8333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6059.790833333334,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 600,
+    "joursParMois": 18,
+    "statut": "eurl_is",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 10800,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 3101.58,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1456.17,
+   "netAvantImpotMensuel": 7298.42,
+   "netApresImpotMensuel": 5842.25,
+   "netApresImpotAnnuel": 70107.01,
+   "tauxNetSurCA": 0.5409491512345679,
+   "tauxIREstime": 19.36,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 10800,
+     "kind": "base"
+    },
+    {
+     "label": "− Charges professionnelles",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 10400,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 10400,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -3101.58,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 7298.42,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 7298.42,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1456.17,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Charges",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 3101.5825,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1456.1666666666667,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5842.250833333333,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 1000,
+    "joursParMois": 18,
+    "statut": "micro"
+   }
+  ],
+  "result": {
+   "statut": "micro",
+   "caMensuel": 18000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 4644,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 3520.83,
+   "netAvantImpotMensuel": 13356,
+   "netApresImpotMensuel": 9835.17,
+   "netApresImpotAnnuel": 118022.04,
+   "tauxNetSurCA": 0.5463983333333333,
+   "tauxIREstime": 29.64,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 18000,
+     "kind": "base"
+    },
+    {
+     "label": "− Cotisations sociales et CFP (25,8 %)",
+     "montant": -4644,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt",
+     "montant": 13356,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -3520.83,
+     "kind": "sub",
+     "hint": "Barème sur le CA après abattement de 34 %"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 4644,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 3520.83,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 9835.17,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "Au-delà de 83 600 € de CA annuel, la micro-entreprise n'est plus possible durablement.",
+    "Votre CA dépasse le seuil de franchise de TVA : vous facturez la TVA en plus de votre TJM (sans impact sur ce net HT)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 1000,
+    "joursParMois": 18,
+    "statut": "micro",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "micro",
+   "caMensuel": 18000,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 4644,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 3520.83,
+   "netAvantImpotMensuel": 12956,
+   "netApresImpotMensuel": 9435.17,
+   "netApresImpotAnnuel": 113222.04,
+   "tauxNetSurCA": 0.5241761111111111,
+   "tauxIREstime": 29.64,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 18000,
+     "kind": "base"
+    },
+    {
+     "label": "− Cotisations sociales et CFP (25,8 %)",
+     "montant": -4644,
+     "kind": "sub"
+    },
+    {
+     "label": "− Frais professionnels (non déductibles en micro)",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt",
+     "montant": 12956,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -3520.83,
+     "kind": "sub",
+     "hint": "Barème sur le CA après abattement de 34 %"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 4644,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 3520.83,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 9435.17,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "Au-delà de 83 600 € de CA annuel, la micro-entreprise n'est plus possible durablement.",
+    "Votre CA dépasse le seuil de franchise de TVA : vous facturez la TVA en plus de votre TJM (sans impact sur ce net HT)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 1000,
+    "joursParMois": 18,
+    "statut": "portage"
+   }
+  ],
+  "result": {
+   "statut": "portage",
+   "caMensuel": 18000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 8691.22,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 2208.42,
+   "netAvantImpotMensuel": 9308.77,
+   "netApresImpotMensuel": 7100.35,
+   "netApresImpotAnnuel": 85204.24,
+   "tauxNetSurCA": 0.39446407407407413,
+   "tauxIREstime": 22.9,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 18000,
+     "kind": "base"
+    },
+    {
+     "label": "− Frais de gestion (7 %)",
+     "montant": -1260,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations patronales",
+     "montant": -5064.27,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire brut",
+     "montant": 11675.72,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -2366.95,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net avant impôt",
+     "montant": 9308.77,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -2208.42,
+     "kind": "sub"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 1260,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 7431.22,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 2208.4166666666665,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 7100.353333333334,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 1000,
+    "joursParMois": 18,
+    "statut": "portage",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "portage",
+   "caMensuel": 18000,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 8515.78,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 2122.58,
+   "netAvantImpotMensuel": 9084.21,
+   "netApresImpotMensuel": 6961.63,
+   "netApresImpotAnnuel": 83539.52,
+   "tauxNetSurCA": 0.38675703703703695,
+   "tauxIREstime": 22.56,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 18000,
+     "kind": "base"
+    },
+    {
+     "label": "− Frais de gestion (7 %)",
+     "montant": -1260,
+     "kind": "sub"
+    },
+    {
+     "label": "− Frais professionnels (remboursés sur justificatifs)",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations patronales",
+     "montant": -4944.34,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire brut",
+     "montant": 11395.65,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -2311.44,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net avant impôt",
+     "montant": 9084.21,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -2122.58,
+     "kind": "sub"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 1660,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 7255.78,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 2122.5833333333335,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6961.626666666665,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 1000,
+    "joursParMois": 18,
+    "statut": "sasu_is"
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 18000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 7602.85,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 2624.25,
+   "netAvantImpotMensuel": 10397.13,
+   "netApresImpotMensuel": 7772.88,
+   "netApresImpotAnnuel": 93274.56,
+   "tauxNetSurCA": 0.43182666666666664,
+   "tauxIREstime": 24.37,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 18000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 18000,
+     "kind": "total"
+    },
+    {
+     "label": "Coût de la rémunération",
+     "montant": 18000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations patronales (sans chômage)",
+     "montant": -4966.96,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -2635.89,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net",
+     "montant": 10397.13,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 10397.13,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -2624.25,
+     "kind": "sub",
+     "hint": "Barème sur le salaire (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 7602.850000000001,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 2624.25,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 7772.879999999999,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 1000,
+    "joursParMois": 18,
+    "statut": "sasu_is",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 18000,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 7435.93,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 2535.17,
+   "netAvantImpotMensuel": 10164.07,
+   "netApresImpotMensuel": 7628.9,
+   "netApresImpotAnnuel": 91546.84,
+   "tauxNetSurCA": 0.423827962962963,
+   "tauxIREstime": 24.08,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 18000,
+     "kind": "base"
+    },
+    {
+     "label": "− Charges professionnelles",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 17600,
+     "kind": "total"
+    },
+    {
+     "label": "Coût de la rémunération",
+     "montant": 17600,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations patronales (sans chômage)",
+     "montant": -4857.63,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -2578.3,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net",
+     "montant": 10164.07,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 10164.07,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -2535.17,
+     "kind": "sub",
+     "hint": "Barème sur le salaire (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Charges",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 7435.93,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 2535.1666666666665,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 7628.903333333334,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 1000,
+    "joursParMois": 18,
+    "statut": "eurl_ir"
+   }
+  ],
+  "result": {
+   "statut": "eurl_ir",
+   "caMensuel": 18000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 4923.41,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 4169.83,
+   "netAvantImpotMensuel": 13076.6,
+   "netApresImpotMensuel": 8906.76,
+   "netApresImpotAnnuel": 106881.14,
+   "tauxNetSurCA": 0.49482009259259274,
+   "tauxIREstime": 30.97,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 18000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 18000,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS (27,4 %)",
+     "montant": -4923.41,
+     "kind": "sub",
+     "hint": "Assiette 2026 : résultat − 26 %"
+    },
+    {
+     "label": "Revenu net avant impôt",
+     "montant": 13076.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -4169.83,
+     "kind": "sub",
+     "hint": "Barème sur le bénéfice (CSG non déductible réintégrée)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations TNS",
+     "value": 4923.405,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 4169.833333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 8906.761666666669,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 1000,
+    "joursParMois": 18,
+    "statut": "eurl_ir",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "eurl_ir",
+   "caMensuel": 18000,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 4835.73,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 4038.25,
+   "netAvantImpotMensuel": 12764.27,
+   "netApresImpotMensuel": 8726.02,
+   "netApresImpotAnnuel": 104712.23,
+   "tauxNetSurCA": 0.48477884259259263,
+   "tauxIREstime": 30.73,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 18000,
+     "kind": "base"
+    },
+    {
+     "label": "− Charges professionnelles",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 17600,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS (27,5 %)",
+     "montant": -4835.73,
+     "kind": "sub",
+     "hint": "Assiette 2026 : résultat − 26 %"
+    },
+    {
+     "label": "Revenu net avant impôt",
+     "montant": 12764.27,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -4038.25,
+     "kind": "sub",
+     "hint": "Barème sur le bénéfice (CSG non déductible réintégrée)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Charges",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations TNS",
+     "value": 4835.730833333333,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 4038.25,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 8726.019166666667,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 1000,
+    "joursParMois": 18,
+    "statut": "eurl_is"
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 18000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 4923.41,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 3672.5,
+   "netAvantImpotMensuel": 13076.6,
+   "netApresImpotMensuel": 9404.1,
+   "netApresImpotAnnuel": 112849.14,
+   "tauxNetSurCA": 0.5224497222222223,
+   "tauxIREstime": 27.28,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 18000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 18000,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 18000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -4923.41,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 13076.6,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 13076.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -3672.5,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 4923.405,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 3672.5,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 9404.095000000001,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "tjm": 1000,
+    "joursParMois": 18,
+    "statut": "eurl_is",
+    "chargesMensuelles": 400
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 18000,
+   "chargesMensuelles": 400,
+   "cotisationsMensuelles": 4835.73,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 3540.92,
+   "netAvantImpotMensuel": 12764.27,
+   "netApresImpotMensuel": 9223.35,
+   "netApresImpotAnnuel": 110680.23,
+   "tauxNetSurCA": 0.5124084722222223,
+   "tauxIREstime": 26.94,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 18000,
+     "kind": "base"
+    },
+    {
+     "label": "− Charges professionnelles",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 17600,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 17600,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -4835.73,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 12764.27,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 12764.27,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -3540.92,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Charges",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 4835.730833333333,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 3540.9166666666665,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 9223.3525,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 6000,
+    "statut": "micro",
+    "activiteMicro": "vente"
+   }
+  ],
+  "result": {
+   "statut": "micro",
+   "caMensuel": 6000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 744,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 48.83,
+   "netAvantImpotMensuel": 5256,
+   "netApresImpotMensuel": 5207.17,
+   "netApresImpotAnnuel": 62486.04,
+   "tauxNetSurCA": 0.8678616666666666,
+   "tauxIREstime": 2.81,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 6000,
+     "kind": "base"
+    },
+    {
+     "label": "− Cotisations sociales et CFP (12,4 %)",
+     "montant": -744,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt",
+     "montant": 5256,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -48.83,
+     "kind": "sub",
+     "hint": "Barème sur le CA après abattement de 71 %"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 744,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 48.83,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5207.17,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 6000,
+    "statut": "micro",
+    "activiteMicro": "services_bic"
+   }
+  ],
+  "result": {
+   "statut": "micro",
+   "caMensuel": 6000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 1278,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 325.33,
+   "netAvantImpotMensuel": 4722,
+   "netApresImpotMensuel": 4396.67,
+   "netApresImpotAnnuel": 52760.04,
+   "tauxNetSurCA": 0.7327783333333333,
+   "tauxIREstime": 10.84,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 6000,
+     "kind": "base"
+    },
+    {
+     "label": "− Cotisations sociales et CFP (21,3 %)",
+     "montant": -1278,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt",
+     "montant": 4722,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -325.33,
+     "kind": "sub",
+     "hint": "Barème sur le CA après abattement de 50 %"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 1278,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 325.33,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 4396.67,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "Votre CA dépasse le seuil de franchise de TVA : vous facturez la TVA en plus de votre TJM (sans impact sur ce net HT)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 6000,
+    "statut": "micro",
+    "activiteMicro": "services_bnc"
+   }
+  ],
+  "result": {
+   "statut": "micro",
+   "caMensuel": 6000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 1548,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 613.33,
+   "netAvantImpotMensuel": 4452,
+   "netApresImpotMensuel": 3838.67,
+   "netApresImpotAnnuel": 46064.04,
+   "tauxNetSurCA": 0.6397783333333333,
+   "tauxIREstime": 15.49,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 6000,
+     "kind": "base"
+    },
+    {
+     "label": "− Cotisations sociales et CFP (25,8 %)",
+     "montant": -1548,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt",
+     "montant": 4452,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -613.33,
+     "kind": "sub",
+     "hint": "Barème sur le CA après abattement de 34 %"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 1548,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 613.33,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 3838.67,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "Votre CA dépasse le seuil de franchise de TVA : vous facturez la TVA en plus de votre TJM (sans impact sur ce net HT)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 6000,
+    "statut": "micro",
+    "activiteMicro": "liberale_cipav"
+   }
+  ],
+  "result": {
+   "statut": "micro",
+   "caMensuel": 6000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 1404,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 613.33,
+   "netAvantImpotMensuel": 4596,
+   "netApresImpotMensuel": 3982.67,
+   "netApresImpotAnnuel": 47792.04,
+   "tauxNetSurCA": 0.6637783333333334,
+   "tauxIREstime": 15.49,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 6000,
+     "kind": "base"
+    },
+    {
+     "label": "− Cotisations sociales et CFP (23,4 %)",
+     "montant": -1404,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt",
+     "montant": 4596,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -613.33,
+     "kind": "sub",
+     "hint": "Barème sur le CA après abattement de 34 %"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 1404,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 613.33,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 3982.67,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "Votre CA dépasse le seuil de franchise de TVA : vous facturez la TVA en plus de votre TJM (sans impact sur ce net HT)."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 9000,
+    "statut": "eurl_ir",
+    "professionTNS": "artisan"
+   }
+  ],
+  "result": {
+   "statut": "eurl_ir",
+   "caMensuel": 9000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2762,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1354.67,
+   "netAvantImpotMensuel": 6238,
+   "netApresImpotMensuel": 4883.33,
+   "netApresImpotAnnuel": 58599.97,
+   "tauxNetSurCA": 0.5425923148148148,
+   "tauxIREstime": 21.06,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 9000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 9000,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS (30,7 %)",
+     "montant": -2762,
+     "kind": "sub",
+     "hint": "Assiette 2026 : résultat − 26 %"
+    },
+    {
+     "label": "Revenu net avant impôt",
+     "montant": 6238,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1354.67,
+     "kind": "sub",
+     "hint": "Barème sur le bénéfice (CSG non déductible réintégrée)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations TNS",
+     "value": 2762.0025,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1354.6666666666667,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 4883.330833333333,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 9000,
+    "statut": "eurl_ir",
+    "professionTNS": "commercant"
+   }
+  ],
+  "result": {
+   "statut": "eurl_ir",
+   "caMensuel": 9000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2760.4,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1355.17,
+   "netAvantImpotMensuel": 6239.6,
+   "netApresImpotMensuel": 4884.43,
+   "netApresImpotAnnuel": 58613.19,
+   "tauxNetSurCA": 0.5427147222222222,
+   "tauxIREstime": 21.07,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 9000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 9000,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS (30,7 %)",
+     "montant": -2760.4,
+     "kind": "sub",
+     "hint": "Assiette 2026 : résultat − 26 %"
+    },
+    {
+     "label": "Revenu net avant impôt",
+     "montant": 6239.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1355.17,
+     "kind": "sub",
+     "hint": "Barème sur le bénéfice (CSG non déductible réintégrée)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations TNS",
+     "value": 2760.400833333333,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1355.1666666666667,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 4884.4325,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 9000,
+    "statut": "eurl_ir",
+    "professionTNS": "liberal"
+   }
+  ],
+  "result": {
+   "statut": "eurl_ir",
+   "caMensuel": 9000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2760.4,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1355.17,
+   "netAvantImpotMensuel": 6239.6,
+   "netApresImpotMensuel": 4884.43,
+   "netApresImpotAnnuel": 58613.19,
+   "tauxNetSurCA": 0.5427147222222222,
+   "tauxIREstime": 21.07,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 9000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 9000,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS (30,7 %)",
+     "montant": -2760.4,
+     "kind": "sub",
+     "hint": "Assiette 2026 : résultat − 26 %"
+    },
+    {
+     "label": "Revenu net avant impôt",
+     "montant": 6239.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1355.17,
+     "kind": "sub",
+     "hint": "Barème sur le bénéfice (CSG non déductible réintégrée)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations TNS",
+     "value": 2760.400833333333,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1355.1666666666667,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 4884.4325,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 9000,
+    "statut": "eurl_ir",
+    "professionTNS": "liberal-cipav"
+   }
+  ],
+  "result": {
+   "statut": "eurl_ir",
+   "caMensuel": 9000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2742.5,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1360.5,
+   "netAvantImpotMensuel": 6257.51,
+   "netApresImpotMensuel": 4897.01,
+   "netApresImpotAnnuel": 58764.06,
+   "tauxNetSurCA": 0.5441116666666667,
+   "tauxIREstime": 21.09,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 9000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 9000,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS (30,5 %)",
+     "montant": -2742.5,
+     "kind": "sub",
+     "hint": "Assiette 2026 : résultat − 26 %"
+    },
+    {
+     "label": "Revenu net avant impôt",
+     "montant": 6257.51,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1360.5,
+     "kind": "sub",
+     "hint": "Barème sur le bénéfice (CSG non déductible réintégrée)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations TNS",
+     "value": 2742.4950000000003,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1360.5,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 4897.005,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 9000,
+    "statut": "eurl_is",
+    "professionTNS": "artisan"
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 9000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2762,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1161.75,
+   "netAvantImpotMensuel": 6238,
+   "netApresImpotMensuel": 5076.25,
+   "netApresImpotAnnuel": 60914.97,
+   "tauxNetSurCA": 0.5640275,
+   "tauxIREstime": 18.06,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 9000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 9000,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 9000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -2762,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 6238,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 6238,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1161.75,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 2762.0025,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1161.75,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5076.2475,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 9000,
+    "statut": "eurl_is",
+    "professionTNS": "commercant"
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 9000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2760.4,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1162.17,
+   "netAvantImpotMensuel": 6239.6,
+   "netApresImpotMensuel": 5077.43,
+   "netApresImpotAnnuel": 60929.19,
+   "tauxNetSurCA": 0.5641591666666667,
+   "tauxIREstime": 18.07,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 9000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 9000,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 9000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -2760.4,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 6239.6,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 6239.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1162.17,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 2760.400833333333,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1162.1666666666667,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5077.4325,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 9000,
+    "statut": "eurl_is",
+    "professionTNS": "liberal"
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 9000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2760.4,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1162.17,
+   "netAvantImpotMensuel": 6239.6,
+   "netApresImpotMensuel": 5077.43,
+   "netApresImpotAnnuel": 60929.19,
+   "tauxNetSurCA": 0.5641591666666667,
+   "tauxIREstime": 18.07,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 9000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 9000,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 9000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -2760.4,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 6239.6,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 6239.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1162.17,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 2760.400833333333,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1162.1666666666667,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5077.4325,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 9000,
+    "statut": "eurl_is",
+    "professionTNS": "liberal-cipav"
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 9000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2742.5,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1167,
+   "netAvantImpotMensuel": 6257.51,
+   "netApresImpotMensuel": 5090.51,
+   "netApresImpotAnnuel": 61086.06,
+   "tauxNetSurCA": 0.5656116666666666,
+   "tauxIREstime": 18.09,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 9000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 9000,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 9000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -2742.5,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 6257.51,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 6257.51,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1167,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 2742.4950000000003,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1167,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5090.505,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "sasu_is",
+    "partRemuneration": 0
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 1739.88,
+   "impotSocietesMensuel": 2645.83,
+   "impotMensuel": 1197.33,
+   "netAvantImpotMensuel": 7614.29,
+   "netApresImpotMensuel": 6416.96,
+   "netApresImpotAnnuel": 77003.5,
+   "tauxNetSurCA": 0.5347465277777779,
+   "tauxIREstime": 0,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Bénéfice avant IS",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "− Impôt sur les sociétés (15 % / 25 %)",
+     "montant": -2645.83,
+     "kind": "sub"
+    },
+    {
+     "label": "Dividendes bruts",
+     "montant": 9354.17,
+     "kind": "total"
+    },
+    {
+     "label": "− Prélèvements sociaux (18,6 %)",
+     "montant": -1739.88,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 7614.29,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1197.33,
+     "kind": "sub",
+     "hint": "Barème sur le salaire + 12,8 % sur les dividendes"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 1739.875,
+     "variant": "cotisations"
+    },
+    {
+     "name": "IS",
+     "value": 2645.8333333333335,
+     "variant": "impot"
+    },
+    {
+     "name": "Impôt",
+     "value": 1197.3333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6416.958333333334,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "Sans rémunération, le président ne cotise pas : aucune protection sociale (retraite, maladie) n'est acquise."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "sasu_is",
+    "partRemuneration": 0,
+    "capitalSocial": 10000
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 1739.88,
+   "impotSocietesMensuel": 2645.83,
+   "impotMensuel": 1197.33,
+   "netAvantImpotMensuel": 7614.29,
+   "netApresImpotMensuel": 6416.96,
+   "netApresImpotAnnuel": 77003.5,
+   "tauxNetSurCA": 0.5347465277777779,
+   "tauxIREstime": 0,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Bénéfice avant IS",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "− Impôt sur les sociétés (15 % / 25 %)",
+     "montant": -2645.83,
+     "kind": "sub"
+    },
+    {
+     "label": "Dividendes bruts",
+     "montant": 9354.17,
+     "kind": "total"
+    },
+    {
+     "label": "− Prélèvements sociaux (18,6 %)",
+     "montant": -1739.88,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 7614.29,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1197.33,
+     "kind": "sub",
+     "hint": "Barème sur le salaire + 12,8 % sur les dividendes"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 1739.875,
+     "variant": "cotisations"
+    },
+    {
+     "name": "IS",
+     "value": 2645.8333333333335,
+     "variant": "impot"
+    },
+    {
+     "name": "Impôt",
+     "value": 1197.3333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6416.958333333334,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "Sans rémunération, le président ne cotise pas : aucune protection sociale (retraite, maladie) n'est acquise."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "sasu_is",
+    "partRemuneration": 30
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2791.9,
+   "impotSocietesMensuel": 1745.83,
+   "impotMensuel": 927.48,
+   "netAvantImpotMensuel": 7462.26,
+   "netApresImpotMensuel": 6534.78,
+   "netApresImpotAnnuel": 78417.34,
+   "tauxNetSurCA": 0.544564861111111,
+   "tauxIREstime": 3.57,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Coût de la rémunération",
+     "montant": 3600,
+     "kind": "base",
+     "hint": "30 % du résultat"
+    },
+    {
+     "label": "− Cotisations patronales (sans chômage)",
+     "montant": -1010.1,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -544.12,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net",
+     "montant": 2045.77,
+     "kind": "total"
+    },
+    {
+     "label": "Bénéfice avant IS",
+     "montant": 8400,
+     "kind": "base"
+    },
+    {
+     "label": "− Impôt sur les sociétés (15 % / 25 %)",
+     "montant": -1745.83,
+     "kind": "sub"
+    },
+    {
+     "label": "Dividendes bruts",
+     "montant": 6654.17,
+     "kind": "total"
+    },
+    {
+     "label": "− Prélèvements sociaux (18,6 %)",
+     "montant": -1237.68,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 7462.26,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -927.48,
+     "kind": "sub",
+     "hint": "Barème sur le salaire + 12,8 % sur les dividendes"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 2791.895,
+     "variant": "cotisations"
+    },
+    {
+     "name": "IS",
+     "value": 1745.8333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Impôt",
+     "value": 927.4833333333335,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6534.778333333332,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "sasu_is",
+    "partRemuneration": 30,
+    "capitalSocial": 10000
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2791.9,
+   "impotSocietesMensuel": 1745.83,
+   "impotMensuel": 927.48,
+   "netAvantImpotMensuel": 7462.26,
+   "netApresImpotMensuel": 6534.78,
+   "netApresImpotAnnuel": 78417.34,
+   "tauxNetSurCA": 0.544564861111111,
+   "tauxIREstime": 3.57,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Coût de la rémunération",
+     "montant": 3600,
+     "kind": "base",
+     "hint": "30 % du résultat"
+    },
+    {
+     "label": "− Cotisations patronales (sans chômage)",
+     "montant": -1010.1,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -544.12,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net",
+     "montant": 2045.77,
+     "kind": "total"
+    },
+    {
+     "label": "Bénéfice avant IS",
+     "montant": 8400,
+     "kind": "base"
+    },
+    {
+     "label": "− Impôt sur les sociétés (15 % / 25 %)",
+     "montant": -1745.83,
+     "kind": "sub"
+    },
+    {
+     "label": "Dividendes bruts",
+     "montant": 6654.17,
+     "kind": "total"
+    },
+    {
+     "label": "− Prélèvements sociaux (18,6 %)",
+     "montant": -1237.68,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 7462.26,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -927.48,
+     "kind": "sub",
+     "hint": "Barème sur le salaire + 12,8 % sur les dividendes"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 2791.895,
+     "variant": "cotisations"
+    },
+    {
+     "name": "IS",
+     "value": 1745.8333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Impôt",
+     "value": 927.4833333333335,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6534.778333333332,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "sasu_is",
+    "partRemuneration": 100
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 5098.76,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1355.83,
+   "netAvantImpotMensuel": 6901.22,
+   "netApresImpotMensuel": 5545.39,
+   "netApresImpotAnnuel": 66544.64,
+   "tauxNetSurCA": 0.4621155555555556,
+   "tauxIREstime": 18.96,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Coût de la rémunération",
+     "montant": 12000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations patronales (sans chômage)",
+     "montant": -3326.73,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -1772.03,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net",
+     "montant": 6901.22,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 6901.22,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1355.83,
+     "kind": "sub",
+     "hint": "Barème sur le salaire (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 5098.76,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1355.8333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5545.386666666667,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "sasu_is",
+    "partRemuneration": 100,
+    "capitalSocial": 10000
+   }
+  ],
+  "result": {
+   "statut": "sasu_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 5098.76,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1355.83,
+   "netAvantImpotMensuel": 6901.22,
+   "netApresImpotMensuel": 5545.39,
+   "netApresImpotAnnuel": 66544.64,
+   "tauxNetSurCA": 0.4621155555555556,
+   "tauxIREstime": 18.96,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Coût de la rémunération",
+     "montant": 12000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations patronales (sans chômage)",
+     "montant": -3326.73,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -1772.03,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net",
+     "montant": 6901.22,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 6901.22,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1355.83,
+     "kind": "sub",
+     "hint": "Barème sur le salaire (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 5098.76,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1355.8333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5545.386666666667,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "eurl_is",
+    "partRemuneration": 0
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2845.57,
+   "impotSocietesMensuel": 2645.83,
+   "impotMensuel": 1197.33,
+   "netAvantImpotMensuel": 6508.6,
+   "netApresImpotMensuel": 5311.27,
+   "netApresImpotAnnuel": 63735.2,
+   "tauxNetSurCA": 0.4426055555555555,
+   "tauxIREstime": 0,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Bénéfice avant IS",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "− Impôt sur les sociétés (15 % / 25 %)",
+     "montant": -2645.83,
+     "kind": "sub"
+    },
+    {
+     "label": "Dividendes bruts",
+     "montant": 9354.17,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS sur dividendes (> 10 % du capital)",
+     "montant": -2739.46,
+     "kind": "sub"
+    },
+    {
+     "label": "− Prélèvements sociaux (18,6 %)",
+     "montant": -1.55,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 6508.6,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1197.33,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération + 12,8 % sur les dividendes"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 2845.566666666666,
+     "variant": "cotisations"
+    },
+    {
+     "name": "IS",
+     "value": 2645.8333333333335,
+     "variant": "impot"
+    },
+    {
+     "name": "Impôt",
+     "value": 1197.3333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5311.2666666666655,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "En EURL, les dividendes dépassant 10 % du capital social supportent les cotisations TNS : la rémunération est souvent plus avantageuse."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "eurl_is",
+    "partRemuneration": 0,
+    "capitalSocial": 10000
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 2841.35,
+   "impotSocietesMensuel": 2645.83,
+   "impotMensuel": 1197.33,
+   "netAvantImpotMensuel": 6512.82,
+   "netApresImpotMensuel": 5315.49,
+   "netApresImpotAnnuel": 63785.85,
+   "tauxNetSurCA": 0.4429572916666666,
+   "tauxIREstime": 0,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Bénéfice avant IS",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "− Impôt sur les sociétés (15 % / 25 %)",
+     "montant": -2645.83,
+     "kind": "sub"
+    },
+    {
+     "label": "Dividendes bruts",
+     "montant": 9354.17,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS sur dividendes (> 10 % du capital)",
+     "montant": -2721.29,
+     "kind": "sub"
+    },
+    {
+     "label": "− Prélèvements sociaux (18,6 %)",
+     "montant": -15.5,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 6512.82,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1197.33,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération + 12,8 % sur les dividendes"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 2841.3458333333333,
+     "variant": "cotisations"
+    },
+    {
+     "name": "IS",
+     "value": 2645.8333333333335,
+     "variant": "impot"
+    },
+    {
+     "name": "Impôt",
+     "value": 1197.3333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 5315.487499999999,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "En EURL, les dividendes dépassant 10 % du capital social supportent les cotisations TNS : la rémunération est souvent plus avantageuse."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "eurl_is",
+    "partRemuneration": 30
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 3065.21,
+   "impotSocietesMensuel": 1745.83,
+   "impotMensuel": 986.98,
+   "netAvantImpotMensuel": 7188.95,
+   "netApresImpotMensuel": 6201.97,
+   "netApresImpotAnnuel": 74423.65,
+   "tauxNetSurCA": 0.5168309027777778,
+   "tauxIREstime": 5.34,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 3600,
+     "kind": "base",
+     "hint": "30 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -1142.64,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 2457.37,
+     "kind": "total"
+    },
+    {
+     "label": "Bénéfice avant IS",
+     "montant": 8400,
+     "kind": "base"
+    },
+    {
+     "label": "− Impôt sur les sociétés (15 % / 25 %)",
+     "montant": -1745.83,
+     "kind": "sub"
+    },
+    {
+     "label": "Dividendes bruts",
+     "montant": 6654.17,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS sur dividendes (> 10 % du capital)",
+     "montant": -1921.03,
+     "kind": "sub"
+    },
+    {
+     "label": "− Prélèvements sociaux (18,6 %)",
+     "montant": -1.55,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 7188.95,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -986.98,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération + 12,8 % sur les dividendes"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 3065.2124999999996,
+     "variant": "cotisations"
+    },
+    {
+     "name": "IS",
+     "value": 1745.8333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Impôt",
+     "value": 986.9833333333335,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6201.970833333334,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "En EURL, les dividendes dépassant 10 % du capital social supportent les cotisations TNS : la rémunération est souvent plus avantageuse."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "eurl_is",
+    "partRemuneration": 30,
+    "capitalSocial": 10000
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 3060.75,
+   "impotSocietesMensuel": 1745.83,
+   "impotMensuel": 986.98,
+   "netAvantImpotMensuel": 7193.42,
+   "netApresImpotMensuel": 6206.44,
+   "netApresImpotAnnuel": 74477.25,
+   "tauxNetSurCA": 0.5172031250000001,
+   "tauxIREstime": 5.34,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 3600,
+     "kind": "base",
+     "hint": "30 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -1142.64,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 2457.37,
+     "kind": "total"
+    },
+    {
+     "label": "Bénéfice avant IS",
+     "montant": 8400,
+     "kind": "base"
+    },
+    {
+     "label": "− Impôt sur les sociétés (15 % / 25 %)",
+     "montant": -1745.83,
+     "kind": "sub"
+    },
+    {
+     "label": "Dividendes bruts",
+     "montant": 6654.17,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations TNS sur dividendes (> 10 % du capital)",
+     "montant": -1902.61,
+     "kind": "sub"
+    },
+    {
+     "label": "− Prélèvements sociaux (18,6 %)",
+     "montant": -15.5,
+     "kind": "sub"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 7193.42,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -986.98,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération + 12,8 % sur les dividendes"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 3060.745833333333,
+     "variant": "cotisations"
+    },
+    {
+     "name": "IS",
+     "value": 1745.8333333333333,
+     "variant": "impot"
+    },
+    {
+     "name": "Impôt",
+     "value": 986.9833333333335,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6206.437500000001,
+     "variant": "amount"
+    }
+   ],
+   "notes": [
+    "En EURL, les dividendes dépassant 10 % du capital social supportent les cotisations TNS : la rémunération est souvent plus avantageuse."
+   ]
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "eurl_is",
+    "partRemuneration": 100
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 3489.97,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1885.25,
+   "netAvantImpotMensuel": 8510.03,
+   "netApresImpotMensuel": 6624.78,
+   "netApresImpotAnnuel": 79497.38,
+   "tauxNetSurCA": 0.552065138888889,
+   "tauxIREstime": 21.5,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 12000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -3489.97,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 8510.03,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 8510.03,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1885.25,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 3489.9683333333337,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1885.25,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6624.781666666668,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 12000,
+    "statut": "eurl_is",
+    "partRemuneration": 100,
+    "capitalSocial": 10000
+   }
+  ],
+  "result": {
+   "statut": "eurl_is",
+   "caMensuel": 12000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 3489.97,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 1885.25,
+   "netAvantImpotMensuel": 8510.03,
+   "netApresImpotMensuel": 6624.78,
+   "netApresImpotAnnuel": 79497.38,
+   "tauxNetSurCA": 0.552065138888889,
+   "tauxIREstime": 21.5,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 12000,
+     "kind": "base"
+    },
+    {
+     "label": "Résultat avant rémunération",
+     "montant": 12000,
+     "kind": "total"
+    },
+    {
+     "label": "Rémunération du gérant (avant cotisations)",
+     "montant": 12000,
+     "kind": "base",
+     "hint": "100 % du résultat"
+    },
+    {
+     "label": "− Cotisations TNS",
+     "montant": -3489.97,
+     "kind": "sub"
+    },
+    {
+     "label": "Rémunération nette",
+     "montant": 8510.03,
+     "kind": "total"
+    },
+    {
+     "label": "Net avant impôt sur le revenu",
+     "montant": 8510.03,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -1885.25,
+     "kind": "sub",
+     "hint": "Barème sur la rémunération (abattement 10 %)"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Cotisations",
+     "value": 3489.9683333333337,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 1885.25,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 6624.781666666668,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 8000,
+    "statut": "portage",
+    "fraisPortagePercent": 5
+   }
+  ],
+  "result": {
+   "statut": "portage",
+   "caMensuel": 8000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 3762.38,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 611.17,
+   "netAvantImpotMensuel": 4237.62,
+   "netApresImpotMensuel": 3626.45,
+   "netApresImpotAnnuel": 43517.44,
+   "tauxNetSurCA": 0.4533066666666667,
+   "tauxIREstime": 13.92,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 8000,
+     "kind": "base"
+    },
+    {
+     "label": "− Frais de gestion (5 %)",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations patronales",
+     "montant": -2248.53,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire brut",
+     "montant": 5351.47,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -1113.85,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net avant impôt",
+     "montant": 4237.62,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -611.17,
+     "kind": "sub"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 3362.38,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 611.1666666666666,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 3626.4533333333334,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 8000,
+    "statut": "portage",
+    "fraisPortagePercent": 5,
+    "tauxPrelevementSource": 12
+   }
+  ],
+  "result": {
+   "statut": "portage",
+   "caMensuel": 8000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 3762.38,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 527.02,
+   "netAvantImpotMensuel": 4237.62,
+   "netApresImpotMensuel": 3710.6,
+   "netApresImpotAnnuel": 44527.19,
+   "tauxNetSurCA": 0.46382490000000004,
+   "tauxIREstime": 13.92,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 8000,
+     "kind": "base"
+    },
+    {
+     "label": "− Frais de gestion (5 %)",
+     "montant": -400,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations patronales",
+     "montant": -2248.53,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire brut",
+     "montant": 5351.47,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -1113.85,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net avant impôt",
+     "montant": 4237.62,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -527.02,
+     "kind": "sub"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 400,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 3362.38,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 527.0207999999999,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 3710.5992,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 8000,
+    "statut": "portage",
+    "fraisPortagePercent": 10
+   }
+  ],
+  "result": {
+   "statut": "portage",
+   "caMensuel": 8000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 3986.7,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 548.42,
+   "netAvantImpotMensuel": 4013.29,
+   "netApresImpotMensuel": 3464.87,
+   "netApresImpotAnnuel": 41578.48,
+   "tauxNetSurCA": 0.43310916666666666,
+   "tauxIREstime": 13.18,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 8000,
+     "kind": "base"
+    },
+    {
+     "label": "− Frais de gestion (10 %)",
+     "montant": -800,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations patronales",
+     "montant": -2128.28,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire brut",
+     "montant": 5071.71,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -1058.42,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net avant impôt",
+     "montant": 4013.29,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -548.42,
+     "kind": "sub"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 800,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 3186.7,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 548.4166666666666,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 3464.8733333333334,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ },
+ {
+  "args": [
+   {
+    "caMensuel": 8000,
+    "statut": "portage",
+    "fraisPortagePercent": 10,
+    "tauxPrelevementSource": 12
+   }
+  ],
+  "result": {
+   "statut": "portage",
+   "caMensuel": 8000,
+   "chargesMensuelles": 0,
+   "cotisationsMensuelles": 3986.7,
+   "impotSocietesMensuel": 0,
+   "impotMensuel": 499.14,
+   "netAvantImpotMensuel": 4013.29,
+   "netApresImpotMensuel": 3514.15,
+   "netApresImpotAnnuel": 42169.74,
+   "tauxNetSurCA": 0.43926814999999997,
+   "tauxIREstime": 13.18,
+   "lignes": [
+    {
+     "label": "Chiffre d'affaires HT",
+     "montant": 8000,
+     "kind": "base"
+    },
+    {
+     "label": "− Frais de gestion (10 %)",
+     "montant": -800,
+     "kind": "sub"
+    },
+    {
+     "label": "− Cotisations patronales",
+     "montant": -2128.28,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire brut",
+     "montant": 5071.71,
+     "kind": "total"
+    },
+    {
+     "label": "− Cotisations salariales",
+     "montant": -1058.42,
+     "kind": "sub"
+    },
+    {
+     "label": "Salaire net avant impôt",
+     "montant": 4013.29,
+     "kind": "total"
+    },
+    {
+     "label": "− Impôt sur le revenu",
+     "montant": -499.14,
+     "kind": "sub"
+    }
+   ],
+   "repartition": [
+    {
+     "name": "Frais",
+     "value": 800,
+     "variant": "deduction"
+    },
+    {
+     "name": "Cotisations",
+     "value": 3186.7,
+     "variant": "cotisations"
+    },
+    {
+     "name": "Impôt",
+     "value": 499.14480000000003,
+     "variant": "impot"
+    },
+    {
+     "name": "Net",
+     "value": 3514.1452,
+     "variant": "amount"
+    }
+   ],
+   "notes": []
+  }
+ }
+]

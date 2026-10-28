@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "name": "fr.calculsalairebrutnet/simulateurs",
+  "title": "Simulateurs salaire et freelance (France)",
+  "description": "Salaire brut et net, indemnités, chômage, APL, freelance : barèmes français 2026, sans inscription.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.calculsalairebrutnet.fr/integrer/ia",
+  "repository": { "url": "https://github.com/pwnera/simulateurs-fr", "source": "github" },
+  "remotes": [{ "type": "streamable-http", "url": "https://www.calculsalairebrutnet.fr/mcp" }]
+}

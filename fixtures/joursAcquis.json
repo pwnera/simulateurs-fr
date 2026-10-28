@@ -1,0 +1,248 @@
+[
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "moisTravailles": 0
+   }
+  ],
+  "result": {
+   "joursTravail": 0,
+   "joursMaladie": 0,
+   "joursAcquis": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "moisTravailles": 0,
+    "moisMaladie": 6
+   }
+  ],
+  "result": {
+   "joursTravail": 0,
+   "joursMaladie": 12,
+   "joursAcquis": 12
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "moisTravailles": 0,
+    "moisMaladie": 12
+   }
+  ],
+  "result": {
+   "joursTravail": 0,
+   "joursMaladie": 24,
+   "joursAcquis": 24
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "moisTravailles": 3
+   }
+  ],
+  "result": {
+   "joursTravail": 7.5,
+   "joursMaladie": 0,
+   "joursAcquis": 8
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "moisTravailles": 3,
+    "moisMaladie": 6
+   }
+  ],
+  "result": {
+   "joursTravail": 7.5,
+   "joursMaladie": 12,
+   "joursAcquis": 20
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "moisTravailles": 3,
+    "moisMaladie": 12
+   }
+  ],
+  "result": {
+   "joursTravail": 7.5,
+   "joursMaladie": 18,
+   "joursAcquis": 26
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "moisTravailles": 12
+   }
+  ],
+  "result": {
+   "joursTravail": 30,
+   "joursMaladie": 0,
+   "joursAcquis": 30
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "moisTravailles": 12,
+    "moisMaladie": 6
+   }
+  ],
+  "result": {
+   "joursTravail": 30,
+   "joursMaladie": 0,
+   "joursAcquis": 30
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvrables",
+    "moisTravailles": 12,
+    "moisMaladie": 12
+   }
+  ],
+  "result": {
+   "joursTravail": 30,
+   "joursMaladie": 0,
+   "joursAcquis": 30
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "moisTravailles": 0
+   }
+  ],
+  "result": {
+   "joursTravail": 0,
+   "joursMaladie": 0,
+   "joursAcquis": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "moisTravailles": 0,
+    "moisMaladie": 6
+   }
+  ],
+  "result": {
+   "joursTravail": 0,
+   "joursMaladie": 10,
+   "joursAcquis": 10
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "moisTravailles": 0,
+    "moisMaladie": 12
+   }
+  ],
+  "result": {
+   "joursTravail": 0,
+   "joursMaladie": 20,
+   "joursAcquis": 20
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "moisTravailles": 3
+   }
+  ],
+  "result": {
+   "joursTravail": 6.25,
+   "joursMaladie": 0,
+   "joursAcquis": 7
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "moisTravailles": 3,
+    "moisMaladie": 6
+   }
+  ],
+  "result": {
+   "joursTravail": 6.25,
+   "joursMaladie": 10,
+   "joursAcquis": 17
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "moisTravailles": 3,
+    "moisMaladie": 12
+   }
+  ],
+  "result": {
+   "joursTravail": 6.25,
+   "joursMaladie": 15,
+   "joursAcquis": 22
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "moisTravailles": 12
+   }
+  ],
+  "result": {
+   "joursTravail": 25,
+   "joursMaladie": 0,
+   "joursAcquis": 25
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "moisTravailles": 12,
+    "moisMaladie": 6
+   }
+  ],
+  "result": {
+   "joursTravail": 25,
+   "joursMaladie": 0,
+   "joursAcquis": 25
+  }
+ },
+ {
+  "args": [
+   {
+    "decompte": "ouvres",
+    "moisTravailles": 12,
+    "moisMaladie": 12
+   }
+  ],
+  "result": {
+   "joursTravail": 25,
+   "joursMaladie": 0,
+   "joursAcquis": 25
+  }
+ }
+]

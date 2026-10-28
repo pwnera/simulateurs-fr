@@ -1,0 +1,128 @@
+[
+ {
+  "args": [
+   [
+    {
+     "debutMinutes": 540,
+     "finMinutes": 1080,
+     "pauseMinutes": 60
+    },
+    null,
+    {
+     "debutMinutes": 480,
+     "finMinutes": 1200,
+     "pauseMinutes": 45
+    },
+    {
+     "debutMinutes": 540,
+     "finMinutes": 1140,
+     "pauseMinutes": 60
+    },
+    {
+     "debutMinutes": 540,
+     "finMinutes": 1110,
+     "pauseMinutes": 30
+    },
+    null,
+    null
+   ],
+   35,
+   "minute"
+  ],
+  "result": {
+   "heuresNormales": 35,
+   "heuresSup25": 2.25,
+   "heuresSup50": 0,
+   "heuresComp10": 0,
+   "totalHeures": 37.25
+  }
+ },
+ {
+  "args": [
+   [
+    {
+     "debutMinutes": 510,
+     "finMinutes": 1157,
+     "pauseMinutes": 60
+    },
+    {
+     "debutMinutes": 510,
+     "finMinutes": 1157,
+     "pauseMinutes": 60
+    },
+    {
+     "debutMinutes": 510,
+     "finMinutes": 1157,
+     "pauseMinutes": 60
+    },
+    {
+     "debutMinutes": 510,
+     "finMinutes": 1157,
+     "pauseMinutes": 60
+    },
+    {
+     "debutMinutes": 510,
+     "finMinutes": 1157,
+     "pauseMinutes": 60
+    },
+    null,
+    null
+   ],
+   35,
+   "quart"
+  ],
+  "result": {
+   "heuresNormales": 35,
+   "heuresSup25": 8,
+   "heuresSup50": 6,
+   "heuresComp10": 0,
+   "totalHeures": 49
+  }
+ },
+ {
+  "args": [
+   [
+    {
+     "debutMinutes": 480,
+     "finMinutes": 1110,
+     "pauseMinutes": 60
+    },
+    {
+     "debutMinutes": 480,
+     "finMinutes": 1110,
+     "pauseMinutes": 60
+    },
+    {
+     "debutMinutes": 480,
+     "finMinutes": 1110,
+     "pauseMinutes": 60
+    },
+    {
+     "debutMinutes": 480,
+     "finMinutes": 1110,
+     "pauseMinutes": 60
+    },
+    {
+     "debutMinutes": 480,
+     "finMinutes": 1110,
+     "pauseMinutes": 60
+    },
+    {
+     "debutMinutes": 480,
+     "finMinutes": 1110,
+     "pauseMinutes": 60
+    },
+    null
+   ],
+   39,
+   "heure_commencee"
+  ],
+  "result": {
+   "heuresNormales": 39,
+   "heuresSup25": 4,
+   "heuresSup50": 14,
+   "heuresComp10": 0,
+   "totalHeures": 57
+  }
+ }
+]

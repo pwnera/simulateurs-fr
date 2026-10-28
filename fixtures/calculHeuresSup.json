@@ -1,0 +1,1055 @@
+[
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 0,
+    "heuresSup50": 0
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 0,
+   "netEstime": 0,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 0,
+    "heuresSup50": 0,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 0,
+   "netEstime": 0,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 0,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 0,
+   "netEstime": 0,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 0,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 0,
+   "netEstime": 0,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 0,
+    "heuresSup50": 4
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 75.16,
+   "montantBrut10": 0,
+   "totalBrut": 75.16,
+   "netEstime": 67.13,
+   "reductionSalariale": 8.5,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 0,
+    "heuresSup50": 4,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 75.16,
+   "montantBrut10": 0,
+   "totalBrut": 75.16,
+   "netEstime": 58.63,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 0,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 65.77,
+   "montantBrut10": 0,
+   "totalBrut": 65.77,
+   "netEstime": 58.74,
+   "reductionSalariale": 7.44,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 0,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 65.77,
+   "montantBrut10": 0,
+   "totalBrut": 65.77,
+   "netEstime": 51.3,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 8,
+    "heuresSup50": 0
+   }
+  ],
+  "result": {
+   "montantBrut25": 125.27,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 125.27,
+   "netEstime": 111.88,
+   "reductionSalariale": 14.17,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 8,
+    "heuresSup50": 0,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 125.27,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 125.27,
+   "netEstime": 97.71,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 8,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 109.62,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 109.62,
+   "netEstime": 97.9,
+   "reductionSalariale": 12.4,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 8,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 109.62,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 109.62,
+   "netEstime": 85.5,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 8,
+    "heuresSup50": 4
+   }
+  ],
+  "result": {
+   "montantBrut25": 125.27,
+   "montantBrut50": 75.16,
+   "montantBrut10": 0,
+   "totalBrut": 200.44,
+   "netEstime": 179.01,
+   "reductionSalariale": 22.67,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 8,
+    "heuresSup50": 4,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 125.27,
+   "montantBrut50": 75.16,
+   "montantBrut10": 0,
+   "totalBrut": 200.44,
+   "netEstime": 156.34,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 8,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 109.62,
+   "montantBrut50": 65.77,
+   "montantBrut10": 0,
+   "totalBrut": 175.39,
+   "netEstime": 156.64,
+   "reductionSalariale": 19.84,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 8,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 109.62,
+   "montantBrut50": 65.77,
+   "montantBrut10": 0,
+   "totalBrut": 175.39,
+   "netEstime": 136.8,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 20,
+    "heuresSup50": 0
+   }
+  ],
+  "result": {
+   "montantBrut25": 313.18,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 313.18,
+   "netEstime": 279.7,
+   "reductionSalariale": 35.42,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 20,
+    "heuresSup50": 0,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 313.18,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 313.18,
+   "netEstime": 244.28,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 20,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 274.04,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 274.04,
+   "netEstime": 244.74,
+   "reductionSalariale": 30.99,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 20,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 274.04,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 274.04,
+   "netEstime": 213.75,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 20,
+    "heuresSup50": 4
+   }
+  ],
+  "result": {
+   "montantBrut25": 313.18,
+   "montantBrut50": 75.16,
+   "montantBrut10": 0,
+   "totalBrut": 388.34,
+   "netEstime": 346.83,
+   "reductionSalariale": 43.92,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 20,
+    "heuresSup50": 4,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 313.18,
+   "montantBrut50": 75.16,
+   "montantBrut10": 0,
+   "totalBrut": 388.34,
+   "netEstime": 302.91,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 12.53,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 20,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 274.04,
+   "montantBrut50": 65.77,
+   "montantBrut10": 0,
+   "totalBrut": 339.81,
+   "netEstime": 303.48,
+   "reductionSalariale": 38.43,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 1900,
+    "heuresSup25": 20,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 274.04,
+   "montantBrut50": 65.77,
+   "montantBrut10": 0,
+   "totalBrut": 339.81,
+   "netEstime": 265.05,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 10.96,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 0,
+    "heuresSup50": 0
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 0,
+   "netEstime": 0,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 0,
+    "heuresSup50": 0,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 0,
+   "netEstime": 0,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 0,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 0,
+   "netEstime": 0,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 0,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 0,
+   "netEstime": 0,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 0,
+    "heuresSup50": 4
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 138.46,
+   "montantBrut10": 0,
+   "totalBrut": 138.46,
+   "netEstime": 123.66,
+   "reductionSalariale": 15.66,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 0,
+    "heuresSup50": 4,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 138.46,
+   "montantBrut10": 0,
+   "totalBrut": 138.46,
+   "netEstime": 108,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 0,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 121.15,
+   "montantBrut10": 0,
+   "totalBrut": 121.15,
+   "netEstime": 108.2,
+   "reductionSalariale": 13.7,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 0,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 0,
+   "montantBrut50": 121.15,
+   "montantBrut10": 0,
+   "totalBrut": 121.15,
+   "netEstime": 94.5,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 8,
+    "heuresSup50": 0
+   }
+  ],
+  "result": {
+   "montantBrut25": 230.76,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 230.76,
+   "netEstime": 206.1,
+   "reductionSalariale": 26.1,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 8,
+    "heuresSup50": 0,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 230.76,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 230.76,
+   "netEstime": 180,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 8,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 201.92,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 201.92,
+   "netEstime": 180.34,
+   "reductionSalariale": 22.84,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 8,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 201.92,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 201.92,
+   "netEstime": 157.5,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 8,
+    "heuresSup50": 4
+   }
+  ],
+  "result": {
+   "montantBrut25": 230.76,
+   "montantBrut50": 138.46,
+   "montantBrut10": 0,
+   "totalBrut": 369.22,
+   "netEstime": 329.75,
+   "reductionSalariale": 41.76,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 8,
+    "heuresSup50": 4,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 230.76,
+   "montantBrut50": 138.46,
+   "montantBrut10": 0,
+   "totalBrut": 369.22,
+   "netEstime": 287.99,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 8,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 201.92,
+   "montantBrut50": 121.15,
+   "montantBrut10": 0,
+   "totalBrut": 323.08,
+   "netEstime": 288.54,
+   "reductionSalariale": 36.54,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 8,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 201.92,
+   "montantBrut50": 121.15,
+   "montantBrut10": 0,
+   "totalBrut": 323.08,
+   "netEstime": 252,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 20,
+    "heuresSup50": 0
+   }
+  ],
+  "result": {
+   "montantBrut25": 576.91,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 576.91,
+   "netEstime": 515.24,
+   "reductionSalariale": 65.25,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 20,
+    "heuresSup50": 0,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 576.91,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 576.91,
+   "netEstime": 449.99,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 20,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 504.81,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 504.81,
+   "netEstime": 450.85,
+   "reductionSalariale": 57.09,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 20,
+    "heuresSup50": 0,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 504.81,
+   "montantBrut50": 0,
+   "montantBrut10": 0,
+   "totalBrut": 504.81,
+   "netEstime": 393.75,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 20,
+    "heuresSup50": 4
+   }
+  ],
+  "result": {
+   "montantBrut25": 576.91,
+   "montantBrut50": 138.46,
+   "montantBrut10": 0,
+   "totalBrut": 715.37,
+   "netEstime": 638.9,
+   "reductionSalariale": 80.91,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 20,
+    "heuresSup50": 4,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 576.91,
+   "montantBrut50": 138.46,
+   "montantBrut10": 0,
+   "totalBrut": 715.37,
+   "netEstime": 557.99,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 23.08,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 20,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39
+   }
+  ],
+  "result": {
+   "montantBrut25": 504.81,
+   "montantBrut50": 121.15,
+   "montantBrut10": 0,
+   "totalBrut": 625.96,
+   "netEstime": 559.05,
+   "reductionSalariale": 70.8,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "salaireMensuelBrut": 3500,
+    "heuresSup25": 20,
+    "heuresSup50": 4,
+    "heuresContratHebdo": 39,
+    "reductionSalariale": false
+   }
+  ],
+  "result": {
+   "montantBrut25": 504.81,
+   "montantBrut50": 121.15,
+   "montantBrut10": 0,
+   "totalBrut": 625.96,
+   "netEstime": 488.25,
+   "reductionSalariale": 0,
+   "tauxChargesEffectif": 0.22,
+   "tauxHoraireBrut": 20.19,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "tauxHoraireBrut": 15,
+    "heuresSup25": 6,
+    "heuresSup50": 2,
+    "tauxMajoration1": 0.1,
+    "tauxMajoration2": 0.2
+   }
+  ],
+  "result": {
+   "montantBrut25": 99,
+   "montantBrut50": 36,
+   "montantBrut10": 0,
+   "totalBrut": 135,
+   "netEstime": 120.57,
+   "reductionSalariale": 15.27,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 15,
+   "tauxChargesUtilise": 0.22
+  }
+ },
+ {
+  "args": [
+   {
+    "tauxHoraireBrut": 15,
+    "heuresSup25": 6,
+    "heuresSup50": 2,
+    "tauxMajoration1": 0.1,
+    "tauxMajoration2": 0.2,
+    "heuresComp10": 3
+   }
+  ],
+  "result": {
+   "montantBrut25": 99,
+   "montantBrut50": 36,
+   "montantBrut10": 49.5,
+   "totalBrut": 184.5,
+   "netEstime": 164.78,
+   "reductionSalariale": 20.87,
+   "tauxChargesEffectif": 0.1069,
+   "tauxHoraireBrut": 15,
+   "tauxChargesUtilise": 0.22
+  }
+ }
+]

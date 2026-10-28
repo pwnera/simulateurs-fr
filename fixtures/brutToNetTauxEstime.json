@@ -1,0 +1,2739 @@
+[
+ {
+  "args": [
+   {
+    "brutMensuel": 1900,
+    "statut": "non-cadre"
+   }
+  ],
+  "result": {
+   "brutMensuel": 1900,
+   "brutAnnuel": 22800,
+   "brutHoraire": 12.53,
+   "netMensuel": 1504.04,
+   "netAnnuel": 18048.48,
+   "netMensuelMoyen": 1504.04,
+   "netHoraire": 9.92,
+   "netImposableMensuel": 1558.17,
+   "netImposableAnnuel": 18698.04,
+   "netSocialMensuel": 1504.04,
+   "netSocialAnnuel": 18048.48,
+   "impotMensuel": 0,
+   "netMensuelApresImpots": 1504.04,
+   "netAnnuelApresImpots": 18048.48,
+   "cotisationsMensuelles": 395.96,
+   "tauxCotisationsEffectif": 0.2084,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 1900,
+     "taux": 0.069,
+     "montant": 131.1,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 1900,
+     "taux": 0.004,
+     "montant": 7.6,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 1900,
+     "taux": 0.0315,
+     "montant": 59.85,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 1900,
+     "taux": 0.0086,
+     "montant": 16.34,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 1866.75,
+     "taux": 0.068,
+     "montant": 126.94,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 1866.75,
+     "taux": 0.024,
+     "montant": 44.8,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 1866.75,
+     "taux": 0.005,
+     "montant": 9.33,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 0,
+   "tauxPrelevementSource": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 1900,
+    "statut": "non-cadre",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 1900,
+   "brutAnnuel": 26600,
+   "brutHoraire": 12.53,
+   "netMensuel": 1504.04,
+   "netAnnuel": 21056.52,
+   "netMensuelMoyen": 1754.71,
+   "netHoraire": 9.92,
+   "netImposableMensuel": 1558.17,
+   "netImposableAnnuel": 21814.44,
+   "netSocialMensuel": 1504.04,
+   "netSocialAnnuel": 21056.52,
+   "impotMensuel": 31.16,
+   "netMensuelApresImpots": 1472.88,
+   "netAnnuelApresImpots": 20620.23,
+   "cotisationsMensuelles": 395.96,
+   "tauxCotisationsEffectif": 0.2084,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 1900,
+     "taux": 0.069,
+     "montant": 131.1,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 1900,
+     "taux": 0.004,
+     "montant": 7.6,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 1900,
+     "taux": 0.0315,
+     "montant": 59.85,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 1900,
+     "taux": 0.0086,
+     "montant": 16.34,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 1866.75,
+     "taux": 0.068,
+     "montant": 126.94,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 1866.75,
+     "taux": 0.024,
+     "montant": 44.8,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 1866.75,
+     "taux": 0.005,
+     "montant": 9.33,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 1.77,
+   "tauxPrelevementSource": 2
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 1900,
+    "statut": "cadre"
+   }
+  ],
+  "result": {
+   "brutMensuel": 1900,
+   "brutAnnuel": 22800,
+   "brutHoraire": 12.53,
+   "netMensuel": 1500.8,
+   "netAnnuel": 18009.6,
+   "netMensuelMoyen": 1500.8,
+   "netHoraire": 9.9,
+   "netImposableMensuel": 1555.77,
+   "netImposableAnnuel": 18669.24,
+   "netSocialMensuel": 1500.8,
+   "netSocialAnnuel": 18009.6,
+   "impotMensuel": 0,
+   "netMensuelApresImpots": 1500.8,
+   "netAnnuelApresImpots": 18009.6,
+   "cotisationsMensuelles": 399.2,
+   "tauxCotisationsEffectif": 0.21010526315789474,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 1900,
+     "taux": 0.069,
+     "montant": 131.1,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 1900,
+     "taux": 0.004,
+     "montant": 7.6,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 1900,
+     "taux": 0.0315,
+     "montant": 59.85,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 1900,
+     "taux": 0.0086,
+     "montant": 16.34,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 1900,
+     "taux": 0.00024,
+     "montant": 0.46,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 1895.25,
+     "taux": 0.068,
+     "montant": 128.88,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 1895.25,
+     "taux": 0.024,
+     "montant": 45.49,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 1895.25,
+     "taux": 0.005,
+     "montant": 9.48,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 0,
+   "tauxPrelevementSource": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 1900,
+    "statut": "cadre",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 1900,
+   "brutAnnuel": 26600,
+   "brutHoraire": 12.53,
+   "netMensuel": 1500.8,
+   "netAnnuel": 21011.4,
+   "netMensuelMoyen": 1750.95,
+   "netHoraire": 9.9,
+   "netImposableMensuel": 1555.77,
+   "netImposableAnnuel": 21780.96,
+   "netSocialMensuel": 1500.8,
+   "netSocialAnnuel": 21011.4,
+   "impotMensuel": 31.12,
+   "netMensuelApresImpots": 1469.68,
+   "netAnnuelApresImpots": 20575.78,
+   "cotisationsMensuelles": 399.2,
+   "tauxCotisationsEffectif": 0.21010526315789474,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 1900,
+     "taux": 0.069,
+     "montant": 131.1,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 1900,
+     "taux": 0.004,
+     "montant": 7.6,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 1900,
+     "taux": 0.0315,
+     "montant": 59.85,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 1900,
+     "taux": 0.0086,
+     "montant": 16.34,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 1900,
+     "taux": 0.00024,
+     "montant": 0.46,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 1895.25,
+     "taux": 0.068,
+     "montant": 128.88,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 1895.25,
+     "taux": 0.024,
+     "montant": 45.49,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 1895.25,
+     "taux": 0.005,
+     "montant": 9.48,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 1.75,
+   "tauxPrelevementSource": 2
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 1900,
+    "statut": "fonction-publique"
+   }
+  ],
+  "result": {
+   "brutMensuel": 1900,
+   "brutAnnuel": 22800,
+   "brutHoraire": 12.53,
+   "netMensuel": 1508.03,
+   "netAnnuel": 18096.36,
+   "netMensuelMoyen": 1508.03,
+   "netHoraire": 9.94,
+   "netImposableMensuel": 1562.16,
+   "netImposableAnnuel": 18745.92,
+   "netSocialMensuel": 1508.03,
+   "netSocialAnnuel": 18096.36,
+   "impotMensuel": 0,
+   "netMensuelApresImpots": 1508.03,
+   "netAnnuelApresImpots": 18096.36,
+   "cotisationsMensuelles": 391.97,
+   "tauxCotisationsEffectif": 0.2063,
+   "lignes": [
+    {
+     "id": "pension-civile",
+     "label": "Retraite (pension civile)",
+     "base": 1900,
+     "taux": 0.111,
+     "montant": 210.9,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 1866.75,
+     "taux": 0.068,
+     "montant": 126.94,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 1866.75,
+     "taux": 0.024,
+     "montant": 44.8,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 1866.75,
+     "taux": 0.005,
+     "montant": 9.33,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 0,
+   "tauxPrelevementSource": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 1900,
+    "statut": "fonction-publique",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 1900,
+   "brutAnnuel": 26600,
+   "brutHoraire": 12.53,
+   "netMensuel": 1508.03,
+   "netAnnuel": 21344.16,
+   "netMensuelMoyen": 1778.68,
+   "netHoraire": 9.94,
+   "netImposableMensuel": 1562.16,
+   "netImposableAnnuel": 22102.08,
+   "netSocialMensuel": 1508.03,
+   "netSocialAnnuel": 21344.16,
+   "impotMensuel": 31.24,
+   "netMensuelApresImpots": 1476.79,
+   "netAnnuelApresImpots": 20902.12,
+   "cotisationsMensuelles": 391.97,
+   "tauxCotisationsEffectif": 0.2063,
+   "lignes": [
+    {
+     "id": "pension-civile",
+     "label": "Retraite (pension civile)",
+     "base": 1900,
+     "taux": 0.111,
+     "montant": 210.9,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 1866.75,
+     "taux": 0.068,
+     "montant": 126.94,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 1866.75,
+     "taux": 0.024,
+     "montant": 44.8,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 1866.75,
+     "taux": 0.005,
+     "montant": 9.33,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 1.94,
+   "tauxPrelevementSource": 2
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 1900,
+    "statut": "profession-liberale"
+   }
+  ],
+  "result": {
+   "brutMensuel": 1900,
+   "brutAnnuel": 22800,
+   "brutHoraire": 12.53,
+   "netMensuel": 1336.13,
+   "netAnnuel": 16033.53,
+   "netMensuelMoyen": 1336.13,
+   "netHoraire": 8.81,
+   "netImposableMensuel": 1376.9,
+   "netImposableAnnuel": 16522.82,
+   "netSocialMensuel": 1336.13,
+   "netSocialAnnuel": 16033.53,
+   "impotMensuel": 0,
+   "netMensuelApresImpots": 1336.13,
+   "netAnnuelApresImpots": 16033.53,
+   "cotisationsMensuelles": 563.87,
+   "tauxCotisationsEffectif": 0.296775,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "base": 1406,
+     "taux": 0.011329421526789948,
+     "montant": 15.93,
+     "deductible": true
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "base": 1406,
+     "taux": 0.0056970128022759605,
+     "montant": 8.01,
+     "deductible": true
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "base": 1406,
+     "taux": 0.18589971550497866,
+     "montant": 261.38,
+     "deductible": true
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "base": 1406,
+     "taux": 0.08099988146040778,
+     "montant": 113.89,
+     "deductible": true
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "base": 1406,
+     "taux": 0.013000237079184448,
+     "montant": 18.28,
+     "deductible": true
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "base": 1406,
+     "taux": 0.09699976292081555,
+     "montant": 136.38,
+     "deductible": false
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "base": 1406,
+     "taux": 0.00712126600284495,
+     "montant": 10.01,
+     "deductible": true
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 0,
+   "tauxPrelevementSource": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 1900,
+    "statut": "profession-liberale",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 1900,
+   "brutAnnuel": 26600,
+   "brutHoraire": 12.53,
+   "netMensuel": 1336.13,
+   "netAnnuel": 18643.72,
+   "netMensuelMoyen": 1553.64,
+   "netHoraire": 8.81,
+   "netImposableMensuel": 1376.9,
+   "netImposableAnnuel": 19214.56,
+   "netSocialMensuel": 1336.13,
+   "netSocialAnnuel": 18643.72,
+   "impotMensuel": 20.65,
+   "netMensuelApresImpots": 1315.47,
+   "netAnnuelApresImpots": 18355.5,
+   "cotisationsMensuelles": 563.87,
+   "tauxCotisationsEffectif": 0.296775,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "base": 1406,
+     "taux": 0.011329421526789948,
+     "montant": 15.93,
+     "deductible": true
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "base": 1406,
+     "taux": 0.0056970128022759605,
+     "montant": 8.01,
+     "deductible": true
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "base": 1406,
+     "taux": 0.18589971550497866,
+     "montant": 261.38,
+     "deductible": true
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "base": 1406,
+     "taux": 0.08099988146040778,
+     "montant": 113.89,
+     "deductible": true
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "base": 1406,
+     "taux": 0.013000237079184448,
+     "montant": 18.28,
+     "deductible": true
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "base": 1406,
+     "taux": 0.09699976292081555,
+     "montant": 136.38,
+     "deductible": false
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "base": 1406,
+     "taux": 0.00712126600284495,
+     "montant": 10.01,
+     "deductible": true
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 1.67,
+   "tauxPrelevementSource": 1.5
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 1900,
+    "statut": "portage"
+   }
+  ],
+  "result": {
+   "brutMensuel": 1900,
+   "brutAnnuel": 22800,
+   "brutHoraire": 12.53,
+   "netMensuel": 1500.8,
+   "netAnnuel": 18009.6,
+   "netMensuelMoyen": 1500.8,
+   "netHoraire": 9.9,
+   "netImposableMensuel": 1555.77,
+   "netImposableAnnuel": 18669.24,
+   "netSocialMensuel": 1500.8,
+   "netSocialAnnuel": 18009.6,
+   "impotMensuel": 0,
+   "netMensuelApresImpots": 1500.8,
+   "netAnnuelApresImpots": 18009.6,
+   "cotisationsMensuelles": 399.2,
+   "tauxCotisationsEffectif": 0.21010526315789474,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 1900,
+     "taux": 0.069,
+     "montant": 131.1,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 1900,
+     "taux": 0.004,
+     "montant": 7.6,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 1900,
+     "taux": 0.0315,
+     "montant": 59.85,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 1900,
+     "taux": 0.0086,
+     "montant": 16.34,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 1900,
+     "taux": 0.00024,
+     "montant": 0.46,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 1895.25,
+     "taux": 0.068,
+     "montant": 128.88,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 1895.25,
+     "taux": 0.024,
+     "montant": 45.49,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 1895.25,
+     "taux": 0.005,
+     "montant": 9.48,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 0,
+   "tauxPrelevementSource": 0
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 1900,
+    "statut": "portage",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 1900,
+   "brutAnnuel": 26600,
+   "brutHoraire": 12.53,
+   "netMensuel": 1500.8,
+   "netAnnuel": 21011.4,
+   "netMensuelMoyen": 1750.95,
+   "netHoraire": 9.9,
+   "netImposableMensuel": 1555.77,
+   "netImposableAnnuel": 21780.96,
+   "netSocialMensuel": 1500.8,
+   "netSocialAnnuel": 21011.4,
+   "impotMensuel": 31.12,
+   "netMensuelApresImpots": 1469.68,
+   "netAnnuelApresImpots": 20575.78,
+   "cotisationsMensuelles": 399.2,
+   "tauxCotisationsEffectif": 0.21010526315789474,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 1900,
+     "taux": 0.069,
+     "montant": 131.1,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 1900,
+     "taux": 0.004,
+     "montant": 7.6,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 1900,
+     "taux": 0.0315,
+     "montant": 59.85,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 1900,
+     "taux": 0.0086,
+     "montant": 16.34,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 1900,
+     "taux": 0.00024,
+     "montant": 0.46,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 1895.25,
+     "taux": 0.068,
+     "montant": 128.88,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 1895.25,
+     "taux": 0.024,
+     "montant": 45.49,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 1895.25,
+     "taux": 0.005,
+     "montant": 9.48,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 1.75,
+   "tauxPrelevementSource": 2
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 3500,
+    "statut": "non-cadre"
+   }
+  ],
+  "result": {
+   "brutMensuel": 3500,
+   "brutAnnuel": 42000,
+   "brutHoraire": 23.08,
+   "netMensuel": 2770.59,
+   "netAnnuel": 33247.08,
+   "netMensuelMoyen": 2770.59,
+   "netHoraire": 18.27,
+   "netImposableMensuel": 2870.31,
+   "netImposableAnnuel": 34443.72,
+   "netSocialMensuel": 2770.59,
+   "netSocialAnnuel": 33247.08,
+   "impotMensuel": 200.92,
+   "netMensuelApresImpots": 2569.67,
+   "netAnnuelApresImpots": 30836.02,
+   "cotisationsMensuelles": 729.41,
+   "tauxCotisationsEffectif": 0.20840285714285714,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 3500,
+     "taux": 0.069,
+     "montant": 241.5,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 3500,
+     "taux": 0.004,
+     "montant": 14,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 3500,
+     "taux": 0.0315,
+     "montant": 110.25,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 3500,
+     "taux": 0.0086,
+     "montant": 30.1,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 3438.75,
+     "taux": 0.068,
+     "montant": 233.84,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 3438.75,
+     "taux": 0.024,
+     "montant": 82.53,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 3438.75,
+     "taux": 0.005,
+     "montant": 17.19,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 6.98,
+   "tauxPrelevementSource": 7
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 3500,
+    "statut": "non-cadre",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 3500,
+   "brutAnnuel": 49000,
+   "brutHoraire": 23.08,
+   "netMensuel": 2770.59,
+   "netAnnuel": 38730.6,
+   "netMensuelMoyen": 3227.55,
+   "netHoraire": 18.27,
+   "netImposableMensuel": 2870.31,
+   "netImposableAnnuel": 40126.8,
+   "netSocialMensuel": 2770.59,
+   "netSocialAnnuel": 38730.6,
+   "impotMensuel": 287.03,
+   "netMensuelApresImpots": 2483.56,
+   "netAnnuelApresImpots": 34717.92,
+   "cotisationsMensuelles": 729.41,
+   "tauxCotisationsEffectif": 0.20840285714285714,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 3500,
+     "taux": 0.069,
+     "montant": 241.5,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 3500,
+     "taux": 0.004,
+     "montant": 14,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 3500,
+     "taux": 0.0315,
+     "montant": 110.25,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 3500,
+     "taux": 0.0086,
+     "montant": 30.1,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 3438.75,
+     "taux": 0.068,
+     "montant": 233.84,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 3438.75,
+     "taux": 0.024,
+     "montant": 82.53,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 3438.75,
+     "taux": 0.005,
+     "montant": 17.19,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 9.81,
+   "tauxPrelevementSource": 10
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 3500,
+    "statut": "cadre"
+   }
+  ],
+  "result": {
+   "brutMensuel": 3500,
+   "brutAnnuel": 42000,
+   "brutHoraire": 23.08,
+   "netMensuel": 2764.65,
+   "netAnnuel": 33175.8,
+   "netMensuelMoyen": 2764.65,
+   "netHoraire": 18.23,
+   "netImposableMensuel": 2865.9,
+   "netImposableAnnuel": 34390.8,
+   "netSocialMensuel": 2764.65,
+   "netSocialAnnuel": 33175.8,
+   "impotMensuel": 200.61,
+   "netMensuelApresImpots": 2564.04,
+   "netAnnuelApresImpots": 30768.44,
+   "cotisationsMensuelles": 735.35,
+   "tauxCotisationsEffectif": 0.2101,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 3500,
+     "taux": 0.069,
+     "montant": 241.5,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 3500,
+     "taux": 0.004,
+     "montant": 14,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 3500,
+     "taux": 0.0315,
+     "montant": 110.25,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 3500,
+     "taux": 0.0086,
+     "montant": 30.1,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 3500,
+     "taux": 0.00024,
+     "montant": 0.84,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 3491.25,
+     "taux": 0.068,
+     "montant": 237.41,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 3491.25,
+     "taux": 0.024,
+     "montant": 83.79,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 3491.25,
+     "taux": 0.005,
+     "montant": 17.46,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 6.95,
+   "tauxPrelevementSource": 7
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 3500,
+    "statut": "cadre",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 3500,
+   "brutAnnuel": 49000,
+   "brutHoraire": 23.08,
+   "netMensuel": 2764.65,
+   "netAnnuel": 38649,
+   "netMensuelMoyen": 3220.75,
+   "netHoraire": 18.23,
+   "netImposableMensuel": 2865.9,
+   "netImposableAnnuel": 40066.08,
+   "netSocialMensuel": 2764.65,
+   "netSocialAnnuel": 38649,
+   "impotMensuel": 286.59,
+   "netMensuelApresImpots": 2478.06,
+   "netAnnuelApresImpots": 34642.39,
+   "cotisationsMensuelles": 735.35,
+   "tauxCotisationsEffectif": 0.2101,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 3500,
+     "taux": 0.069,
+     "montant": 241.5,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 3500,
+     "taux": 0.004,
+     "montant": 14,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 3500,
+     "taux": 0.0315,
+     "montant": 110.25,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 3500,
+     "taux": 0.0086,
+     "montant": 30.1,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 3500,
+     "taux": 0.00024,
+     "montant": 0.84,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 3491.25,
+     "taux": 0.068,
+     "montant": 237.41,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 3491.25,
+     "taux": 0.024,
+     "montant": 83.79,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 3491.25,
+     "taux": 0.005,
+     "montant": 17.46,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 9.79,
+   "tauxPrelevementSource": 10
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 3500,
+    "statut": "fonction-publique"
+   }
+  ],
+  "result": {
+   "brutMensuel": 3500,
+   "brutAnnuel": 42000,
+   "brutHoraire": 23.08,
+   "netMensuel": 2777.94,
+   "netAnnuel": 33335.28,
+   "netMensuelMoyen": 2777.94,
+   "netHoraire": 18.32,
+   "netImposableMensuel": 2877.66,
+   "netImposableAnnuel": 34531.92,
+   "netSocialMensuel": 2777.94,
+   "netSocialAnnuel": 33335.28,
+   "impotMensuel": 201.44,
+   "netMensuelApresImpots": 2576.5,
+   "netAnnuelApresImpots": 30918.05,
+   "cotisationsMensuelles": 722.06,
+   "tauxCotisationsEffectif": 0.20630285714285712,
+   "lignes": [
+    {
+     "id": "pension-civile",
+     "label": "Retraite (pension civile)",
+     "base": 3500,
+     "taux": 0.111,
+     "montant": 388.5,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 3438.75,
+     "taux": 0.068,
+     "montant": 233.84,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 3438.75,
+     "taux": 0.024,
+     "montant": 82.53,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 3438.75,
+     "taux": 0.005,
+     "montant": 17.19,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 7.03,
+   "tauxPrelevementSource": 7
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 3500,
+    "statut": "fonction-publique",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 3500,
+   "brutAnnuel": 49000,
+   "brutHoraire": 23.08,
+   "netMensuel": 2777.94,
+   "netAnnuel": 39318,
+   "netMensuelMoyen": 3276.5,
+   "netHoraire": 18.32,
+   "netImposableMensuel": 2877.66,
+   "netImposableAnnuel": 40714.2,
+   "netSocialMensuel": 2777.94,
+   "netSocialAnnuel": 39318,
+   "impotMensuel": 287.77,
+   "netMensuelApresImpots": 2490.17,
+   "netAnnuelApresImpots": 35246.58,
+   "cotisationsMensuelles": 722.06,
+   "tauxCotisationsEffectif": 0.20630285714285712,
+   "lignes": [
+    {
+     "id": "pension-civile",
+     "label": "Retraite (pension civile)",
+     "base": 3500,
+     "taux": 0.111,
+     "montant": 388.5,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 3438.75,
+     "taux": 0.068,
+     "montant": 233.84,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 3438.75,
+     "taux": 0.024,
+     "montant": 82.53,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 3438.75,
+     "taux": 0.005,
+     "montant": 17.19,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 10.06,
+   "tauxPrelevementSource": 10
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 3500,
+    "statut": "profession-liberale"
+   }
+  ],
+  "result": {
+   "brutMensuel": 3500,
+   "brutAnnuel": 42000,
+   "brutHoraire": 23.08,
+   "netMensuel": 2391.22,
+   "netAnnuel": 28694.64,
+   "netMensuelMoyen": 2391.22,
+   "netHoraire": 15.77,
+   "netImposableMensuel": 2466.33,
+   "netImposableAnnuel": 29595.96,
+   "netSocialMensuel": 2391.22,
+   "netSocialAnnuel": 28694.64,
+   "impotMensuel": 160.31,
+   "netMensuelApresImpots": 2230.91,
+   "netAnnuelApresImpots": 26770.9,
+   "cotisationsMensuelles": 1108.78,
+   "tauxCotisationsEffectif": 0.3167942857142857,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "base": 2590,
+     "taux": 0.042334620334620335,
+     "montant": 109.65,
+     "deductible": true
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "base": 2590,
+     "taux": 0.005,
+     "montant": 12.95,
+     "deductible": true
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "base": 2590,
+     "taux": 0.18589993564993568,
+     "montant": 481.48,
+     "deductible": true
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "base": 2590,
+     "taux": 0.081,
+     "montant": 209.79,
+     "deductible": true
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "base": 2590,
+     "taux": 0.013000000000000001,
+     "montant": 33.67,
+     "deductible": true
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "base": 2590,
+     "taux": 0.097,
+     "montant": 251.23,
+     "deductible": false
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "base": 2590,
+     "taux": 0.003865830115830116,
+     "montant": 10.01,
+     "deductible": true
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 6.7,
+   "tauxPrelevementSource": 6.5
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 3500,
+    "statut": "profession-liberale",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 3500,
+   "brutAnnuel": 49000,
+   "brutHoraire": 23.08,
+   "netMensuel": 2391.22,
+   "netAnnuel": 33301.7,
+   "netMensuelMoyen": 2775.14,
+   "netHoraire": 15.77,
+   "netImposableMensuel": 2466.33,
+   "netImposableAnnuel": 34353.24,
+   "netSocialMensuel": 2391.22,
+   "netSocialAnnuel": 33301.7,
+   "impotMensuel": 246.63,
+   "netMensuelApresImpots": 2144.59,
+   "netAnnuelApresImpots": 29866.38,
+   "cotisationsMensuelles": 1108.78,
+   "tauxCotisationsEffectif": 0.3167942857142857,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "base": 2590,
+     "taux": 0.042334620334620335,
+     "montant": 109.65,
+     "deductible": true
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "base": 2590,
+     "taux": 0.005,
+     "montant": 12.95,
+     "deductible": true
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "base": 2590,
+     "taux": 0.18589993564993568,
+     "montant": 481.48,
+     "deductible": true
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "base": 2590,
+     "taux": 0.081,
+     "montant": 209.79,
+     "deductible": true
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "base": 2590,
+     "taux": 0.013000000000000001,
+     "montant": 33.67,
+     "deductible": true
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "base": 2590,
+     "taux": 0.097,
+     "montant": 251.23,
+     "deductible": false
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "base": 2590,
+     "taux": 0.003865830115830116,
+     "montant": 10.01,
+     "deductible": true
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 9.93,
+   "tauxPrelevementSource": 10
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 3500,
+    "statut": "portage"
+   }
+  ],
+  "result": {
+   "brutMensuel": 3500,
+   "brutAnnuel": 42000,
+   "brutHoraire": 23.08,
+   "netMensuel": 2764.65,
+   "netAnnuel": 33175.8,
+   "netMensuelMoyen": 2764.65,
+   "netHoraire": 18.23,
+   "netImposableMensuel": 2865.9,
+   "netImposableAnnuel": 34390.8,
+   "netSocialMensuel": 2764.65,
+   "netSocialAnnuel": 33175.8,
+   "impotMensuel": 200.61,
+   "netMensuelApresImpots": 2564.04,
+   "netAnnuelApresImpots": 30768.44,
+   "cotisationsMensuelles": 735.35,
+   "tauxCotisationsEffectif": 0.2101,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 3500,
+     "taux": 0.069,
+     "montant": 241.5,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 3500,
+     "taux": 0.004,
+     "montant": 14,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 3500,
+     "taux": 0.0315,
+     "montant": 110.25,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 3500,
+     "taux": 0.0086,
+     "montant": 30.1,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 3500,
+     "taux": 0.00024,
+     "montant": 0.84,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 3491.25,
+     "taux": 0.068,
+     "montant": 237.41,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 3491.25,
+     "taux": 0.024,
+     "montant": 83.79,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 3491.25,
+     "taux": 0.005,
+     "montant": 17.46,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 6.95,
+   "tauxPrelevementSource": 7
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 3500,
+    "statut": "portage",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 3500,
+   "brutAnnuel": 49000,
+   "brutHoraire": 23.08,
+   "netMensuel": 2764.65,
+   "netAnnuel": 38649,
+   "netMensuelMoyen": 3220.75,
+   "netHoraire": 18.23,
+   "netImposableMensuel": 2865.9,
+   "netImposableAnnuel": 40066.08,
+   "netSocialMensuel": 2764.65,
+   "netSocialAnnuel": 38649,
+   "impotMensuel": 286.59,
+   "netMensuelApresImpots": 2478.06,
+   "netAnnuelApresImpots": 34642.39,
+   "cotisationsMensuelles": 735.35,
+   "tauxCotisationsEffectif": 0.2101,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 3500,
+     "taux": 0.069,
+     "montant": 241.5,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 3500,
+     "taux": 0.004,
+     "montant": 14,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 3500,
+     "taux": 0.0315,
+     "montant": 110.25,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 3500,
+     "taux": 0.0086,
+     "montant": 30.1,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 3500,
+     "taux": 0.00024,
+     "montant": 0.84,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 3491.25,
+     "taux": 0.068,
+     "montant": 237.41,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 3491.25,
+     "taux": 0.024,
+     "montant": 83.79,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 3491.25,
+     "taux": 0.005,
+     "montant": 17.46,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 9.79,
+   "tauxPrelevementSource": 10
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 9000,
+    "statut": "non-cadre"
+   }
+  ],
+  "result": {
+   "brutMensuel": 9000,
+   "brutAnnuel": 108000,
+   "brutHoraire": 59.34,
+   "netMensuel": 7171.21,
+   "netAnnuel": 86054.52,
+   "netMensuelMoyen": 7171.21,
+   "netHoraire": 47.28,
+   "netImposableMensuel": 7427.64,
+   "netImposableAnnuel": 89131.68,
+   "netSocialMensuel": 7171.21,
+   "netSocialAnnuel": 86054.52,
+   "impotMensuel": 1448.39,
+   "netMensuelApresImpots": 5722.82,
+   "netAnnuelApresImpots": 68673.84,
+   "cotisationsMensuelles": 1828.79,
+   "tauxCotisationsEffectif": 0.20319888888888887,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 4005,
+     "taux": 0.069,
+     "montant": 276.35,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 9000,
+     "taux": 0.004,
+     "montant": 36,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 4005,
+     "taux": 0.0315,
+     "montant": 126.16,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t2",
+     "label": "Retraite complémentaire Agirc-Arrco T2",
+     "base": 4995,
+     "taux": 0.0864,
+     "montant": 431.57,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 4005,
+     "taux": 0.0086,
+     "montant": 34.44,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t2",
+     "label": "Contribution d'équilibre général T2",
+     "base": 4995,
+     "taux": 0.0108,
+     "montant": 53.95,
+     "deductible": true
+    },
+    {
+     "id": "cet",
+     "label": "Contribution d'équilibre technique",
+     "base": 9000,
+     "taux": 0.0014,
+     "montant": 12.6,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 8842.5,
+     "taux": 0.068,
+     "montant": 601.29,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 8842.5,
+     "taux": 0.024,
+     "montant": 212.22,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 8842.5,
+     "taux": 0.005,
+     "montant": 44.21,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 19.26,
+   "tauxPrelevementSource": 19.5
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 9000,
+    "statut": "non-cadre",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 9000,
+   "brutAnnuel": 126000,
+   "brutHoraire": 59.34,
+   "netMensuel": 7171.21,
+   "netAnnuel": 100492.2,
+   "netMensuelMoyen": 8374.35,
+   "netHoraire": 47.28,
+   "netImposableMensuel": 7427.64,
+   "netImposableAnnuel": 104082.24,
+   "netSocialMensuel": 7171.21,
+   "netSocialAnnuel": 100492.2,
+   "impotMensuel": 1596.94,
+   "netMensuelApresImpots": 5574.27,
+   "netAnnuelApresImpots": 78114.52,
+   "cotisationsMensuelles": 1828.79,
+   "tauxCotisationsEffectif": 0.20319888888888887,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 4005,
+     "taux": 0.069,
+     "montant": 276.35,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 9000,
+     "taux": 0.004,
+     "montant": 36,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 4005,
+     "taux": 0.0315,
+     "montant": 126.16,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t2",
+     "label": "Retraite complémentaire Agirc-Arrco T2",
+     "base": 4995,
+     "taux": 0.0864,
+     "montant": 431.57,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 4005,
+     "taux": 0.0086,
+     "montant": 34.44,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t2",
+     "label": "Contribution d'équilibre général T2",
+     "base": 4995,
+     "taux": 0.0108,
+     "montant": 53.95,
+     "deductible": true
+    },
+    {
+     "id": "cet",
+     "label": "Contribution d'équilibre technique",
+     "base": 9000,
+     "taux": 0.0014,
+     "montant": 12.6,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 8842.5,
+     "taux": 0.068,
+     "montant": 601.29,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 8842.5,
+     "taux": 0.024,
+     "montant": 212.22,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 8842.5,
+     "taux": 0.005,
+     "montant": 44.21,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 21.34,
+   "tauxPrelevementSource": 21.5
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 9000,
+    "statut": "cadre"
+   }
+  ],
+  "result": {
+   "brutMensuel": 9000,
+   "brutAnnuel": 108000,
+   "brutHoraire": 59.34,
+   "netMensuel": 7163.22,
+   "netAnnuel": 85958.64,
+   "netMensuelMoyen": 7163.22,
+   "netHoraire": 47.23,
+   "netImposableMensuel": 7421.39,
+   "netImposableAnnuel": 89056.68,
+   "netSocialMensuel": 7163.22,
+   "netSocialAnnuel": 85958.64,
+   "impotMensuel": 1447.17,
+   "netMensuelApresImpots": 5716.05,
+   "netAnnuelApresImpots": 68592.59,
+   "cotisationsMensuelles": 1836.78,
+   "tauxCotisationsEffectif": 0.20408666666666667,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 4005,
+     "taux": 0.069,
+     "montant": 276.35,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 9000,
+     "taux": 0.004,
+     "montant": 36,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 4005,
+     "taux": 0.0315,
+     "montant": 126.16,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t2",
+     "label": "Retraite complémentaire Agirc-Arrco T2",
+     "base": 4995,
+     "taux": 0.0864,
+     "montant": 431.57,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 4005,
+     "taux": 0.0086,
+     "montant": 34.44,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t2",
+     "label": "Contribution d'équilibre général T2",
+     "base": 4995,
+     "taux": 0.0108,
+     "montant": 53.95,
+     "deductible": true
+    },
+    {
+     "id": "cet",
+     "label": "Contribution d'équilibre technique",
+     "base": 9000,
+     "taux": 0.0014,
+     "montant": 12.6,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 9000,
+     "taux": 0.00024,
+     "montant": 2.16,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 8902.58,
+     "taux": 0.068,
+     "montant": 605.38,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 8902.58,
+     "taux": 0.024,
+     "montant": 213.66,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 8902.58,
+     "taux": 0.005,
+     "montant": 44.51,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 19.26,
+   "tauxPrelevementSource": 19.5
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 9000,
+    "statut": "cadre",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 9000,
+   "brutAnnuel": 126000,
+   "brutHoraire": 59.34,
+   "netMensuel": 7163.22,
+   "netAnnuel": 100392.12,
+   "netMensuelMoyen": 8366.01,
+   "netHoraire": 47.23,
+   "netImposableMensuel": 7421.39,
+   "netImposableAnnuel": 104003.04,
+   "netSocialMensuel": 7163.22,
+   "netSocialAnnuel": 100392.12,
+   "impotMensuel": 1595.6,
+   "netMensuelApresImpots": 5567.62,
+   "netAnnuelApresImpots": 78031.47,
+   "cotisationsMensuelles": 1836.78,
+   "tauxCotisationsEffectif": 0.20408666666666667,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 4005,
+     "taux": 0.069,
+     "montant": 276.35,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 9000,
+     "taux": 0.004,
+     "montant": 36,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 4005,
+     "taux": 0.0315,
+     "montant": 126.16,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t2",
+     "label": "Retraite complémentaire Agirc-Arrco T2",
+     "base": 4995,
+     "taux": 0.0864,
+     "montant": 431.57,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 4005,
+     "taux": 0.0086,
+     "montant": 34.44,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t2",
+     "label": "Contribution d'équilibre général T2",
+     "base": 4995,
+     "taux": 0.0108,
+     "montant": 53.95,
+     "deductible": true
+    },
+    {
+     "id": "cet",
+     "label": "Contribution d'équilibre technique",
+     "base": 9000,
+     "taux": 0.0014,
+     "montant": 12.6,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 9000,
+     "taux": 0.00024,
+     "montant": 2.16,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 8902.58,
+     "taux": 0.068,
+     "montant": 605.38,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 8902.58,
+     "taux": 0.024,
+     "montant": 213.66,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 8902.58,
+     "taux": 0.005,
+     "montant": 44.51,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 21.32,
+   "tauxPrelevementSource": 21.5
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 9000,
+    "statut": "fonction-publique"
+   }
+  ],
+  "result": {
+   "brutMensuel": 9000,
+   "brutAnnuel": 108000,
+   "brutHoraire": 59.34,
+   "netMensuel": 7143.28,
+   "netAnnuel": 85719.36,
+   "netMensuelMoyen": 7143.28,
+   "netHoraire": 47.1,
+   "netImposableMensuel": 7399.71,
+   "netImposableAnnuel": 88796.52,
+   "netSocialMensuel": 7143.28,
+   "netSocialAnnuel": 85719.36,
+   "impotMensuel": 1405.94,
+   "netMensuelApresImpots": 5737.34,
+   "netAnnuelApresImpots": 68848.02,
+   "cotisationsMensuelles": 1856.72,
+   "tauxCotisationsEffectif": 0.20630222222222222,
+   "lignes": [
+    {
+     "id": "pension-civile",
+     "label": "Retraite (pension civile)",
+     "base": 9000,
+     "taux": 0.111,
+     "montant": 999,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 8842.5,
+     "taux": 0.068,
+     "montant": 601.29,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 8842.5,
+     "taux": 0.024,
+     "montant": 212.22,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 8842.5,
+     "taux": 0.005,
+     "montant": 44.21,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 19.23,
+   "tauxPrelevementSource": 19
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 9000,
+    "statut": "fonction-publique",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 9000,
+   "brutAnnuel": 126000,
+   "brutHoraire": 59.34,
+   "netMensuel": 7143.28,
+   "netAnnuel": 101103.84,
+   "netMensuelMoyen": 8425.32,
+   "netHoraire": 47.1,
+   "netImposableMensuel": 7399.71,
+   "netImposableAnnuel": 104693.88,
+   "netSocialMensuel": 7143.28,
+   "netSocialAnnuel": 101103.84,
+   "impotMensuel": 1590.94,
+   "netMensuelApresImpots": 5552.34,
+   "netAnnuelApresImpots": 78594.66,
+   "cotisationsMensuelles": 1856.72,
+   "tauxCotisationsEffectif": 0.20630222222222222,
+   "lignes": [
+    {
+     "id": "pension-civile",
+     "label": "Retraite (pension civile)",
+     "base": 9000,
+     "taux": 0.111,
+     "montant": 999,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 8842.5,
+     "taux": 0.068,
+     "montant": 601.29,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 8842.5,
+     "taux": 0.024,
+     "montant": 212.22,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 8842.5,
+     "taux": 0.005,
+     "montant": 44.21,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 21.43,
+   "tauxPrelevementSource": 21.5
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 9000,
+    "statut": "profession-liberale"
+   }
+  ],
+  "result": {
+   "brutMensuel": 9000,
+   "brutAnnuel": 108000,
+   "brutHoraire": 59.34,
+   "netMensuel": 6239.6,
+   "netAnnuel": 74875.19,
+   "netMensuelMoyen": 6239.6,
+   "netHoraire": 41.14,
+   "netImposableMensuel": 6432.74,
+   "netImposableAnnuel": 77192.87,
+   "netSocialMensuel": 6239.6,
+   "netSocialAnnuel": 74875.19,
+   "impotMensuel": 1350.88,
+   "netMensuelApresImpots": 4888.72,
+   "netAnnuelApresImpots": 58664.69,
+   "cotisationsMensuelles": 2760.4,
+   "tauxCotisationsEffectif": 0.3067112037037037,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "base": 6660,
+     "taux": 0.07250563063063063,
+     "montant": 482.89,
+     "deductible": true
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "base": 6660,
+     "taux": 0.005,
+     "montant": 33.3,
+     "deductible": true
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "base": 6660,
+     "taux": 0.11466153653653653,
+     "montant": 763.65,
+     "deductible": true
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "base": 6660,
+     "taux": 0.08498648648648649,
+     "montant": 566.01,
+     "deductible": true
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "base": 6660,
+     "taux": 0.007817567567567567,
+     "montant": 52.07,
+     "deductible": true
+    },
+    {
+     "id": "allocations-familiales",
+     "label": "Allocations familiales",
+     "base": 6660,
+     "taux": 0.031,
+     "montant": 206.46,
+     "deductible": true
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "base": 6660,
+     "taux": 0.097,
+     "montant": 646.02,
+     "deductible": false
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "base": 6660,
+     "taux": 0.0015033783783783784,
+     "montant": 10.01,
+     "deductible": true
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 21.07,
+   "tauxPrelevementSource": 21
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 9000,
+    "statut": "profession-liberale",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 9000,
+   "brutAnnuel": 126000,
+   "brutHoraire": 59.34,
+   "netMensuel": 6239.6,
+   "netAnnuel": 88485.28,
+   "netMensuelMoyen": 7373.77,
+   "netHoraire": 41.14,
+   "netImposableMensuel": 6432.74,
+   "netImposableAnnuel": 91189.24,
+   "netSocialMensuel": 6239.6,
+   "netSocialAnnuel": 88485.28,
+   "impotMensuel": 1479.53,
+   "netMensuelApresImpots": 4760.07,
+   "netAnnuelApresImpots": 67511.75,
+   "cotisationsMensuelles": 2760.4,
+   "tauxCotisationsEffectif": 0.3067112037037037,
+   "lignes": [
+    {
+     "id": "maladie",
+     "label": "Maladie-maternité",
+     "base": 6660,
+     "taux": 0.07250563063063063,
+     "montant": 482.89,
+     "deductible": true
+    },
+    {
+     "id": "ij",
+     "label": "Indemnités journalières",
+     "base": 6660,
+     "taux": 0.005,
+     "montant": 33.3,
+     "deductible": true
+    },
+    {
+     "id": "retraite-base",
+     "label": "Retraite de base",
+     "base": 6660,
+     "taux": 0.11466153653653653,
+     "montant": 763.65,
+     "deductible": true
+    },
+    {
+     "id": "retraite-complementaire",
+     "label": "Retraite complémentaire",
+     "base": 6660,
+     "taux": 0.08498648648648649,
+     "montant": 566.01,
+     "deductible": true
+    },
+    {
+     "id": "invalidite-deces",
+     "label": "Invalidité-décès",
+     "base": 6660,
+     "taux": 0.007817567567567567,
+     "montant": 52.07,
+     "deductible": true
+    },
+    {
+     "id": "allocations-familiales",
+     "label": "Allocations familiales",
+     "base": 6660,
+     "taux": 0.031,
+     "montant": 206.46,
+     "deductible": true
+    },
+    {
+     "id": "csg-crds",
+     "label": "CSG-CRDS",
+     "base": 6660,
+     "taux": 0.097,
+     "montant": 646.02,
+     "deductible": false
+    },
+    {
+     "id": "cfp",
+     "label": "Formation professionnelle (CFP)",
+     "base": 6660,
+     "taux": 0.0015033783783783784,
+     "montant": 10.01,
+     "deductible": true
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 23.24,
+   "tauxPrelevementSource": 23
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 9000,
+    "statut": "portage"
+   }
+  ],
+  "result": {
+   "brutMensuel": 9000,
+   "brutAnnuel": 108000,
+   "brutHoraire": 59.34,
+   "netMensuel": 7163.22,
+   "netAnnuel": 85958.64,
+   "netMensuelMoyen": 7163.22,
+   "netHoraire": 47.23,
+   "netImposableMensuel": 7421.39,
+   "netImposableAnnuel": 89056.68,
+   "netSocialMensuel": 7163.22,
+   "netSocialAnnuel": 85958.64,
+   "impotMensuel": 1447.17,
+   "netMensuelApresImpots": 5716.05,
+   "netAnnuelApresImpots": 68592.59,
+   "cotisationsMensuelles": 1836.78,
+   "tauxCotisationsEffectif": 0.20408666666666667,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 4005,
+     "taux": 0.069,
+     "montant": 276.35,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 9000,
+     "taux": 0.004,
+     "montant": 36,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 4005,
+     "taux": 0.0315,
+     "montant": 126.16,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t2",
+     "label": "Retraite complémentaire Agirc-Arrco T2",
+     "base": 4995,
+     "taux": 0.0864,
+     "montant": 431.57,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 4005,
+     "taux": 0.0086,
+     "montant": 34.44,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t2",
+     "label": "Contribution d'équilibre général T2",
+     "base": 4995,
+     "taux": 0.0108,
+     "montant": 53.95,
+     "deductible": true
+    },
+    {
+     "id": "cet",
+     "label": "Contribution d'équilibre technique",
+     "base": 9000,
+     "taux": 0.0014,
+     "montant": 12.6,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 9000,
+     "taux": 0.00024,
+     "montant": 2.16,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 8902.58,
+     "taux": 0.068,
+     "montant": 605.38,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 8902.58,
+     "taux": 0.024,
+     "montant": 213.66,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 8902.58,
+     "taux": 0.005,
+     "montant": 44.51,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 19.26,
+   "tauxPrelevementSource": 19.5
+  }
+ },
+ {
+  "args": [
+   {
+    "brutMensuel": 9000,
+    "statut": "portage",
+    "moisPrime": 14
+   }
+  ],
+  "result": {
+   "brutMensuel": 9000,
+   "brutAnnuel": 126000,
+   "brutHoraire": 59.34,
+   "netMensuel": 7163.22,
+   "netAnnuel": 100392.12,
+   "netMensuelMoyen": 8366.01,
+   "netHoraire": 47.23,
+   "netImposableMensuel": 7421.39,
+   "netImposableAnnuel": 104003.04,
+   "netSocialMensuel": 7163.22,
+   "netSocialAnnuel": 100392.12,
+   "impotMensuel": 1595.6,
+   "netMensuelApresImpots": 5567.62,
+   "netAnnuelApresImpots": 78031.47,
+   "cotisationsMensuelles": 1836.78,
+   "tauxCotisationsEffectif": 0.20408666666666667,
+   "lignes": [
+    {
+     "id": "vieillesse-plafonnee",
+     "label": "Assurance vieillesse plafonnée",
+     "base": 4005,
+     "taux": 0.069,
+     "montant": 276.35,
+     "deductible": true
+    },
+    {
+     "id": "vieillesse-deplafonnee",
+     "label": "Assurance vieillesse déplafonnée",
+     "base": 9000,
+     "taux": 0.004,
+     "montant": 36,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t1",
+     "label": "Retraite complémentaire Agirc-Arrco T1",
+     "base": 4005,
+     "taux": 0.0315,
+     "montant": 126.16,
+     "deductible": true
+    },
+    {
+     "id": "agirc-arrco-t2",
+     "label": "Retraite complémentaire Agirc-Arrco T2",
+     "base": 4995,
+     "taux": 0.0864,
+     "montant": 431.57,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t1",
+     "label": "Contribution d'équilibre général T1",
+     "base": 4005,
+     "taux": 0.0086,
+     "montant": 34.44,
+     "deductible": true
+    },
+    {
+     "id": "ceg-t2",
+     "label": "Contribution d'équilibre général T2",
+     "base": 4995,
+     "taux": 0.0108,
+     "montant": 53.95,
+     "deductible": true
+    },
+    {
+     "id": "cet",
+     "label": "Contribution d'équilibre technique",
+     "base": 9000,
+     "taux": 0.0014,
+     "montant": 12.6,
+     "deductible": true
+    },
+    {
+     "id": "apec",
+     "label": "APEC",
+     "base": 9000,
+     "taux": 0.00024,
+     "montant": 2.16,
+     "deductible": true
+    },
+    {
+     "id": "csg-deductible",
+     "label": "CSG déductible",
+     "base": 8902.58,
+     "taux": 0.068,
+     "montant": 605.38,
+     "deductible": true
+    },
+    {
+     "id": "csg-non-deductible",
+     "label": "CSG non déductible",
+     "base": 8902.58,
+     "taux": 0.024,
+     "montant": 213.66,
+     "deductible": false
+    },
+    {
+     "id": "crds",
+     "label": "CRDS",
+     "base": 8902.58,
+     "taux": 0.005,
+     "montant": 44.51,
+     "deductible": false
+    }
+   ],
+   "reductionHeuresSup": 0,
+   "tauxPASEstime": 21.32,
+   "tauxPrelevementSource": 21.5
+  }
+ }
+]

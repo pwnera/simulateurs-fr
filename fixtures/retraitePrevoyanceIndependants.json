@@ -1,0 +1,1034 @@
+[
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 5000,
+    "activiteMicro": "vente"
+   }
+  ],
+  "result": {
+   "totalCotisations": 615,
+   "cotisationRetraiteBase": 267.22,
+   "cotisationRetraiteComplementaire": 121.46,
+   "cotisationRetraite": 388.68,
+   "cotisationPrevoyance": 19.37,
+   "total": 408.05,
+   "trimestres": 0,
+   "seuil4Trimestres": 24115,
+   "indemniteJournaliere": 0,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Retraite de base",
+     "montant": 267.22
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 121.46
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 19.37
+    },
+    {
+     "label": "Maladie, CSG-CRDS et autres",
+     "montant": 206.95
+    }
+   ],
+   "message": "Il faut 24 115 € de chiffre d'affaires annuel pour valider 4 trimestres."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 5000,
+    "activiteMicro": "services_bic"
+   }
+  ],
+  "result": {
+   "totalCotisations": 1060,
+   "cotisationRetraiteBase": 460.57,
+   "cotisationRetraiteComplementaire": 209.35,
+   "cotisationRetraite": 669.92,
+   "cotisationPrevoyance": 33.39,
+   "total": 703.31,
+   "trimestres": 1,
+   "seuil4Trimestres": 13992,
+   "indemniteJournaliere": 0,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Retraite de base",
+     "montant": 460.57
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 209.35
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 33.39
+    },
+    {
+     "label": "Maladie, CSG-CRDS et autres",
+     "montant": 356.69
+    }
+   ],
+   "message": "Il faut 13 992 € de chiffre d'affaires annuel pour valider 4 trimestres."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 5000,
+    "activiteMicro": "services_bnc"
+   }
+  ],
+  "result": {
+   "totalCotisations": 1280,
+   "cotisationRetraiteBase": 0,
+   "cotisationRetraiteComplementaire": 0,
+   "cotisationRetraite": 0,
+   "cotisationPrevoyance": 0,
+   "total": 0,
+   "trimestres": 1,
+   "seuil4Trimestres": 10850,
+   "indemniteJournaliere": 0,
+   "repartitionConnue": false,
+   "lignes": [
+    {
+     "label": "Cotisations sociales (taux global)",
+     "montant": 1280
+    }
+   ],
+   "message": "Il faut 10 850 € de chiffre d'affaires annuel pour valider 4 trimestres."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 5000,
+    "activiteMicro": "liberale_cipav"
+   }
+  ],
+  "result": {
+   "totalCotisations": 1160,
+   "cotisationRetraiteBase": 0,
+   "cotisationRetraiteComplementaire": 0,
+   "cotisationRetraite": 0,
+   "cotisationPrevoyance": 0,
+   "total": 0,
+   "trimestres": 1,
+   "seuil4Trimestres": 11168,
+   "indemniteJournaliere": 0,
+   "repartitionConnue": false,
+   "lignes": [
+    {
+     "label": "Cotisations sociales (taux global)",
+     "montant": 1160
+    }
+   ],
+   "message": "Il faut 11 168 € de chiffre d'affaires annuel pour valider 4 trimestres."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 30000,
+    "activiteMicro": "vente"
+   }
+  ],
+  "result": {
+   "totalCotisations": 3690,
+   "cotisationRetraiteBase": 1603.31,
+   "cotisationRetraiteComplementaire": 728.77,
+   "cotisationRetraite": 2332.08,
+   "cotisationPrevoyance": 116.24,
+   "total": 2448.32,
+   "trimestres": 4,
+   "seuil4Trimestres": 24115,
+   "indemniteJournaliere": 11.92,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Retraite de base",
+     "montant": 1603.31
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 728.77
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 116.24
+    },
+    {
+     "label": "Maladie, CSG-CRDS et autres",
+     "montant": 1241.69
+    }
+   ],
+   "message": "Votre chiffre d'affaires valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 30000,
+    "activiteMicro": "services_bic"
+   }
+  ],
+  "result": {
+   "totalCotisations": 6360,
+   "cotisationRetraiteBase": 2763.42,
+   "cotisationRetraiteComplementaire": 1256.1,
+   "cotisationRetraite": 4019.52,
+   "cotisationPrevoyance": 200.34,
+   "total": 4219.86,
+   "trimestres": 4,
+   "seuil4Trimestres": 13992,
+   "indemniteJournaliere": 20.55,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Retraite de base",
+     "montant": 2763.42
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 1256.1
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 200.34
+    },
+    {
+     "label": "Maladie, CSG-CRDS et autres",
+     "montant": 2140.14
+    }
+   ],
+   "message": "Votre chiffre d'affaires valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 30000,
+    "activiteMicro": "services_bnc"
+   }
+  ],
+  "result": {
+   "totalCotisations": 7680,
+   "cotisationRetraiteBase": 0,
+   "cotisationRetraiteComplementaire": 0,
+   "cotisationRetraite": 0,
+   "cotisationPrevoyance": 0,
+   "total": 0,
+   "trimestres": 4,
+   "seuil4Trimestres": 10850,
+   "indemniteJournaliere": 27.12,
+   "repartitionConnue": false,
+   "lignes": [
+    {
+     "label": "Cotisations sociales (taux global)",
+     "montant": 7680
+    }
+   ],
+   "message": "Votre chiffre d'affaires valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 30000,
+    "activiteMicro": "liberale_cipav"
+   }
+  ],
+  "result": {
+   "totalCotisations": 6960,
+   "cotisationRetraiteBase": 0,
+   "cotisationRetraiteComplementaire": 0,
+   "cotisationRetraite": 0,
+   "cotisationPrevoyance": 0,
+   "total": 0,
+   "trimestres": 4,
+   "seuil4Trimestres": 11168,
+   "indemniteJournaliere": 27.12,
+   "repartitionConnue": false,
+   "lignes": [
+    {
+     "label": "Cotisations sociales (taux global)",
+     "montant": 6960
+    }
+   ],
+   "message": "Votre chiffre d'affaires valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 70000,
+    "activiteMicro": "vente"
+   }
+  ],
+  "result": {
+   "totalCotisations": 8610,
+   "cotisationRetraiteBase": 3741.05,
+   "cotisationRetraiteComplementaire": 1700.48,
+   "cotisationRetraite": 5441.52,
+   "cotisationPrevoyance": 271.21,
+   "total": 5712.74,
+   "trimestres": 4,
+   "seuil4Trimestres": 24115,
+   "indemniteJournaliere": 27.81,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Retraite de base",
+     "montant": 3741.05
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 1700.48
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 271.21
+    },
+    {
+     "label": "Maladie, CSG-CRDS et autres",
+     "montant": 2897.26
+    }
+   ],
+   "message": "Votre chiffre d'affaires valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 70000,
+    "activiteMicro": "services_bic"
+   }
+  ],
+  "result": {
+   "totalCotisations": 14840,
+   "cotisationRetraiteBase": 6447.98,
+   "cotisationRetraiteComplementaire": 2930.9,
+   "cotisationRetraite": 9378.88,
+   "cotisationPrevoyance": 467.46,
+   "total": 9846.34,
+   "trimestres": 4,
+   "seuil4Trimestres": 13992,
+   "indemniteJournaliere": 47.95,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Retraite de base",
+     "montant": 6447.98
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 2930.9
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 467.46
+    },
+    {
+     "label": "Maladie, CSG-CRDS et autres",
+     "montant": 4993.66
+    }
+   ],
+   "message": "Votre chiffre d'affaires valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 70000,
+    "activiteMicro": "services_bnc"
+   }
+  ],
+  "result": {
+   "totalCotisations": 17920,
+   "cotisationRetraiteBase": 0,
+   "cotisationRetraiteComplementaire": 0,
+   "cotisationRetraite": 0,
+   "cotisationPrevoyance": 0,
+   "total": 0,
+   "trimestres": 4,
+   "seuil4Trimestres": 10850,
+   "indemniteJournaliere": 63.29,
+   "repartitionConnue": false,
+   "lignes": [
+    {
+     "label": "Cotisations sociales (taux global)",
+     "montant": 17920
+    }
+   ],
+   "message": "Votre chiffre d'affaires valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "micro",
+    "revenusAnnuels": 70000,
+    "activiteMicro": "liberale_cipav"
+   }
+  ],
+  "result": {
+   "totalCotisations": 16240,
+   "cotisationRetraiteBase": 0,
+   "cotisationRetraiteComplementaire": 0,
+   "cotisationRetraite": 0,
+   "cotisationPrevoyance": 0,
+   "total": 0,
+   "trimestres": 4,
+   "seuil4Trimestres": 11168,
+   "indemniteJournaliere": 63.29,
+   "repartitionConnue": false,
+   "lignes": [
+    {
+     "label": "Cotisations sociales (taux global)",
+     "montant": 16240
+    }
+   ],
+   "message": "Votre chiffre d'affaires valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 5000,
+    "profession": "artisan"
+   }
+  ],
+  "result": {
+   "totalCotisations": 1959.17,
+   "cotisationRetraiteBase": 993.23,
+   "cotisationRetraiteComplementaire": 299.7,
+   "cotisationRetraite": 1292.93,
+   "cotisationPrevoyance": 167.97,
+   "total": 1460.9,
+   "trimestres": 3,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 0,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Indemnités journalières",
+     "montant": 96.12
+    },
+    {
+     "label": "Retraite de base",
+     "montant": 993.23
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 299.7
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 71.85
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 358.9
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 139.37
+    }
+   ],
+   "message": "Les cotisations minimales valident 3 trimestre(s) ; il faut environ 9 746 € de revenu annuel pour en valider 4."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 5000,
+    "profession": "commercant"
+   }
+  ],
+  "result": {
+   "totalCotisations": 1939.95,
+   "cotisationRetraiteBase": 993.23,
+   "cotisationRetraiteComplementaire": 299.7,
+   "cotisationRetraite": 1292.93,
+   "cotisationPrevoyance": 167.97,
+   "total": 1460.9,
+   "trimestres": 3,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 0,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Indemnités journalières",
+     "montant": 96.12
+    },
+    {
+     "label": "Retraite de base",
+     "montant": 993.23
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 299.7
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 71.85
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 358.9
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15
+    }
+   ],
+   "message": "Les cotisations minimales valident 3 trimestre(s) ; il faut environ 9 746 € de revenu annuel pour en valider 4."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 5000,
+    "profession": "liberal"
+   }
+  ],
+  "result": {
+   "totalCotisations": 1939.95,
+   "cotisationRetraiteBase": 993.23,
+   "cotisationRetraiteComplementaire": 299.7,
+   "cotisationRetraite": 1292.93,
+   "cotisationPrevoyance": 167.97,
+   "total": 1460.9,
+   "trimestres": 3,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 0,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Indemnités journalières",
+     "montant": 96.12
+    },
+    {
+     "label": "Retraite de base",
+     "montant": 993.23
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 299.7
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 71.85
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 358.9
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15
+    }
+   ],
+   "message": "Les cotisations minimales valident 3 trimestre(s) ; il faut environ 9 746 € de revenu annuel pour en valider 4."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 5000,
+    "profession": "liberal-cipav"
+   }
+  ],
+  "result": {
+   "totalCotisations": 1360.43,
+   "cotisationRetraiteBase": 472.21,
+   "cotisationRetraiteComplementaire": 333,
+   "cotisationRetraite": 805.21,
+   "cotisationPrevoyance": 76.17,
+   "total": 881.38,
+   "trimestres": 3,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 0,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Indemnités journalières",
+     "montant": 57.67
+    },
+    {
+     "label": "Retraite de base (CNAVPL)",
+     "montant": 472.21
+    },
+    {
+     "label": "Retraite complémentaire (Cipav)",
+     "montant": 333
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 18.5
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 358.9
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15
+    }
+   ],
+   "message": "Les cotisations minimales valident 3 trimestre(s) ; il faut environ 9 746 € de revenu annuel pour en valider 4."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 30000,
+    "profession": "artisan"
+   }
+  ],
+  "result": {
+   "totalCotisations": 9122.39,
+   "cotisationRetraiteBase": 4126.98,
+   "cotisationRetraiteComplementaire": 1798.2,
+   "cotisationRetraite": 5925.18,
+   "cotisationPrevoyance": 399.6,
+   "total": 6324.78,
+   "trimestres": 4,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 30.41,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Maladie-maternité",
+     "montant": 504.84
+    },
+    {
+     "label": "Indemnités journalières",
+     "montant": 111
+    },
+    {
+     "label": "Retraite de base",
+     "montant": 4126.98
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 1798.2
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 288.6
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 2153.4
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 139.37
+    }
+   ],
+   "message": "Votre revenu valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 30000,
+    "profession": "commercant"
+   }
+  ],
+  "result": {
+   "totalCotisations": 9103.17,
+   "cotisationRetraiteBase": 4126.98,
+   "cotisationRetraiteComplementaire": 1798.2,
+   "cotisationRetraite": 5925.18,
+   "cotisationPrevoyance": 399.6,
+   "total": 6324.78,
+   "trimestres": 4,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 30.41,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Maladie-maternité",
+     "montant": 504.84
+    },
+    {
+     "label": "Indemnités journalières",
+     "montant": 111
+    },
+    {
+     "label": "Retraite de base",
+     "montant": 4126.98
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 1798.2
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 288.6
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 2153.4
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15
+    }
+   ],
+   "message": "Votre revenu valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 30000,
+    "profession": "liberal"
+   }
+  ],
+  "result": {
+   "totalCotisations": 9103.17,
+   "cotisationRetraiteBase": 4126.98,
+   "cotisationRetraiteComplementaire": 1798.2,
+   "cotisationRetraite": 5925.18,
+   "cotisationPrevoyance": 399.6,
+   "total": 6324.78,
+   "trimestres": 4,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 30.41,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Maladie-maternité",
+     "montant": 504.84
+    },
+    {
+     "label": "Indemnités journalières",
+     "montant": 111
+    },
+    {
+     "label": "Retraite de base",
+     "montant": 4126.98
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 1798.2
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 288.6
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 2153.4
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15
+    }
+   ],
+   "message": "Votre revenu valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 30000,
+    "profession": "liberal-cipav"
+   }
+  ],
+  "result": {
+   "totalCotisations": 6892.05,
+   "cotisationRetraiteBase": 1938.06,
+   "cotisationRetraiteComplementaire": 1998,
+   "cotisationRetraite": 3936.06,
+   "cotisationPrevoyance": 177.6,
+   "total": 4113.66,
+   "trimestres": 4,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 30.41,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Maladie-maternité",
+     "montant": 504.84
+    },
+    {
+     "label": "Indemnités journalières",
+     "montant": 66.6
+    },
+    {
+     "label": "Retraite de base (CNAVPL)",
+     "montant": 1938.06
+    },
+    {
+     "label": "Retraite complémentaire (Cipav)",
+     "montant": 1998
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 111
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 2153.4
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15
+    }
+   ],
+   "message": "Votre revenu valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 80000,
+    "profession": "artisan"
+   }
+  ],
+  "result": {
+   "totalCotisations": 25481.97,
+   "cotisationRetraiteBase": 9014.56,
+   "cotisationRetraiteComplementaire": 4906.6,
+   "cotisationRetraite": 13921.16,
+   "cotisationPrevoyance": 920.78,
+   "total": 14841.94,
+   "trimestres": 4,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 65.84,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Maladie-maternité",
+     "montant": 3952.03
+    },
+    {
+     "label": "Indemnités journalières",
+     "montant": 296
+    },
+    {
+     "label": "Retraite de base",
+     "montant": 9014.56
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 4906.6
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 624.78
+    },
+    {
+     "label": "Allocations familiales",
+     "montant": 806.23
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 5742.4
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 139.37
+    }
+   ],
+   "message": "Votre revenu valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 80000,
+    "profession": "commercant"
+   }
+  ],
+  "result": {
+   "totalCotisations": 25462.75,
+   "cotisationRetraiteBase": 9014.56,
+   "cotisationRetraiteComplementaire": 4906.6,
+   "cotisationRetraite": 13921.16,
+   "cotisationPrevoyance": 920.78,
+   "total": 14841.94,
+   "trimestres": 4,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 65.84,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Maladie-maternité",
+     "montant": 3952.03
+    },
+    {
+     "label": "Indemnités journalières",
+     "montant": 296
+    },
+    {
+     "label": "Retraite de base",
+     "montant": 9014.56
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 4906.6
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 624.78
+    },
+    {
+     "label": "Allocations familiales",
+     "montant": 806.23
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 5742.4
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15
+    }
+   ],
+   "message": "Votre revenu valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 80000,
+    "profession": "liberal"
+   }
+  ],
+  "result": {
+   "totalCotisations": 25462.75,
+   "cotisationRetraiteBase": 9014.56,
+   "cotisationRetraiteComplementaire": 4906.6,
+   "cotisationRetraite": 13921.16,
+   "cotisationPrevoyance": 920.78,
+   "total": 14841.94,
+   "trimestres": 4,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 81.1,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Maladie-maternité",
+     "montant": 3952.03
+    },
+    {
+     "label": "Indemnités journalières",
+     "montant": 296
+    },
+    {
+     "label": "Retraite de base",
+     "montant": 9014.56
+    },
+    {
+     "label": "Retraite complémentaire",
+     "montant": 4906.6
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 624.78
+    },
+    {
+     "label": "Allocations familiales",
+     "montant": 806.23
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 5742.4
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15
+    }
+   ],
+   "message": "Votre revenu valide 4 trimestres de retraite de base."
+  }
+ },
+ {
+  "args": [
+   {
+    "regime": "reel",
+    "revenusAnnuels": 80000,
+    "profession": "liberal-cipav"
+   }
+  ],
+  "result": {
+   "totalCotisations": 22274.57,
+   "cotisationRetraiteBase": 4403.96,
+   "cotisationRetraiteComplementaire": 6776.2,
+   "cotisationRetraite": 11180.16,
+   "cotisationPrevoyance": 473.6,
+   "total": 11653.76,
+   "trimestres": 4,
+   "seuil4Trimestres": 9746,
+   "indemniteJournaliere": 81.1,
+   "repartitionConnue": true,
+   "lignes": [
+    {
+     "label": "Maladie-maternité",
+     "montant": 3952.03
+    },
+    {
+     "label": "Indemnités journalières",
+     "montant": 177.6
+    },
+    {
+     "label": "Retraite de base (CNAVPL)",
+     "montant": 4403.96
+    },
+    {
+     "label": "Retraite complémentaire (Cipav)",
+     "montant": 6776.2
+    },
+    {
+     "label": "Invalidité-décès",
+     "montant": 296
+    },
+    {
+     "label": "Allocations familiales",
+     "montant": 806.23
+    },
+    {
+     "label": "CSG-CRDS",
+     "montant": 5742.4
+    },
+    {
+     "label": "Formation professionnelle (CFP)",
+     "montant": 120.15
+    }
+   ],
+   "message": "Votre revenu valide 4 trimestres de retraite de base."
+  }
+ }
+]
