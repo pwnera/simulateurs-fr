@@ -1,7 +1,11 @@
 {
   "name": "calculsalairebrutnet",
-  "owner": { "name": "calculsalairebrutnet.fr" },
-  "metadata": { "description": "Les simulateurs de calculsalairebrutnet.fr pour Claude Code." },
+  "owner": {
+    "name": "calculsalairebrutnet.fr"
+  },
+  "metadata": {
+    "description": "Les simulateurs de calculsalairebrutnet.fr pour Claude Code."
+  },
   "plugins": [
     {
       "name": "simulateurs-fr",

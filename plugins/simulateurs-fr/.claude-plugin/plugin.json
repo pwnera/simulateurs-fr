@@ -2,9 +2,20 @@
   "name": "simulateurs-fr",
   "version": "1.0.0",
   "description": "Simulateurs français de salaire, d'indemnités, d'aides et de revenus freelance (barèmes 2026) de calculsalairebrutnet.fr : serveur MCP et skill.",
-  "author": { "name": "calculsalairebrutnet.fr", "url": "https://www.calculsalairebrutnet.fr" },
+  "author": {
+    "name": "calculsalairebrutnet.fr",
+    "url": "https://www.calculsalairebrutnet.fr"
+  },
   "homepage": "https://www.calculsalairebrutnet.fr/integrer/ia",
   "repository": "https://github.com/pwnera/simulateurs-fr",
   "license": "MIT",
-  "keywords": ["salaire", "brut", "net", "chomage", "freelance", "france", "mcp"]
+  "keywords": [
+    "salaire",
+    "brut",
+    "net",
+    "chomage",
+    "freelance",
+    "france",
+    "mcp"
+  ]
 }

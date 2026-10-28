@@ -2,16 +2,40 @@
   "name": "@calculsalairebrutnet/core",
   "version": "1.0.0",
   "description": "Moteur de calcul open source des simulateurs de calculsalairebrutnet.fr : salaire brut net, cotisations, impôt, chômage, APL, freelance, auto-entrepreneur, portage. Barèmes 2026.",
-  "keywords": ["salaire", "brut", "net", "cotisations", "urssaf", "impot", "freelance", "auto-entrepreneur", "france", "paie"],
+  "keywords": [
+    "salaire",
+    "brut",
+    "net",
+    "cotisations",
+    "urssaf",
+    "impot",
+    "freelance",
+    "auto-entrepreneur",
+    "france",
+    "paie"
+  ],
   "homepage": "https://www.calculsalairebrutnet.fr",
-  "repository": { "type": "git", "url": "git+https://github.com/pwnera/simulateurs-fr.git", "directory": "packages/core" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwnera/simulateurs-fr.git",
+    "directory": "packages/core"
+  },
   "bugs": "https://github.com/pwnera/simulateurs-fr/issues",
   "license": "MIT",
   "type": "module",
-  "exports": { ".": { "types": "./dist/index.d.ts", "default": "./dist/index.js" } },
-  "files": ["dist"],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
   "sideEffects": false,
-  "engines": { "node": ">=18" },
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
     "prepublishOnly": "npm run build"
