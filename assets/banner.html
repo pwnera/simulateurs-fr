@@ -1,0 +1,99 @@
+<!doctype html>
+<!-- Source de assets/banner.png (1280x640, aussi l'aperçu social du dépôt). Même fond que le héros de
+     calculsalairebrutnet.fr/integrer/ia (components/home/HeroBackdrop.tsx, teinte verte), figé.
+     Régénérer : voir le commentaire en bas du fichier. -->
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600&display=block" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 1280px; height: 640px; overflow: hidden; background: #0a3b29; }
+  body { position: relative; font-family: "Public Sans", system-ui, sans-serif; color: #fff; -webkit-font-smoothing: antialiased; }
+  canvas { position: absolute; inset: 0; width: 1280px; height: 640px; }
+  .wrap { position: absolute; inset: 0; display: grid; grid-template-columns: 1fr 440px; gap: 48px; align-items: center; padding: 0 72px; }
+  .logo { position: absolute; top: 44px; left: 72px; font: 600 26px "Space Grotesk", sans-serif; letter-spacing: -0.02em; display: flex; align-items: baseline; }
+  .pills { display: flex; margin-left: 0.08em; line-height: 1; }
+  .pills span { padding: 0.06em 0.16em; }
+  .brut { background: #172F6B; border-radius: 0.18em 0 0 0.18em; }
+  .net { background: #157d57; border-radius: 0 0.18em 0.18em 0; }
+  .fr { margin-left: 0.06em; font-weight: 500; color: #8adbc1; }
+  .eyebrow { font-size: 15px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #8adbc1; }
+  h1 { margin-top: 14px; font-size: 52px; line-height: 1.08; font-weight: 800; letter-spacing: -0.025em; }
+  .lead { margin-top: 20px; font-size: 22px; line-height: 1.45; color: #d4f3e8; max-width: 600px; }
+  .chips { margin-top: 26px; display: flex; flex-wrap: wrap; gap: 8px; }
+  .chips span { border-radius: 999px; padding: 6px 13px; font-size: 14px; font-weight: 600; background: rgba(255,255,255,.1); box-shadow: inset 0 0 0 1px rgba(255,255,255,.25); }
+  .cta { margin-top: 30px; display: inline-flex; align-items: center; gap: 10px; border-radius: 12px; background: #fff; color: #105c40; padding: 13px 20px; font-size: 19px; font-weight: 700; box-shadow: 0 10px 30px rgba(0,0,0,.25); }
+  .card { border-radius: 20px; background: #fff; color: #171717; padding: 26px; box-shadow: 0 30px 70px rgba(0,0,0,.4); }
+  .ask { margin-left: auto; max-width: 86%; border-radius: 18px 18px 6px 18px; background: #105c40; color: #fff; padding: 13px 17px; font-size: 17px; line-height: 1.4; }
+  .reply { margin-top: 22px; display: flex; gap: 14px; }
+  .avatar { flex: none; width: 40px; height: 40px; border-radius: 999px; display: grid; place-items: center; background: linear-gradient(135deg, #5ccda9, #157d57 55%, #1E3C86); box-shadow: 0 6px 14px rgba(21,125,87,.35); }
+  .tool { display: inline-block; border-radius: 7px; background: #f4f4f5; padding: 4px 9px; font: 13px ui-monospace, Menlo, monospace; color: #404040; }
+  .answer { margin-top: 12px; font-size: 18px; line-height: 1.45; }
+  .answer strong { color: #105c40; }
+  .src { margin-top: 10px; font-size: 14px; color: #525252; }
+  .src u { color: #105c40; text-underline-offset: 2px; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1280" height="640"></canvas>
+<div class="logo">calculsalaire<span class="pills"><span class="brut">brut</span><span class="net">net</span></span><span class="fr">.fr</span></div>
+<div class="wrap">
+  <div>
+    <p class="eyebrow">Open source · Licence MIT</p>
+    <h1>Nos simulateurs dans<br>votre code et votre IA</h1>
+    <p class="lead">Salaire brut et net, chômage, APL, indemnités, freelance : le moteur de calcul du site, barèmes 2026.</p>
+    <div class="chips"><span>TypeScript</span><span>Python</span><span>Serveur MCP</span><span>Claude</span><span>ChatGPT</span><span>Cursor</span></div>
+    <div class="cta">calculsalairebrutnet.fr/integrer/ia <span aria-hidden="true">→</span></div>
+  </div>
+  <div class="card">
+    <p class="ask">Je suis cadre, 3 000 € brut par mois. Combien je touche en net ?</p>
+    <div class="reply">
+      <span class="avatar"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"><path d="M10 3c.6 3.6 2.4 5.4 6 6-3.6.6-5.4 2.4-6 6-.6-3.6-2.4-5.4-6-6 3.6-.6 5.4-2.4 6-6z"/><path d="M18 14c.3 1.8 1.2 2.7 3 3-1.8.3-2.7 1.2-3 3-.3-1.8-1.2-2.7-3-3 1.8-.3 2.7-1.2 3-3z"/></svg></span>
+      <div>
+        <span class="tool">salaire_brut_en_net</span>
+        <p class="answer">Environ <strong>2 369,71 €</strong> net par mois avant impôt, soit 28 437 € par an.</p>
+        <p class="src">Barèmes 2026. Source : <u>calculsalairebrutnet.fr</u></p>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+// Le shader STAGE de HeroBackdrop.tsx, sans le flowmap de la souris, teinte "accent".
+const gl = document.getElementById("c").getContext("webgl2");
+const sh = (t, s) => { const x = gl.createShader(t); gl.shaderSource(x, s); gl.compileShader(x); return x; };
+const p = gl.createProgram();
+gl.attachShader(p, sh(gl.VERTEX_SHADER, `#version 300 es
+layout(location = 0) in vec2 v; out vec2 uv; void main() { uv = v * .5 + .5; gl_Position = vec4(v, 0., 1.); }`));
+gl.attachShader(p, sh(gl.FRAGMENT_SHADER, `#version 300 es
+precision highp float;
+uniform vec2 R; uniform float T; uniform vec3 A, B, L, N;
+in vec2 uv; out vec4 o;
+float h(vec2 p) { return fract(sin(dot(p, vec2(127.1, 311.7))) * 43758.5453); }
+float n(vec2 p) { vec2 i = floor(p), f = fract(p), u = f * f * (3. - 2. * f);
+  return mix(mix(h(i), h(i + vec2(1., 0.)), u.x), mix(h(i + vec2(0., 1.)), h(i + vec2(1., 1.)), u.x), u.y); }
+float fbm(vec2 p) { float s = 0., a = .5; for (int i = 0; i < 4; i++) { s += a * n(p); p = p * 2.03 + 17.; a *= .5; } return s; }
+void main() {
+  vec2 p = vec2(uv.x, 1. - uv.y) * R, q = p / R;
+  vec3 base = mix(A, B, clamp(q.x * .45 + q.y * .55, 0., 1.));
+  float k = fbm(p / N.x + N.yz + vec2(T * .012, T * .008)) * 16.;
+  float f = fract(k), d = min(f, 1. - f) / fwidth(k);
+  float line = 1. - smoothstep(.6, 1.8, d);
+  float major = 1. - step(.5, mod(floor(k + .5), 5.));
+  o = vec4(mix(base, L, line * mix(.12, .24, major)), 1.);
+}`));
+gl.linkProgram(p); gl.useProgram(p);
+gl.bindBuffer(gl.ARRAY_BUFFER, gl.createBuffer());
+gl.bufferData(gl.ARRAY_BUFFER, new Float32Array([-1, -1, 3, -1, -1, 3]), gl.STATIC_DRAW);
+gl.enableVertexAttribArray(0); gl.vertexAttribPointer(0, 2, gl.FLOAT, false, 0, 0);
+const u = (k, ...v) => gl[`uniform${v.length}f`](gl.getUniformLocation(p, k), ...v);
+u("R", 1280, 640); u("T", 30);
+u("A", 16 / 255, 92 / 255, 64 / 255); u("B", 8 / 255, 45 / 255, 31 / 255); u("L", 0.74, 0.94, 0.86); u("N", 300, 23.7, -8.1);
+gl.viewport(0, 0, 1280, 640); gl.drawArrays(gl.TRIANGLES, 0, 3);
+</script>
+<!-- Rendu (Chrome sans interface : la fenêtre fait 88 px de plus que la page, d'où 728 puis le recadrage) :
+     chrome --headless=new --use-angle=swiftshader --enable-unsafe-swiftshader --hide-scrollbars --window-size=1280,728
+       --virtual-time-budget=5000 --screenshot=assets/banner.png assets/banner.html
+     sips --cropToHeightWidth 640 1280 --cropOffset 0 0 assets/banner.png -->
+</body>
+</html>

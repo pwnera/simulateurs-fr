@@ -1,3 +1,5 @@
+<a href="https://www.calculsalairebrutnet.fr/integrer/ia"><img src="assets/banner.png" width="100%" alt="Simulateurs FR : les simulateurs de calculsalairebrutnet.fr dans votre code et votre IA. TypeScript, Python, serveur MCP pour Claude, ChatGPT et Cursor."></a>
+
 # Simulateurs FR
 
 **Le moteur de calcul de [calculsalairebrutnet.fr](https://www.calculsalairebrutnet.fr), en open source.** Salaire brut et net, cotisations, impôt sur le revenu, indemnités de licenciement et de rupture conventionnelle, chômage (ARE), APL, prime d'activité, congés payés, préavis, et revenus des freelances (TJM, auto-entrepreneur, portage salarial, comparatif des statuts). Barèmes 2026.
@@ -38,6 +40,10 @@ codex mcp add simulateurs-fr --url https://www.calculsalairebrutnet.fr/mcp
 ```
 
 Le serveur ne garde aucun montant : il journalise seulement le nom de l'outil appelé.
+
+## Sur votre site
+
+Pas besoin de code : le simulateur brut / net s'intègre en collant un extrait HTML, gratuit et toujours à jour des barèmes. Code à copier et aperçu : [calculsalairebrutnet.fr/integrer](https://www.calculsalairebrutnet.fr/integrer).
 
 ## TypeScript
 
