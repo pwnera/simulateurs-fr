@@ -4,6 +4,8 @@
   "description": "Simulateurs français de salaire, d'indemnités, d'aides et de revenus freelance (barèmes 2026) de calculsalairebrutnet.fr.",
   "contextFileName": "plugins/simulateurs-fr/skills/simulateurs-fr/SKILL.md",
   "mcpServers": {
-    "simulateurs-fr": { "httpUrl": "https://www.calculsalairebrutnet.fr/mcp" }
+    "simulateurs-fr": {
+      "httpUrl": "https://www.calculsalairebrutnet.fr/mcp"
+    }
   }
 }
