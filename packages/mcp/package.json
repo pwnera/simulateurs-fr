@@ -1,7 +1,7 @@
 {
   "name": "@calculsalairebrutnet/mcp",
   "version": "1.0.0",
-  "description": "Serveur MCP sans état des simulateurs de calculsalairebrutnet.fr (salaire brut net, chômage, APL, freelance...). Fonctionne sur Cloudflare Workers, Deno, Bun et Node 18+.",
+  "description": "Serveur MCP des simulateurs de calculsalairebrutnet.fr (salaire brut net, chômage, APL, freelance...) : en HTTP sans état (Cloudflare Workers, Deno, Bun, Node 18+) ou en local via stdio, hors ligne.",
   "keywords": [
     "mcp",
     "model-context-protocol",
@@ -26,6 +26,9 @@
       "default": "./dist/index.js"
     }
   },
+  "bin": {
+    "calculsalairebrutnet-mcp": "./dist/cli.js"
+  },
   "files": [
     "dist"
   ],
@@ -44,5 +47,6 @@
   },
   "devDependencies": {
     "ts-json-schema-generator": "^2.4.0"
-  }
+  },
+  "mcpName": "fr.calculsalairebrutnet/simulateurs"
 }

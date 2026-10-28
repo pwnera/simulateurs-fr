@@ -1,13 +1,16 @@
 {
   "name": "simulateurs-fr",
   "private": true,
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "build": "npm run build --workspaces",
     "test": "vitest run",
     "typecheck": "tsc -p packages/core --noEmit && tsc -p packages/mcp --noEmit"
   },
   "devDependencies": {
+    "@types/node": "^22.20.5",
     "typescript": "^5.9.3",
     "vitest": "^4.0.18"
   }

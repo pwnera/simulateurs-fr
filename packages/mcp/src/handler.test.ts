@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { handleMcpRequest } from "./handler.js";
+import { handleMcpMessage, handleMcpRequest } from "./handler.js";
 
 const rpc = (body: unknown) =>
   handleMcpRequest(new Request("https://x/mcp", { method: "POST", body: JSON.stringify(body) })).then(async (r) => ({
@@ -62,5 +62,14 @@ describe("handleMcpRequest", () => {
     expect((await rpc({ jsonrpc: "2.0", id: 7, method: "resources/list" })).body.error.code).toBe(-32601);
     expect((await handleMcpRequest(new Request("https://x/mcp"))).status).toBe(405);
     expect((await handleMcpRequest(new Request("https://x/mcp", { method: "POST", body: "{" }))).status).toBe(400);
+  });
+});
+
+describe("handleMcpMessage (stdio)", () => {
+  it("répond comme le transport HTTP, et rien aux notifications", () => {
+    const reply = handleMcpMessage({ jsonrpc: "2.0", id: 7, method: "tools/list" }) as { id: number; result: { tools: unknown[] } };
+    expect(reply.id).toBe(7);
+    expect(reply.result.tools).toHaveLength(21);
+    expect(handleMcpMessage({ jsonrpc: "2.0", method: "notifications/initialized" })).toBeNull();
   });
 });

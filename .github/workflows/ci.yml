@@ -21,6 +21,8 @@ jobs:
       - run: npm run build
       - run: npm run typecheck
       - run: npm test
+      - name: Serveur MCP en stdio
+        run: echo '{"jsonrpc":"2.0","id":1,"method":"tools/list"}' | node packages/mcp/dist/cli.js | grep -q salaire_brut_en_net
       - name: Fixtures à jour
         run: node packages/core/scripts/gen-fixtures.mjs && git diff --exit-code fixtures
       - name: Pas de tiret cadratin

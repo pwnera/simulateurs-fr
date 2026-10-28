@@ -16,7 +16,7 @@
 | Dossier | Quoi | Où |
 |---|---|---|
 | [`packages/core`](packages/core) | Le moteur TypeScript, sans dépendance, hors ligne | npm `@calculsalairebrutnet/core` |
-| [`packages/mcp`](packages/mcp) | Le serveur MCP sans état (Workers, Deno, Bun, Node 18+) | npm `@calculsalairebrutnet/mcp` |
+| [`packages/mcp`](packages/mcp) | Le serveur MCP : HTTP sans état (Workers, Deno, Bun, Node 18+) ou stdio en local | npm `@calculsalairebrutnet/mcp` |
 | [`python`](python) | Le même moteur en Python 3.9+, sans dépendance | PyPI `calculsalairebrutnet` |
 | [`plugins/simulateurs-fr`](plugins/simulateurs-fr) | Plugin Claude Code : serveur MCP et skill | `/plugin install` |
 | [`gemini-extension.json`](gemini-extension.json) | Extension Gemini CLI | `gemini extensions install` |
@@ -40,6 +40,8 @@ codex mcp add simulateurs-fr --url https://www.calculsalairebrutnet.fr/mcp
 ```
 
 Le serveur ne garde aucun montant : il journalise seulement le nom de l'outil appelé.
+
+Hors ligne, sur votre machine (Claude Desktop et clients MCP locaux) : `npx -y @calculsalairebrutnet/mcp`, en stdio. Les calculs restent sur votre poste.
 
 ## Sur votre site
 

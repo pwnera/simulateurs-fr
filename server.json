@@ -14,5 +14,15 @@
       "type": "streamable-http",
       "url": "https://www.calculsalairebrutnet.fr/mcp"
     }
+  ],
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@calculsalairebrutnet/mcp",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
   ]
 }

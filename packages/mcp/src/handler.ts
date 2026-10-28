@@ -94,6 +94,21 @@ function dispatch(msg: JsonRpcMessage, opts: McpOptions): { result?: unknown; er
 const json = (body: unknown, status = 200) =>
   new Response(JSON.stringify(body), { status, headers: { "Content-Type": "application/json", ...CORS } });
 
+export const PARSE_ERROR = { jsonrpc: "2.0", id: null, error: { code: -32700, message: "JSON invalide" } };
+
+/**
+ * Répond à un message JSON-RPC déjà décodé (ou à un lot), quel que soit le transport (HTTP, stdio).
+ * Renvoie null s'il n'y a rien à répondre (notifications et réponses seules).
+ */
+export function handleMcpMessage(body: unknown, opts: McpOptions = {}): unknown {
+  const messages = (Array.isArray(body) ? body : [body]) as JsonRpcMessage[];
+  const replies = messages
+    .filter((m) => m && typeof m === "object" && m.id !== undefined && m.id !== null && typeof m.method === "string")
+    .map((m) => ({ jsonrpc: "2.0", id: m.id, ...dispatch(m, opts) }));
+  if (replies.length === 0) return null;
+  return Array.isArray(body) ? replies : replies[0];
+}
+
 export async function handleMcpRequest(request: Request, opts: McpOptions = {}): Promise<Response> {
   if (request.method === "OPTIONS") return new Response(null, { status: 204, headers: CORS });
   if (request.method !== "POST") return new Response(null, { status: 405, headers: { Allow: "POST, OPTIONS", ...CORS } });
@@ -102,15 +117,8 @@ export async function handleMcpRequest(request: Request, opts: McpOptions = {}):
   try {
     body = await request.json();
   } catch {
-    return json({ jsonrpc: "2.0", id: null, error: { code: -32700, message: "JSON invalide" } }, 400);
+    return json(PARSE_ERROR, 400);
   }
-
-  const messages = (Array.isArray(body) ? body : [body]) as JsonRpcMessage[];
-  const replies = messages
-    .filter((m) => m && typeof m === "object" && m.id !== undefined && m.id !== null && typeof m.method === "string")
-    .map((m) => ({ jsonrpc: "2.0", id: m.id, ...dispatch(m, opts) }));
-
-  // Notifications et réponses seules : rien à renvoyer.
-  if (replies.length === 0) return new Response(null, { status: 202, headers: CORS });
-  return json(Array.isArray(body) ? replies : replies[0]);
+  const reply = handleMcpMessage(body, opts);
+  return reply === null ? new Response(null, { status: 202, headers: CORS }) : json(reply);
 }

@@ -4,7 +4,25 @@ Le serveur [MCP](https://modelcontextprotocol.io) des simulateurs de [calculsala
 
 **Rien à installer pour s'en servir** : la version hébergée est gratuite, sans inscription, à l'adresse `https://www.calculsalairebrutnet.fr/mcp` ([mode d'emploi par application](https://www.calculsalairebrutnet.fr/integrer/ia)).
 
-Ce paquet sert à l'héberger soi-même. Transport « Streamable HTTP » sans état : une fonction `Request` vers `Response`, sans session ni dépendance Node.
+Ce paquet sert à le lancer en local, hors ligne, ou à l'héberger soi-même.
+
+## En local, hors ligne (stdio)
+
+```sh
+npx -y @calculsalairebrutnet/mcp
+```
+
+Claude Desktop (`claude_desktop_config.json`) et les autres clients MCP locaux :
+
+```json
+{ "mcpServers": { "simulateurs-fr": { "command": "npx", "args": ["-y", "@calculsalairebrutnet/mcp"] } } }
+```
+
+Ou en conteneur, avec le [`Dockerfile`](https://github.com/pwnera/simulateurs-fr/blob/main/Dockerfile) du dépôt : `docker run -i --rm simulateurs-fr`.
+
+## L'héberger (HTTP)
+
+Transport « Streamable HTTP » sans état : une fonction `Request` vers `Response`, sans session ni dépendance Node.
 
 ```sh
 npm install @calculsalairebrutnet/mcp
