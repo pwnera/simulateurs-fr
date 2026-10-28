@@ -39,7 +39,7 @@ jobs:
       - run: npm run build
       - run: npm test
       - run: cp LICENSE packages/core/ && cp LICENSE packages/mcp/
-      - run: npm publish -w packages/core -w packages/mcp --access public
+      - run: npm publish -w packages/core -w packages/mcp --access public --provenance
         env:
           # Seulement pour la toute première publication, avant de déclarer le dépôt comme éditeur de confiance sur npmjs.com.
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
