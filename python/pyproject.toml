@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "calculsalairebrutnet"
-version = "1.0.0"
+version = "1.1.0"
 description = "Moteur de calcul open source des simulateurs de calculsalairebrutnet.fr : salaire brut net, cotisations, impôt, chômage, APL, freelance, auto-entrepreneur, portage. Barèmes 2026."
 readme = "README.md"
 license = "MIT"

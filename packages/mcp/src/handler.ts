@@ -7,7 +7,7 @@ import { Validator } from "@cfworker/json-schema";
 import { SCHEMAS } from "./schemas.generated.js";
 import { SITE_URL, TOOLS, type ToolName } from "./tools.js";
 
-export const SERVER_VERSION = "1.0.0"; // x-release-please-version
+export const SERVER_VERSION = "1.1.0"; // x-release-please-version
 const PROTOCOL_VERSIONS = ["2025-11-25", "2025-06-18", "2025-03-26", "2024-11-05"];
 
 const INSTRUCTIONS =
